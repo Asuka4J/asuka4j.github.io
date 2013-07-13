@@ -2,13 +2,229 @@
 <rss version="2.0">
 <channel>
         <title>Jiaqing.me</title>
-        <description>Jiaqing.me - Jiaqing Zheng</description>
+        <description>Jiaqing.me - Asuka4J</description>
         <link>http://jiaqing.me</link>
         <link>http://jiaqing.me</link>
-        <lastBuildDate>2013-07-13T11:27:09+08:00</lastBuildDate>
-        <pubDate>2013-07-13T11:27:09+08:00</pubDate>
+        <lastBuildDate>2013-07-13T22:19:48+08:00</lastBuildDate>
+        <pubDate>2013-07-13T22:19:48+08:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>tech treemap in java</title>
+                <description></description>
+                <link>http://jiaqing.me/2013/07/13/tech-treemap-in-java</link>
+                <guid>http://jiaqing.me/2013/07/13/tech-treemap-in-java</guid>
+                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>tech transaction 3</title>
+                <description></description>
+                <link>http://jiaqing.me/2013/07/13/tech-transaction-3</link>
+                <guid>http://jiaqing.me/2013/07/13/tech-transaction-3</guid>
+                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>tech transaction 2</title>
+                <description></description>
+                <link>http://jiaqing.me/2013/07/13/tech-transaction-2</link>
+                <guid>http://jiaqing.me/2013/07/13/tech-transaction-2</guid>
+                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>tech transaction</title>
+                <description></description>
+                <link>http://jiaqing.me/2013/07/13/tech-transaction</link>
+                <guid>http://jiaqing.me/2013/07/13/tech-transaction</guid>
+                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>tech rbt</title>
+                <description></description>
+                <link>http://jiaqing.me/2013/07/13/tech-rbt</link>
+                <guid>http://jiaqing.me/2013/07/13/tech-rbt</guid>
+                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>tech b+tree</title>
+                <description></description>
+                <link>http://jiaqing.me/2013/07/13/tech-btree</link>
+                <guid>http://jiaqing.me/2013/07/13/tech-btree</guid>
+                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>tech bst</title>
+                <description></description>
+                <link>http://jiaqing.me/2013/07/13/tech-bst</link>
+                <guid>http://jiaqing.me/2013/07/13/tech-bst</guid>
+                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>tech binarytree</title>
+                <description></description>
+                <link>http://jiaqing.me/2013/07/13/tech-binarytree</link>
+                <guid>http://jiaqing.me/2013/07/13/tech-binarytree</guid>
+                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>tech avl</title>
+                <description></description>
+                <link>http://jiaqing.me/2013/07/13/tech-avl</link>
+                <guid>http://jiaqing.me/2013/07/13/tech-avl</guid>
+                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>memory running</title>
+                <description></description>
+                <link>http://jiaqing.me/2013/07/13/memory-running</link>
+                <guid>http://jiaqing.me/2013/07/13/memory-running</guid>
+                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>memory google alipay</title>
+                <description></description>
+                <link>http://jiaqing.me/2013/07/13/memory-google-alipay</link>
+                <guid>http://jiaqing.me/2013/07/13/memory-google-alipay</guid>
+                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>memory goodbuy baidu</title>
+                <description></description>
+                <link>http://jiaqing.me/2013/07/13/memory-goodbuy-baidu</link>
+                <guid>http://jiaqing.me/2013/07/13/memory-goodbuy-baidu</guid>
+                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>memory acg 3</title>
+                <description></description>
+                <link>http://jiaqing.me/2013/07/13/memory-acg-3</link>
+                <guid>http://jiaqing.me/2013/07/13/memory-acg-3</guid>
+                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>memory acg 2</title>
+                <description></description>
+                <link>http://jiaqing.me/2013/07/13/memory-acg-2</link>
+                <guid>http://jiaqing.me/2013/07/13/memory-acg-2</guid>
+                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>memory acg</title>
+                <description></description>
+                <link>http://jiaqing.me/2013/07/13/memory-acg</link>
+                <guid>http://jiaqing.me/2013/07/13/memory-acg</guid>
+                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>Memory 512 Earthquake</title>
+                <description></description>
+                <link>http://jiaqing.me/2013/07/13/memory-512-earthquake</link>
+                <guid>http://jiaqing.me/2013/07/13/memory-512-earthquake</guid>
+                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>记忆：512实验室</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2013/07/13/memory-512</link>
+                <guid>http://jiaqing.me/life/2013/07/13/memory-512</guid>
+                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>hello octopress</title>
+                <description></description>
+                <link>http://jiaqing.me/2013/07/13/hello-octopress</link>
+                <guid>http://jiaqing.me/2013/07/13/hello-octopress</guid>
+                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>城市印象：三亚</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2013/05/27/impress-sanya</link>
+                <guid>http://jiaqing.me/life/2013/05/27/impress-sanya</guid>
+                <pubDate>2013-05-27T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>我的2012</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2013/01/01/summary-2012</link>
+                <guid>http://jiaqing.me/life/2013/01/01/summary-2012</guid>
+                <pubDate>2013-01-01T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>城市印象：潮州</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2012/10/09/impress-chaozhou</link>
+                <guid>http://jiaqing.me/life/2012/10/09/impress-chaozhou</guid>
+                <pubDate>2012-10-09T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>城市印象：常州</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2012/09/30/impress-changzhou</link>
+                <guid>http://jiaqing.me/life/2012/09/30/impress-changzhou</guid>
+                <pubDate>2012-09-30T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>城市印象：北京</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2012/09/01/impress-beijing</link>
+                <guid>http://jiaqing.me/life/2012/09/01/impress-beijing</guid>
+                <pubDate>2012-09-01T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>城市印象：北戴河</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2012/08/25/impress-beidaihe</link>
+                <guid>http://jiaqing.me/life/2012/08/25/impress-beidaihe</guid>
+                <pubDate>2012-08-25T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>城市印象：上海</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2012/06/06/impress-shanghai</link>
+                <guid>http://jiaqing.me/life/2012/06/06/impress-shanghai</guid>
+                <pubDate>2012-06-06T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>城市印象：丽江</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2012/05/20/impress-lijiang</link>
+                <guid>http://jiaqing.me/life/2012/05/20/impress-lijiang</guid>
+                <pubDate>2012-05-20T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>我的2011</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2012/01/01/summary-2011</link>
+                <guid>http://jiaqing.me/life/2012/01/01/summary-2011</guid>
+                <pubDate>2012-01-01T00:00:00+08:00</pubDate>
+        </item>
 
         <item>
                 <title>Jekyll Introduction</title>
@@ -333,6 +549,126 @@ tags : [how-to, jekyll]
                 <link>http://jiaqing.me/lessons/2011/12/29/jekyll-introduction</link>
                 <guid>http://jiaqing.me/lessons/2011/12/29/jekyll-introduction</guid>
                 <pubDate>2011-12-29T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>城市印象：黄山</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2011/10/06/impress-huangshan</link>
+                <guid>http://jiaqing.me/life/2011/10/06/impress-huangshan</guid>
+                <pubDate>2011-10-06T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>城市印象：南京</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2011/05/15/impress-nanjing</link>
+                <guid>http://jiaqing.me/life/2011/05/15/impress-nanjing</guid>
+                <pubDate>2011-05-15T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>城市印象：苏州</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2011/04/11/impress-suzhou</link>
+                <guid>http://jiaqing.me/life/2011/04/11/impress-suzhou</guid>
+                <pubDate>2011-04-11T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>城市印象：杭州</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2011/01/12/impress-hangzhou</link>
+                <guid>http://jiaqing.me/life/2011/01/12/impress-hangzhou</guid>
+                <pubDate>2011-01-12T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>我的2010</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2011/01/01/summary-2010</link>
+                <guid>http://jiaqing.me/life/2011/01/01/summary-2010</guid>
+                <pubDate>2011-01-01T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>城市印象：厦门</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2010/07/30/impress-xiamen</link>
+                <guid>http://jiaqing.me/life/2010/07/30/impress-xiamen</guid>
+                <pubDate>2010-07-30T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>城市印象：横店</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2010/04/29/impress-hengdian</link>
+                <guid>http://jiaqing.me/life/2010/04/29/impress-hengdian</guid>
+                <pubDate>2010-04-29T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>城市印象：信阳</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2010/02/10/impress-xinyang</link>
+                <guid>http://jiaqing.me/life/2010/02/10/impress-xinyang</guid>
+                <pubDate>2010-02-10T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>我的2009</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2010/01/01/summary-2009</link>
+                <guid>http://jiaqing.me/life/2010/01/01/summary-2009</guid>
+                <pubDate>2010-01-01T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>城市印象：深圳</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2009/10/10/impress-shenzheng</link>
+                <guid>http://jiaqing.me/life/2009/10/10/impress-shenzheng</guid>
+                <pubDate>2009-10-10T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>城市印象：广州</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2009/10/10/impress-guangzhou</link>
+                <guid>http://jiaqing.me/life/2009/10/10/impress-guangzhou</guid>
+                <pubDate>2009-10-10T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>城市印象：舟山</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2009/07/23/zhoushan</link>
+                <guid>http://jiaqing.me/life/2009/07/23/zhoushan</guid>
+                <pubDate>2009-07-23T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>我的2008</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2009/01/01/summary-2008</link>
+                <guid>http://jiaqing.me/life/2009/01/01/summary-2008</guid>
+                <pubDate>2009-01-01T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>城市印象：千岛湖</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2008/07/07/20-impress-qiandaohu</link>
+                <guid>http://jiaqing.me/life/2008/07/07/20-impress-qiandaohu</guid>
+                <pubDate>2008-07-07T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>城市印象：成都</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2008/07/01/impress-chengdu</link>
+                <guid>http://jiaqing.me/life/2008/07/01/impress-chengdu</guid>
+                <pubDate>2008-07-01T00:00:00+08:00</pubDate>
         </item>
 
 
