@@ -15,7 +15,7 @@
 <img id="jiaqinglogoline" src="http://pic.yupoo.com/asuka4j/D2EHePXh/medish.jpg"/>&nbsp;&nbsp;</br>
 <strong>Jiaqing's Foolish Thoughts&nbsp;&nbsp;</strong></br>
 Thought fragments about: life, programming,</br>
-working, reading,</br>
+workthinking, reading,</br>
 &amp;</br>
 hobbies</br>
  (&copy; 2013 http://jiaqing.me)&nbsp;</br>
