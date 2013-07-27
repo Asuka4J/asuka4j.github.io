@@ -3,6 +3,6 @@ layout: post
 title: "Goodbye Alipay"
 description: ""
 category: work
-tags: []
+tags: [总结]
 ---
 {% include JB/setup %}

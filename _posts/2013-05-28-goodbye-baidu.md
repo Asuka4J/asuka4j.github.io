@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Goodbye Biadu"
+title: "Goodbye Baidu"
 description: ""
 category: work
-tags: []
+tags: [总结]
 ---
 {% include JB/setup %}
