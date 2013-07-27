@@ -4,7 +4,7 @@
  <title>Jiaqing.me</title>
  <link href="http://jiaqing.me/" rel="self"/>
  <link href="http://jiaqing.me"/>
- <updated>2013-07-13T22:19:48+08:00</updated>
+ <updated>2013-07-27T16:02:16+08:00</updated>
  <id>http://jiaqing.me</id>
  <author>
    <name>Asuka4J</name>
@@ -85,70 +85,6 @@
  </entry>
  
  <entry>
-   <title>memory running</title>
-   <link href="http://jiaqing.me/2013/07/13/memory-running"/>
-   <updated>2013-07-13T00:00:00+08:00</updated>
-   <id>http://jiaqing.me/2013/07/13/memory-running</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>memory google alipay</title>
-   <link href="http://jiaqing.me/2013/07/13/memory-google-alipay"/>
-   <updated>2013-07-13T00:00:00+08:00</updated>
-   <id>http://jiaqing.me/2013/07/13/memory-google-alipay</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>memory goodbuy baidu</title>
-   <link href="http://jiaqing.me/2013/07/13/memory-goodbuy-baidu"/>
-   <updated>2013-07-13T00:00:00+08:00</updated>
-   <id>http://jiaqing.me/2013/07/13/memory-goodbuy-baidu</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>memory acg 3</title>
-   <link href="http://jiaqing.me/2013/07/13/memory-acg-3"/>
-   <updated>2013-07-13T00:00:00+08:00</updated>
-   <id>http://jiaqing.me/2013/07/13/memory-acg-3</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>memory acg 2</title>
-   <link href="http://jiaqing.me/2013/07/13/memory-acg-2"/>
-   <updated>2013-07-13T00:00:00+08:00</updated>
-   <id>http://jiaqing.me/2013/07/13/memory-acg-2</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>memory acg</title>
-   <link href="http://jiaqing.me/2013/07/13/memory-acg"/>
-   <updated>2013-07-13T00:00:00+08:00</updated>
-   <id>http://jiaqing.me/2013/07/13/memory-acg</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>Memory 512 Earthquake</title>
-   <link href="http://jiaqing.me/2013/07/13/memory-512-earthquake"/>
-   <updated>2013-07-13T00:00:00+08:00</updated>
-   <id>http://jiaqing.me/2013/07/13/memory-512-earthquake</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>记忆：512实验室</title>
-   <link href="http://jiaqing.me/life/2013/07/13/memory-512"/>
-   <updated>2013-07-13T00:00:00+08:00</updated>
-   <id>http://jiaqing.me/life/2013/07/13/memory-512</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
    <title>hello octopress</title>
    <link href="http://jiaqing.me/2013/07/13/hello-octopress"/>
    <updated>2013-07-13T00:00:00+08:00</updated>
@@ -157,10 +93,26 @@
  </entry>
  
  <entry>
+   <title>Goodbye Biadu</title>
+   <link href="http://jiaqing.me/work/2013/05/28/goodbye-baidu"/>
+   <updated>2013-05-28T00:00:00+08:00</updated>
+   <id>http://jiaqing.me/work/2013/05/28/goodbye-baidu</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
    <title>城市印象：三亚</title>
    <link href="http://jiaqing.me/life/2013/05/27/impress-sanya"/>
    <updated>2013-05-27T00:00:00+08:00</updated>
    <id>http://jiaqing.me/life/2013/05/27/impress-sanya</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Running</title>
+   <link href="http://jiaqing.me/life/2013/02/02/memory-running"/>
+   <updated>2013-02-02T00:00:00+08:00</updated>
+   <id>http://jiaqing.me/life/2013/02/02/memory-running</id>
    <content type="html"></content>
  </entry>
  
@@ -221,6 +173,30 @@
  </entry>
  
  <entry>
+   <title>记忆：ACG续二</title>
+   <link href="http://jiaqing.me/life/2012/02/04/memory-acg-3"/>
+   <updated>2012-02-04T00:00:00+08:00</updated>
+   <id>http://jiaqing.me/life/2012/02/04/memory-acg-3</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>记忆：ACG续</title>
+   <link href="http://jiaqing.me/life/2012/02/03/memory-acg-2"/>
+   <updated>2012-02-03T00:00:00+08:00</updated>
+   <id>http://jiaqing.me/life/2012/02/03/memory-acg-2</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>记忆：ACG</title>
+   <link href="http://jiaqing.me/life/2012/02/02/memory-acg"/>
+   <updated>2012-02-02T00:00:00+08:00</updated>
+   <id>http://jiaqing.me/life/2012/02/02/memory-acg</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
    <title>我的2011</title>
    <link href="http://jiaqing.me/life/2012/01/01/summary-2011"/>
    <updated>2012-01-01T00:00:00+08:00</updated>
@@ -230,9 +206,9 @@
  
  <entry>
    <title>Jekyll Introduction</title>
-   <link href="http://jiaqing.me/lessons/2011/12/29/jekyll-introduction"/>
+   <link href="http://jiaqing.me/2011/12/29/jekyll-introduction"/>
    <updated>2011-12-29T00:00:00+08:00</updated>
-   <id>http://jiaqing.me/lessons/2011/12/29/jekyll-introduction</id>
+   <id>http://jiaqing.me/2011/12/29/jekyll-introduction</id>
    <content type="html">&lt;p&gt;This Jekyll introduction will outline specifically what Jekyll is and why you would want to use it. Directly following the intro we&amp;#8217;ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
 
 &lt;h2 id='overview'&gt;Overview&lt;/h2&gt;
@@ -562,6 +538,14 @@ tags : [how-to, jekyll]
  </entry>
  
  <entry>
+   <title>Goodbye Alipay</title>
+   <link href="http://jiaqing.me/work/2011/09/17/goodbye-alipay"/>
+   <updated>2011-09-17T00:00:00+08:00</updated>
+   <id>http://jiaqing.me/work/2011/09/17/goodbye-alipay</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
    <title>城市印象：南京</title>
    <link href="http://jiaqing.me/life/2011/05/15/impress-nanjing"/>
    <updated>2011-05-15T00:00:00+08:00</updated>
@@ -659,9 +643,9 @@ tags : [how-to, jekyll]
  
  <entry>
    <title>城市印象：千岛湖</title>
-   <link href="http://jiaqing.me/life/2008/07/07/20-impress-qiandaohu"/>
+   <link href="http://jiaqing.me/life/2008/07/07/impress-qiandaohu"/>
    <updated>2008-07-07T00:00:00+08:00</updated>
-   <id>http://jiaqing.me/life/2008/07/07/20-impress-qiandaohu</id>
+   <id>http://jiaqing.me/life/2008/07/07/impress-qiandaohu</id>
    <content type="html"></content>
  </entry>
  
@@ -670,6 +654,22 @@ tags : [how-to, jekyll]
    <link href="http://jiaqing.me/life/2008/07/01/impress-chengdu"/>
    <updated>2008-07-01T00:00:00+08:00</updated>
    <id>http://jiaqing.me/life/2008/07/01/impress-chengdu</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Memory 512</title>
+   <link href="http://jiaqing.me/2008/06/22/memory-512"/>
+   <updated>2008-06-22T00:00:00+08:00</updated>
+   <id>http://jiaqing.me/2008/06/22/memory-512</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Memory 512 Earthquake</title>
+   <link href="http://jiaqing.me/2008/06/21/memory-512-earthquake"/>
+   <updated>2008-06-21T00:00:00+08:00</updated>
+   <id>http://jiaqing.me/2008/06/21/memory-512-earthquake</id>
    <content type="html"></content>
  </entry>
  

@@ -5,8 +5,8 @@
         <description>Jiaqing.me - Asuka4J</description>
         <link>http://jiaqing.me</link>
         <link>http://jiaqing.me</link>
-        <lastBuildDate>2013-07-13T22:19:48+08:00</lastBuildDate>
-        <pubDate>2013-07-13T22:19:48+08:00</pubDate>
+        <lastBuildDate>2013-07-27T16:02:16+08:00</lastBuildDate>
+        <pubDate>2013-07-27T16:02:16+08:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -83,70 +83,6 @@
         </item>
 
         <item>
-                <title>memory running</title>
-                <description></description>
-                <link>http://jiaqing.me/2013/07/13/memory-running</link>
-                <guid>http://jiaqing.me/2013/07/13/memory-running</guid>
-                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
-        </item>
-
-        <item>
-                <title>memory google alipay</title>
-                <description></description>
-                <link>http://jiaqing.me/2013/07/13/memory-google-alipay</link>
-                <guid>http://jiaqing.me/2013/07/13/memory-google-alipay</guid>
-                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
-        </item>
-
-        <item>
-                <title>memory goodbuy baidu</title>
-                <description></description>
-                <link>http://jiaqing.me/2013/07/13/memory-goodbuy-baidu</link>
-                <guid>http://jiaqing.me/2013/07/13/memory-goodbuy-baidu</guid>
-                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
-        </item>
-
-        <item>
-                <title>memory acg 3</title>
-                <description></description>
-                <link>http://jiaqing.me/2013/07/13/memory-acg-3</link>
-                <guid>http://jiaqing.me/2013/07/13/memory-acg-3</guid>
-                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
-        </item>
-
-        <item>
-                <title>memory acg 2</title>
-                <description></description>
-                <link>http://jiaqing.me/2013/07/13/memory-acg-2</link>
-                <guid>http://jiaqing.me/2013/07/13/memory-acg-2</guid>
-                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
-        </item>
-
-        <item>
-                <title>memory acg</title>
-                <description></description>
-                <link>http://jiaqing.me/2013/07/13/memory-acg</link>
-                <guid>http://jiaqing.me/2013/07/13/memory-acg</guid>
-                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
-        </item>
-
-        <item>
-                <title>Memory 512 Earthquake</title>
-                <description></description>
-                <link>http://jiaqing.me/2013/07/13/memory-512-earthquake</link>
-                <guid>http://jiaqing.me/2013/07/13/memory-512-earthquake</guid>
-                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
-        </item>
-
-        <item>
-                <title>记忆：512实验室</title>
-                <description></description>
-                <link>http://jiaqing.me/life/2013/07/13/memory-512</link>
-                <guid>http://jiaqing.me/life/2013/07/13/memory-512</guid>
-                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
-        </item>
-
-        <item>
                 <title>hello octopress</title>
                 <description></description>
                 <link>http://jiaqing.me/2013/07/13/hello-octopress</link>
@@ -155,11 +91,27 @@
         </item>
 
         <item>
+                <title>Goodbye Biadu</title>
+                <description></description>
+                <link>http://jiaqing.me/work/2013/05/28/goodbye-baidu</link>
+                <guid>http://jiaqing.me/work/2013/05/28/goodbye-baidu</guid>
+                <pubDate>2013-05-28T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
                 <title>城市印象：三亚</title>
                 <description></description>
                 <link>http://jiaqing.me/life/2013/05/27/impress-sanya</link>
                 <guid>http://jiaqing.me/life/2013/05/27/impress-sanya</guid>
                 <pubDate>2013-05-27T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>Running</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2013/02/02/memory-running</link>
+                <guid>http://jiaqing.me/life/2013/02/02/memory-running</guid>
+                <pubDate>2013-02-02T00:00:00+08:00</pubDate>
         </item>
 
         <item>
@@ -216,6 +168,30 @@
                 <link>http://jiaqing.me/life/2012/05/20/impress-lijiang</link>
                 <guid>http://jiaqing.me/life/2012/05/20/impress-lijiang</guid>
                 <pubDate>2012-05-20T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>记忆：ACG续二</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2012/02/04/memory-acg-3</link>
+                <guid>http://jiaqing.me/life/2012/02/04/memory-acg-3</guid>
+                <pubDate>2012-02-04T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>记忆：ACG续</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2012/02/03/memory-acg-2</link>
+                <guid>http://jiaqing.me/life/2012/02/03/memory-acg-2</guid>
+                <pubDate>2012-02-03T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>记忆：ACG</title>
+                <description></description>
+                <link>http://jiaqing.me/life/2012/02/02/memory-acg</link>
+                <guid>http://jiaqing.me/life/2012/02/02/memory-acg</guid>
+                <pubDate>2012-02-02T00:00:00+08:00</pubDate>
         </item>
 
         <item>
@@ -546,8 +522,8 @@ tags : [how-to, jekyll]
 &lt;h2 id='next_steps'&gt;Next Steps&lt;/h2&gt;
 
 &lt;p&gt;Please take a look at &lt;a href='' /&gt; or jump right into &lt;a href=''&gt;Usage&lt;/a&gt; if you&amp;#8217;d like.&lt;/p&gt;</description>
-                <link>http://jiaqing.me/lessons/2011/12/29/jekyll-introduction</link>
-                <guid>http://jiaqing.me/lessons/2011/12/29/jekyll-introduction</guid>
+                <link>http://jiaqing.me/2011/12/29/jekyll-introduction</link>
+                <guid>http://jiaqing.me/2011/12/29/jekyll-introduction</guid>
                 <pubDate>2011-12-29T00:00:00+08:00</pubDate>
         </item>
 
@@ -557,6 +533,14 @@ tags : [how-to, jekyll]
                 <link>http://jiaqing.me/life/2011/10/06/impress-huangshan</link>
                 <guid>http://jiaqing.me/life/2011/10/06/impress-huangshan</guid>
                 <pubDate>2011-10-06T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>Goodbye Alipay</title>
+                <description></description>
+                <link>http://jiaqing.me/work/2011/09/17/goodbye-alipay</link>
+                <guid>http://jiaqing.me/work/2011/09/17/goodbye-alipay</guid>
+                <pubDate>2011-09-17T00:00:00+08:00</pubDate>
         </item>
 
         <item>
@@ -658,8 +642,8 @@ tags : [how-to, jekyll]
         <item>
                 <title>城市印象：千岛湖</title>
                 <description></description>
-                <link>http://jiaqing.me/life/2008/07/07/20-impress-qiandaohu</link>
-                <guid>http://jiaqing.me/life/2008/07/07/20-impress-qiandaohu</guid>
+                <link>http://jiaqing.me/life/2008/07/07/impress-qiandaohu</link>
+                <guid>http://jiaqing.me/life/2008/07/07/impress-qiandaohu</guid>
                 <pubDate>2008-07-07T00:00:00+08:00</pubDate>
         </item>
 
@@ -669,6 +653,22 @@ tags : [how-to, jekyll]
                 <link>http://jiaqing.me/life/2008/07/01/impress-chengdu</link>
                 <guid>http://jiaqing.me/life/2008/07/01/impress-chengdu</guid>
                 <pubDate>2008-07-01T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>Memory 512</title>
+                <description></description>
+                <link>http://jiaqing.me/2008/06/22/memory-512</link>
+                <guid>http://jiaqing.me/2008/06/22/memory-512</guid>
+                <pubDate>2008-06-22T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>Memory 512 Earthquake</title>
+                <description></description>
+                <link>http://jiaqing.me/2008/06/21/memory-512-earthquake</link>
+                <guid>http://jiaqing.me/2008/06/21/memory-512-earthquake</guid>
+                <pubDate>2008-06-21T00:00:00+08:00</pubDate>
         </item>
 
 
