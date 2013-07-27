@@ -10,11 +10,17 @@
 </br>
 </br>
 </br>
-</br>
-</br>
 <center><img id="9EE382F35E616D3ED837772593F8B767" src="http://pic.yupoo.com/asuka4j/D2C98pNC/medish.jpg" /></center>
-<center>Life is hard, play more.&nbsp;&nbsp;&nbsp;</center>
-</br>
+<center>
+<img id="jiaqinglogoline" src="http://pic.yupoo.com/asuka4j/D2EHePXh/medish.jpg"/>&nbsp;&nbsp;</br>
+<strong>Jiaqing's Foolish Thoughts&nbsp;&nbsp;</strong></br>
+Thought fragments about: life, programming,</br>
+working, reading,</br>
+&amp;</br>
+hobbies</br>
+ (&copy; 2013 http://jiaqing.me)&nbsp;</br>
+  <img id="jiaqinglogoline" src="http://pic.yupoo.com/asuka4j/D2EHePXh/medish.jpg"/>&nbsp;&nbsp;</br>
+</center>
 </br>
 <center><img id="sapprow" src="http://pic.yupoo.com/asuka4j/D2Cia9Jc/medish.jpg"/></center>
 </br>
