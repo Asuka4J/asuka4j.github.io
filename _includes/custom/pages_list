@@ -1,0 +1,15 @@
+{% if page.url == "/about.html" %}
+    <li class="active"><a href="{{ BASE_PATH }}/about.html" class="active">About</a></li>
+{% else %}
+    <li><a href="{{ BASE_PATH }}/about.html">About</a></li>
+{% endif %}
+{% if page.url == "/tags.html" %}
+    <li class="active"><a href="{{ BASE_PATH }}/tags.html" class="active">Tags</a></li>
+{% else %}
+    <li><a href="{{ BASE_PATH }}/tags.html">Tags</a></li>
+{% endif %}
+{% if page.url == "/links.html" %}
+    <li class="active"><a href="{{ BASE_PATH }}/links.html" class="active">Links</a></li>
+{% else %}
+    <li><a href="{{ BASE_PATH }}/links.html">Links</a></li>
+{% endif %}

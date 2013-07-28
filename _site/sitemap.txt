@@ -1,13 +1,10 @@
 
 http://jiaqing.me/about.html
-http://jiaqing.me/about.md.bak
 http://jiaqing.me/archive.html
 http://jiaqing.me/atom.xml
 http://jiaqing.me/categories.html
-http://jiaqing.me/contact.html
 http://jiaqing.me/index.html
-http://jiaqing.me/index.md.bak
-http://jiaqing.me/new-page.html
+http://jiaqing.me/links.html
 http://jiaqing.me/pages.html
 http://jiaqing.me/rss.xml
 http://jiaqing.me/sitemap.txt
