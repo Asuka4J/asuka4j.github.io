@@ -3,6 +3,11 @@
 {% else %}
     <li><a href="{{ BASE_PATH }}/about.html">About</a></li>
 {% endif %}
+{% if page.url == "/categories.html" %}
+      <li class="active"><a href="{{ BASE_PATH }}/categories.html" class="active">Categories</a></li>
+{% else %}
+    <li><a href="{{ BASE_PATH }}/categories.html">Categories</a></li>
+{% endif %}
 {% if page.url == "/tags.html" %}
     <li class="active"><a href="{{ BASE_PATH }}/tags.html" class="active">Tags</a></li>
 {% else %}

@@ -4,7 +4,7 @@
  tagline: 
 ---
 {% include JB/setup %}
-<!--<table height="90%" border="0" align="center"><tr><td>-->
+<table height="90%" border="0" align="center"><tr><td>
 </br>
 </br>
 </br>
@@ -30,9 +30,9 @@ more&nbsp;<a href="http://weibo.com/Asuka4J">weibo</a>,&nbsp;<a href="http://www
 </br>
 </br>
 </br>
+</td></tr></table>
 </br>
 </br>
-<!--</td></tr></table>-->
 ## Recent Post
 <ul class="posts">
   {% for post in site.posts %}
