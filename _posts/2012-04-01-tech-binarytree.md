@@ -2,7 +2,7 @@
 layout: post
 title: "tech binarytree"
 description: ""
-category: 
+category: tech
 tags: []
 ---
 {% include JB/setup %}

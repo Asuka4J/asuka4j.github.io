@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "tech transaction 2"
+title: "事务（二）Spring事务管理"
 description: ""
-category: 
+category: tech
 tags: []
 ---
 {% include JB/setup %}

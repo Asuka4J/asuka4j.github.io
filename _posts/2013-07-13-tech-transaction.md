@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "tech transaction"
+title: "事务（一）事务基础"
 description: ""
-category: 
+category: tech
 tags: []
 ---
 {% include JB/setup %}

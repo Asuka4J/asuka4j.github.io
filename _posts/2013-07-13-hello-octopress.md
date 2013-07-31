@@ -2,7 +2,7 @@
 layout: post
 title: "hello octopress"
 description: ""
-category: 
+category: tech
 tags: []
 ---
 {% include JB/setup %}

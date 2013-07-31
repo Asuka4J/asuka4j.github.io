@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "tech transaction 3"
+title: "事务（三）两阶段提交"
 description: ""
-category: 
+category: tech
 tags: []
 ---
 {% include JB/setup %}
