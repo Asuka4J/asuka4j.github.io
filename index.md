@@ -33,6 +33,7 @@ more&nbsp;<a href="http://weibo.com/Asuka4J">weibo</a>,&nbsp;<a href="http://www
 </td></tr></table>
 </br>
 </br>
+</br>
 ## Recent Post
 <ul class="posts">
   {% for post in site.posts %}

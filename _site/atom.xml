@@ -4,7 +4,7 @@
  <title>Jiaqing.me</title>
  <link href="http://jiaqing.me/" rel="self"/>
  <link href="http://jiaqing.me"/>
- <updated>2013-07-31T22:34:55+08:00</updated>
+ <updated>2013-08-03T22:56:36+08:00</updated>
  <id>http://jiaqing.me</id>
  <author>
    <name>Asuka4J</name>
@@ -14,81 +14,41 @@
  
  <entry>
    <title>tech treemap in java</title>
-   <link href="http://jiaqing.me/2013/07/13/tech-treemap-in-java"/>
+   <link href="http://jiaqing.me/tech/2013/07/13/tech-treemap-in-java"/>
    <updated>2013-07-13T00:00:00+08:00</updated>
-   <id>http://jiaqing.me/2013/07/13/tech-treemap-in-java</id>
+   <id>http://jiaqing.me/tech/2013/07/13/tech-treemap-in-java</id>
    <content type="html"></content>
  </entry>
  
  <entry>
-   <title>tech transaction 3</title>
-   <link href="http://jiaqing.me/2013/07/13/tech-transaction-3"/>
+   <title>事务（三）两阶段提交</title>
+   <link href="http://jiaqing.me/tech/2013/07/13/tech-transaction-3"/>
    <updated>2013-07-13T00:00:00+08:00</updated>
-   <id>http://jiaqing.me/2013/07/13/tech-transaction-3</id>
+   <id>http://jiaqing.me/tech/2013/07/13/tech-transaction-3</id>
    <content type="html"></content>
  </entry>
  
  <entry>
-   <title>tech transaction 2</title>
-   <link href="http://jiaqing.me/2013/07/13/tech-transaction-2"/>
+   <title>事务（二）Spring事务管理</title>
+   <link href="http://jiaqing.me/tech/2013/07/13/tech-transaction-2"/>
    <updated>2013-07-13T00:00:00+08:00</updated>
-   <id>http://jiaqing.me/2013/07/13/tech-transaction-2</id>
+   <id>http://jiaqing.me/tech/2013/07/13/tech-transaction-2</id>
    <content type="html"></content>
  </entry>
  
  <entry>
-   <title>tech transaction</title>
-   <link href="http://jiaqing.me/2013/07/13/tech-transaction"/>
+   <title>事务（一）事务基础</title>
+   <link href="http://jiaqing.me/tech/2013/07/13/tech-transaction"/>
    <updated>2013-07-13T00:00:00+08:00</updated>
-   <id>http://jiaqing.me/2013/07/13/tech-transaction</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>tech rbt</title>
-   <link href="http://jiaqing.me/2013/07/13/tech-rbt"/>
-   <updated>2013-07-13T00:00:00+08:00</updated>
-   <id>http://jiaqing.me/2013/07/13/tech-rbt</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>tech b+tree</title>
-   <link href="http://jiaqing.me/2013/07/13/tech-btree"/>
-   <updated>2013-07-13T00:00:00+08:00</updated>
-   <id>http://jiaqing.me/2013/07/13/tech-btree</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>tech bst</title>
-   <link href="http://jiaqing.me/2013/07/13/tech-bst"/>
-   <updated>2013-07-13T00:00:00+08:00</updated>
-   <id>http://jiaqing.me/2013/07/13/tech-bst</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>tech binarytree</title>
-   <link href="http://jiaqing.me/2013/07/13/tech-binarytree"/>
-   <updated>2013-07-13T00:00:00+08:00</updated>
-   <id>http://jiaqing.me/2013/07/13/tech-binarytree</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>tech avl</title>
-   <link href="http://jiaqing.me/2013/07/13/tech-avl"/>
-   <updated>2013-07-13T00:00:00+08:00</updated>
-   <id>http://jiaqing.me/2013/07/13/tech-avl</id>
+   <id>http://jiaqing.me/tech/2013/07/13/tech-transaction</id>
    <content type="html"></content>
  </entry>
  
  <entry>
    <title>hello octopress</title>
-   <link href="http://jiaqing.me/2013/07/13/hello-octopress"/>
+   <link href="http://jiaqing.me/tech/2013/07/13/hello-octopress"/>
    <updated>2013-07-13T00:00:00+08:00</updated>
-   <id>http://jiaqing.me/2013/07/13/hello-octopress</id>
+   <id>http://jiaqing.me/tech/2013/07/13/hello-octopress</id>
    <content type="html"></content>
  </entry>
  
@@ -169,6 +129,46 @@
    <link href="http://jiaqing.me/life/2012/05/20/impress-lijiang"/>
    <updated>2012-05-20T00:00:00+08:00</updated>
    <id>http://jiaqing.me/life/2012/05/20/impress-lijiang</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>tech rbt</title>
+   <link href="http://jiaqing.me/tech/2012/04/09/tech-rbt"/>
+   <updated>2012-04-09T00:00:00+08:00</updated>
+   <id>http://jiaqing.me/tech/2012/04/09/tech-rbt</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>tech bst</title>
+   <link href="http://jiaqing.me/tech/2012/04/01/tech-bst"/>
+   <updated>2012-04-01T00:00:00+08:00</updated>
+   <id>http://jiaqing.me/tech/2012/04/01/tech-bst</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>tech binarytree</title>
+   <link href="http://jiaqing.me/tech/2012/04/01/tech-binarytree"/>
+   <updated>2012-04-01T00:00:00+08:00</updated>
+   <id>http://jiaqing.me/tech/2012/04/01/tech-binarytree</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>tech avl</title>
+   <link href="http://jiaqing.me/tech/2012/04/01/tech-avl"/>
+   <updated>2012-04-01T00:00:00+08:00</updated>
+   <id>http://jiaqing.me/tech/2012/04/01/tech-avl</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>tech b+tree</title>
+   <link href="http://jiaqing.me/tech/2012/04/01/btree"/>
+   <updated>2012-04-01T00:00:00+08:00</updated>
+   <id>http://jiaqing.me/tech/2012/04/01/btree</id>
    <content type="html"></content>
  </entry>
  
