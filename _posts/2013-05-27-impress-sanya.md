@@ -3,7 +3,7 @@ layout: post
 title: "城市印象：三亚"
 description: ""
 category: life
-tags: [足迹]
+tags: [足迹][游记]
 tagline: "北纬18°的阳光、沙滩、比基尼"
 ---
 {% include JB/setup %}
