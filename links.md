@@ -26,14 +26,14 @@ tagline: "about my Social Network"
 **咕咚:** [http://codoon.com](http://www.codoon.com/p/asuka4j)  
 我的慢跑成绩单  
 
-Instagram: [http://instagtam.com](http://instagram.com/asuka4j)  
+**Instagram:** [http://instagtam.com](http://instagram.com/asuka4j)  
 手机随拍  
 
-Github: [http://github.com](https://github.com/Asuka4J)  
+**Github:** [http://github.com](https://github.com/Asuka4J)  
 我的代码库  
 
-LinkedIn: [http://linked.com](http://www.linkedin.com/pub/jiaqing-zheng/3a/b10/966)  
+**LinkedIn:** [http://linked.com](http://www.linkedin.com/pub/jiaqing-zheng/3a/b10/966)  
 我的超简单的简历  
 
-**微信:** 扫它：  
-<img src="http://pic.yupoo.com/asuka4j/CwQAQzfD/small.jpg">
+其它？ **微信**请扫它：  
+<center><img src="http://pic.yupoo.com/asuka4j/CwQAQzfD/small.jpg"></center>  
