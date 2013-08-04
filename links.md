@@ -34,6 +34,5 @@ tagline: "about my Social Network"
 
 **LinkedIn:** [http://linked.com](http://www.linkedin.com/pub/jiaqing-zheng/3a/b10/966)  
 我的超简单的简历  
-
-其它？ **微信**请扫它：  
-<center><img src="http://pic.yupoo.com/asuka4j/CwQAQzfD/small.jpg"></center>  
+  
+  
