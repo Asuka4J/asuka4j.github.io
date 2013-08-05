@@ -23,6 +23,7 @@ http://jiaqing.me/life/2012/09/30/impress-changzhou
 http://jiaqing.me/life/2012/09/01/impress-beijing
 http://jiaqing.me/life/2012/08/25/impress-beidaihe
 http://jiaqing.me/life/2012/06/06/impress-shanghai
+http://jiaqing.me/life/2012/05/21/impress-shangri-la
 http://jiaqing.me/life/2012/05/20/impress-lijiang
 http://jiaqing.me/tech/2012/05/09/hello-octopress
 http://jiaqing.me/tech/2012/04/09/tech-rbt
