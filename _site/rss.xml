@@ -5,62 +5,14 @@
         <description>Jiaqing.me - Asuka4J</description>
         <link>http://jiaqing.me</link>
         <link>http://jiaqing.me</link>
-        <lastBuildDate>2013-08-04T21:26:37+08:00</lastBuildDate>
-        <pubDate>2013-08-04T21:26:37+08:00</pubDate>
+        <lastBuildDate>2013-08-04T23:22:46+08:00</lastBuildDate>
+        <pubDate>2013-08-04T23:22:46+08:00</pubDate>
         <ttl>1800</ttl>
 
 
         <item>
-                <title>tech treemap in java</title>
-                <description></description>
-                <link>http://jiaqing.me/tech/2013/07/13/tech-treemap-in-java</link>
-                <guid>http://jiaqing.me/tech/2013/07/13/tech-treemap-in-java</guid>
-                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
-        </item>
-
-        <item>
-                <title>事务（三）两阶段提交</title>
-                <description></description>
-                <link>http://jiaqing.me/tech/2013/07/13/tech-transaction-3</link>
-                <guid>http://jiaqing.me/tech/2013/07/13/tech-transaction-3</guid>
-                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
-        </item>
-
-        <item>
-                <title>事务（二）Spring事务管理</title>
-                <description></description>
-                <link>http://jiaqing.me/tech/2013/07/13/tech-transaction-2</link>
-                <guid>http://jiaqing.me/tech/2013/07/13/tech-transaction-2</guid>
-                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
-        </item>
-
-        <item>
-                <title>事务（一）事务基础</title>
-                <description></description>
-                <link>http://jiaqing.me/tech/2013/07/13/tech-transaction</link>
-                <guid>http://jiaqing.me/tech/2013/07/13/tech-transaction</guid>
-                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
-        </item>
-
-        <item>
-                <title>hello octopress</title>
-                <description></description>
-                <link>http://jiaqing.me/tech/2013/07/13/hello-octopress</link>
-                <guid>http://jiaqing.me/tech/2013/07/13/hello-octopress</guid>
-                <pubDate>2013-07-13T00:00:00+08:00</pubDate>
-        </item>
-
-        <item>
-                <title>Goodbye Baidu</title>
-                <description></description>
-                <link>http://jiaqing.me/work/2013/05/28/goodbye-baidu</link>
-                <guid>http://jiaqing.me/work/2013/05/28/goodbye-baidu</guid>
-                <pubDate>2013-05-28T00:00:00+08:00</pubDate>
-        </item>
-
-        <item>
                 <title>城市印象：三亚</title>
-                <description>&lt;h3 id='day1'&gt;Day1&lt;/h3&gt;
+                <description>&lt;h3 id='day1'&gt;DAY1&lt;/h3&gt;
 
 &lt;p&gt;虽说是行程第一天，但对我来说已经蛮疲惫了，因为之前是在家休假，我得赶早上九点的飞机先到上海和某人汇合，然后再一起出发到三亚。苦逼的是，我先是到了虹桥机场，然后横穿整个上海到浦东机场。第一次从浦东T2航站楼出发，这个航站楼是扁平化设计的，出发到达都在同一层，于是乎，等我们走到最末端的96号登机口时几乎奔溃。这次非三亚的人不少，应该也都是冲着假期吧，其中以情侣和亲自游居多，不像去丽江的时候，还能碰上不少孤身独行者。因为太疲惫，我在飞机上晕晕沉沉晃了三个小时后，飞机降落到了三亚凤凰机场。凤凰机场很小，没走两步就出了机场。虽说这时已经是晚上十点，但当那自动门打开刹那，顿时能感受到阵阵热浪袭来，果然是热带地区啊。&lt;br /&gt;因为公交车末班车都停运了，我们直接打车到了酒店。和丽江的小家客栈比起来，三亚的度假酒店可真是高端大气国际化。进门就是巨大的东南亚风格的大堂，大堂里除了各施其职的服务员外，零零散散还有不少游客，直接在这里纳凉闲聊上网。我们办理好checkin，就直接奔着0618号房去了。房间不算非常豪华，但已经很不错了，各种旅行设备一应俱全，浴缸、冰箱、保险箱、油烟机、烘干机、躺椅、海景阳台&amp;#8230;意外的是居然还提供了入住水果和洗衣粉。今天实在太困了，没多久我就进入了梦乡。&lt;/p&gt;
 
@@ -89,6 +41,14 @@
         </item>
 
         <item>
+                <title>Goodbye Baidu</title>
+                <description></description>
+                <link>http://jiaqing.me/work/2013/05/17/goodbye-baidu</link>
+                <guid>http://jiaqing.me/work/2013/05/17/goodbye-baidu</guid>
+                <pubDate>2013-05-17T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
                 <title>Running</title>
                 <description></description>
                 <link>http://jiaqing.me/life/2013/02/02/memory-running</link>
@@ -105,11 +65,43 @@
         </item>
 
         <item>
+                <title>tech treemap in java</title>
+                <description></description>
+                <link>http://jiaqing.me/tech/2012/10/19/tech-treemap-in-java</link>
+                <guid>http://jiaqing.me/tech/2012/10/19/tech-treemap-in-java</guid>
+                <pubDate>2012-10-19T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
                 <title>城市印象：潮州</title>
                 <description></description>
                 <link>http://jiaqing.me/life/2012/10/09/impress-chaozhou</link>
                 <guid>http://jiaqing.me/life/2012/10/09/impress-chaozhou</guid>
                 <pubDate>2012-10-09T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>事务（三）两阶段提交</title>
+                <description></description>
+                <link>http://jiaqing.me/tech/2012/10/05/tech-transaction-3</link>
+                <guid>http://jiaqing.me/tech/2012/10/05/tech-transaction-3</guid>
+                <pubDate>2012-10-05T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>事务（二）Spring事务管理</title>
+                <description></description>
+                <link>http://jiaqing.me/tech/2012/10/03/tech-transaction-2</link>
+                <guid>http://jiaqing.me/tech/2012/10/03/tech-transaction-2</guid>
+                <pubDate>2012-10-03T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>事务（一）事务基础</title>
+                <description></description>
+                <link>http://jiaqing.me/tech/2012/10/01/tech-transaction</link>
+                <guid>http://jiaqing.me/tech/2012/10/01/tech-transaction</guid>
+                <pubDate>2012-10-01T00:00:00+08:00</pubDate>
         </item>
 
         <item>
@@ -146,10 +138,22 @@
 
         <item>
                 <title>城市印象：丽江</title>
-                <description></description>
+                <description>&lt;p&gt;某人的婚假即将到期了，我也趁着这个理由厚脸皮地请了一周的假期，拼上前后的周末，凑出九天时间出来度假。&lt;/p&gt;
+
+&lt;h3 id='day1'&gt;Day.1&lt;/h3&gt;
+
+&lt;p&gt;从攻略上看，&lt;/p&gt;</description>
                 <link>http://jiaqing.me/life/2012/05/20/impress-lijiang</link>
                 <guid>http://jiaqing.me/life/2012/05/20/impress-lijiang</guid>
                 <pubDate>2012-05-20T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>hello octopress</title>
+                <description></description>
+                <link>http://jiaqing.me/tech/2012/05/09/hello-octopress</link>
+                <guid>http://jiaqing.me/tech/2012/05/09/hello-octopress</guid>
+                <pubDate>2012-05-09T00:00:00+08:00</pubDate>
         </item>
 
         <item>
