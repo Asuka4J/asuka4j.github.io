@@ -4,7 +4,7 @@ title: "城市印象：三亚"
 tagline: "北纬18°的阳光、沙滩、比基尼"
 description: ""
 category: life
-tags: [足迹, 驴友]
+tags: [足迹, 游记]
 ---
 {% include JB/setup %}
 ###DAY1  
