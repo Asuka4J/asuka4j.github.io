@@ -27,12 +27,12 @@ tagline: "about my Social Network"
 我的慢跑成绩单  
 
 **Instagram:** [http://instagtam.com](http://instagram.com/asuka4j)  
-手机随拍  
+手机随拍，偶尔也关注下冠希哥，苍井空姐平时都在玩些什么东东  
 
 **Github:** [http://github.com](https://github.com/Asuka4J)  
-我的代码库  
+我的代码库，包含Nitrous、Pylon等几个项目，还在努力添砖加瓦中  
 
 **LinkedIn:** [http://linked.com](http://www.linkedin.com/pub/jiaqing-zheng/3a/b10/966)  
-我的超简单的简历  
+我的超超超简单的简历，没什么牛逼的经历，不敢妄自胡吹海吹  
   
   

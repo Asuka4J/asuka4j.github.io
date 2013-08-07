@@ -29,6 +29,14 @@ tagline: "Blog, Me and Hobbies"
         <tr>
         <td>
 </br>
+<font size="5">Movie &amp; Books</font></br>
+个人比较热衷于科幻片，偶尔也看看情感片，目前最喜欢的片子是「触不可及」，无论剧情、演员、配乐还是拍摄手法，都堪称一级棒。这里是我整理的几个<a href="http://movie.douban.com/people/Asuka4J/doulists">电影豆列</a>，限于文笔不好，还没怎么写过影评。  
+对于阅读，我目前还是走以技术书籍为主、个人传记为辅的技术屌丝路线，希望哪天能摆脱这种工作束缚，多欣赏一些文艺或渊博的文字。这里有我整理的<a href="http://book.douban.com/people/Asuka4J/doulists">读书豆列</a>，同样受限于文笔，还没什么书评。  
+        </td>
+        </tr>
+        <tr>
+        <td>
+</br>
 <font size="5">Contact</font></br>
 邮箱: asuka4j@gmail.com</br>
 微信:   
