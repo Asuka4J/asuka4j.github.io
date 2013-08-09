@@ -6,3 +6,8 @@ category: tech
 tags: []
 ---
 {% include JB/setup %}
+
+定义
+
+ACID
+
