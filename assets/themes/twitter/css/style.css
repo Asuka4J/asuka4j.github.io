@@ -23,6 +23,23 @@
   margin: 10px 0;
   text-align: left; }
 
+/* jiaqing */
+.postsList {
+        margin: 0px 0px 10px 0px;
+    }
+
+    .postsList li{
+          list-style: none;
+            padding: 5px 0px;
+              border-bottom: 1px solid #F9F9F9;
+          }
+          .postsList li span{
+                  color: #BDC3C7;
+                      float: right;
+                          font-size: 0.8em;
+                      }
+
+
 /* post-full*/
 .post-full .date {
   margin-bottom: 20px;

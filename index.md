@@ -34,11 +34,13 @@ more&nbsp;<a href="http://weibo.com/Asuka4J">weibo</a>,&nbsp;<a href="http://www
 </br>
 </br>
 </br>
-## Recent Post
-<ul class="posts">
+</br>
+</br>
+</br>
+### Recent Post
+<ul class="postsList">
   {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+  <li><span>{{ post.date | date_to_string }}</span> <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
 
