@@ -5,8 +5,8 @@
         <description>Jiaqing.me - Asuka4J</description>
         <link>http://jiaqing.me</link>
         <link>http://jiaqing.me</link>
-        <lastBuildDate>2013-08-10T10:02:58+08:00</lastBuildDate>
-        <pubDate>2013-08-10T10:02:58+08:00</pubDate>
+        <lastBuildDate>2013-08-10T12:18:22+08:00</lastBuildDate>
+        <pubDate>2013-08-10T12:18:22+08:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -46,7 +46,7 @@
 
         <item>
                 <title>我的2012</title>
-                <description>&lt;h3 id='id1'&gt;计划回顾&lt;/h3&gt;
+                <description>&lt;h3 id='id24'&gt;计划回顾&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;习惯培养：坚持写周记，重在每周总结和反思；坚持每日跑步锻炼；养成良好作息习惯；80%&lt;/li&gt;
@@ -60,7 +60,7 @@
 &lt;li&gt;设备环境：用上Ubuntu，某人用上MAC OSX，其它设备不增加；100%&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id='id2'&gt;年度最佳&lt;/h3&gt;
+&lt;h3 id='id25'&gt;年度最佳&lt;/h3&gt;
 
 &lt;p&gt;+ 年度电影：&lt;em&gt;触不可及&lt;/em&gt;，剧情、演技、配乐都超赞&lt;/p&gt;
 
@@ -93,6 +93,32 @@
         </item>
 
         <item>
+                <title>事务（三）两阶段提交</title>
+                <description></description>
+                <link>http://jiaqing.me/tech/2012/10/05/tech-transaction-3</link>
+                <guid>http://jiaqing.me/tech/2012/10/05/tech-transaction-3</guid>
+                <pubDate>2012-10-05T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>事务（二）Spring事务管理</title>
+                <description></description>
+                <link>http://jiaqing.me/tech/2012/10/03/tech-transaction-2</link>
+                <guid>http://jiaqing.me/tech/2012/10/03/tech-transaction-2</guid>
+                <pubDate>2012-10-03T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>事务（一）事务基础</title>
+                <description>&lt;p&gt;定义&lt;/p&gt;
+
+&lt;p&gt;ACID&lt;/p&gt;</description>
+                <link>http://jiaqing.me/tech/2012/10/01/tech-transaction-1</link>
+                <guid>http://jiaqing.me/tech/2012/10/01/tech-transaction-1</guid>
+                <pubDate>2012-10-01T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
                 <title>城市印象：常州</title>
                 <description></description>
                 <link>http://jiaqing.me/life/2012/09/30/impress-changzhou</link>
@@ -109,11 +135,45 @@
         </item>
 
         <item>
+                <title>数据有结构（十三）哈希查找</title>
+                <description></description>
+                <link>http://jiaqing.me/tech/2012/08/29/tech-search-3</link>
+                <guid>http://jiaqing.me/tech/2012/08/29/tech-search-3</guid>
+                <pubDate>2012-08-29T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>数据有结构（十二）树查找</title>
+                <description></description>
+                <link>http://jiaqing.me/tech/2012/08/25/tech-search-2</link>
+                <guid>http://jiaqing.me/tech/2012/08/25/tech-search-2</guid>
+                <pubDate>2012-08-25T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
                 <title>城市印象：北戴河</title>
                 <description></description>
                 <link>http://jiaqing.me/life/2012/08/25/impress-beidaihe</link>
                 <guid>http://jiaqing.me/life/2012/08/25/impress-beidaihe</guid>
                 <pubDate>2012-08-25T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>数据有结构（十一）线性查找</title>
+                <description></description>
+                <link>http://jiaqing.me/tech/2012/08/21/tech-search-1</link>
+                <guid>http://jiaqing.me/tech/2012/08/21/tech-search-1</guid>
+                <pubDate>2012-08-21T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>数据有结构（十）归并排序</title>
+                <description>&lt;h3 id='id22'&gt;归并排序&lt;/h3&gt;
+
+&lt;h3 id='id23'&gt;性能测试&lt;/h3&gt;</description>
+                <link>http://jiaqing.me/tech/2012/06/08/tech-sort-4</link>
+                <guid>http://jiaqing.me/tech/2012/06/08/tech-sort-4</guid>
+                <pubDate>2012-06-08T00:00:00+08:00</pubDate>
         </item>
 
         <item>
@@ -125,11 +185,145 @@
         </item>
 
         <item>
+                <title>数据有结构（九）插入排序</title>
+                <description>&lt;h3 id='id17'&gt;插入排序&lt;/h3&gt;
+
+&lt;h3 id='id18'&gt;希尔排序&lt;/h3&gt;
+
+&lt;h3 id='id19'&gt;二叉查找树排序&lt;/h3&gt;
+
+&lt;h3 id='id20'&gt;性能测试&lt;/h3&gt;</description>
+                <link>http://jiaqing.me/tech/2012/06/04/tech-sort-3</link>
+                <guid>http://jiaqing.me/tech/2012/06/04/tech-sort-3</guid>
+                <pubDate>2012-06-04T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
                 <title>Running</title>
                 <description>&lt;p&gt;关于运动，谈得上喜欢的寥寥无几。倒不是因为懒，可能和身体条件有一定关系，目前偏瘦的体质承受不了长时间高强度的消耗，另外一旦流汗眼镜就很容易从鼻梁滑下来，总要用手去推一把，颇影响反应力。做不好，久而久之，就都失去了兴趣。但，有一项运动倒是仍在坚持，而且还越发喜欢了，那就是慢跑。&lt;br /&gt;工作日里心情最愉快的时间一般在晚上，结束了一天忙碌的工作后，终于可以回家享受下自己一点小时光。晚上的马路和白天差别很大，没有那么亮、没有车水马龙、没有各种噪音，这时候走在路上就不由自主地想跑上一趟。Just run，like in the sky。跑步的过程是对全身的放松，特别是紧绷了一天的脑细胞，如果能跑上个3、5公里，还会有种通体舒畅的愉悦感（about &lt;a href='http://zh.wikipedia. org/wiki/%E8%85%A6%E5%85%A7%E5%95%A1' style='text-decoration :none ;' target='_blank'&gt; &lt;strong&gt;ruuner&amp;#39;s high&lt;/strong&gt;&lt;/a&gt;）。另外，偶尔尝试下不同的路线，换换风景，也是挺有乐趣的。&lt;br /&gt;目前觉得最有意思的一次，是从居住的小区一路跑到陆家嘴。路程不算长，但却挺有趣，因为它不是环路！那天也不知道被什么风吹着了，出门前本打算在附近随便绕绕，就沿着浦东大道方向走。晚上10点的浦东大道虽然车还挺多，但开阔的视野，和远处陆家嘴天空的五彩灯光，似乎让自己忘却了疲惫。一路到了陆家嘴，发现囧了，身无分文，除了用来记录这张路线图的手机，啥都没有。也还好有手机，得以远程求救&lt;a href='http://yokowinds.diandian.com/' style='text-decoration :none ;' target='_blank'&gt; &lt;strong&gt; @yokowinds&lt;/strong&gt;&lt;/a&gt;赶过来接驾，不然靠走回去，可不知要到何时了。&lt;br /&gt;&lt;center&gt;&lt;img id='9EE382F35E616D3ED837772593F8B767' src='http://m1.img.libdd.com/farm4/157/F4752687235885BF04917BD6C0377A9D_500_463.jpg' /&gt;&lt;/center&gt; 有时会用App（&lt;a href='http://www.codoon.com/p/asuka4j' style='text-decoration :none ;' target='_blank'&gt;咕咚运动&lt;/a&gt;）记录下慢跑的足迹。如果你也想尝试一下慢跑，可以先查查资料（&lt;a href='http://bbs.runbible.cn/' style='text-decoration :none ;' target='_blank'&gt;跑步圣经论坛&lt;/a&gt;），看看一些关于锻炼方式、跑步姿势、挑选跑鞋、膝关节养护的资料和建议。&lt;br /&gt;Just run, like in the sky.&lt;/p&gt;</description>
                 <link>http://jiaqing.me/life/2012/05/30/memory-running</link>
                 <guid>http://jiaqing.me/life/2012/05/30/memory-running</guid>
                 <pubDate>2012-05-30T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>数据有结构（八）选择排序</title>
+                <description>&lt;h2 id='id13'&gt;直接选择排序&lt;/h2&gt;
+&lt;center&gt;&lt;img src='' /&gt;&lt;/center&gt;
+&lt;p&gt;时间复杂度： O(n^2) 空间复杂度：&lt;/p&gt;
+&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='python'&gt;&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;\&lt;/span&gt;
+&lt;span class='sd'&gt;    选择排序&lt;/span&gt;
+&lt;span class='sd'&gt;    L: 待排序列&lt;/span&gt;
+&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;selection&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;L&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+    &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='ow'&gt;not&lt;/span&gt; &lt;span class='n'&gt;L&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt; &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='p'&gt;[]&lt;/span&gt;
+    &lt;span class='k'&gt;for&lt;/span&gt; &lt;span class='n'&gt;x&lt;/span&gt; &lt;span class='ow'&gt;in&lt;/span&gt; &lt;span class='nb'&gt;range&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='nb'&gt;len&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;L&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;&lt;span class='o'&gt;-&lt;/span&gt;&lt;span class='mi'&gt;1&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+        &lt;span class='n'&gt;minIndex&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;x&lt;/span&gt;
+        &lt;span class='k'&gt;for&lt;/span&gt; &lt;span class='n'&gt;y&lt;/span&gt; &lt;span class='ow'&gt;in&lt;/span&gt; &lt;span class='nb'&gt;range&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;x&lt;/span&gt;&lt;span class='o'&gt;+&lt;/span&gt;&lt;span class='mi'&gt;1&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='nb'&gt;len&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;L&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;&lt;span class='o'&gt;-&lt;/span&gt;&lt;span class='mi'&gt;1&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+            &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;L&lt;/span&gt;&lt;span class='p'&gt;[&lt;/span&gt;&lt;span class='n'&gt;y&lt;/span&gt;&lt;span class='p'&gt;]&lt;/span&gt; &lt;span class='o'&gt;&amp;lt;&lt;/span&gt; &lt;span class='n'&gt;L&lt;/span&gt;&lt;span class='p'&gt;[&lt;/span&gt;&lt;span class='n'&gt;minIndex&lt;/span&gt;&lt;span class='p'&gt;]:&lt;/span&gt; &lt;span class='n'&gt;minIndex&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;y&lt;/span&gt;
+        &lt;span class='n'&gt;tmp&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;L&lt;/span&gt;&lt;span class='p'&gt;[&lt;/span&gt;&lt;span class='n'&gt;x&lt;/span&gt;&lt;span class='p'&gt;]&lt;/span&gt;
+        &lt;span class='n'&gt;L&lt;/span&gt;&lt;span class='p'&gt;[&lt;/span&gt;&lt;span class='n'&gt;x&lt;/span&gt;&lt;span class='p'&gt;]&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;L&lt;/span&gt;&lt;span class='p'&gt;[&lt;/span&gt;&lt;span class='n'&gt;minIndex&lt;/span&gt;&lt;span class='p'&gt;]&lt;/span&gt;
+        &lt;span class='n'&gt;L&lt;/span&gt;&lt;span class='p'&gt;[&lt;/span&gt;&lt;span class='n'&gt;minIndex&lt;/span&gt;&lt;span class='p'&gt;]&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;tmp&lt;/span&gt;
+    &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;L&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id='id14'&gt;堆排序&lt;/h2&gt;
+
+&lt;h2 id='id15'&gt;性能测试&lt;/h2&gt;
+
+&lt;h2 id='k'&gt;前K大问题&lt;/h2&gt;</description>
+                <link>http://jiaqing.me/tech/2012/05/28/tech-sort-2</link>
+                <guid>http://jiaqing.me/tech/2012/05/28/tech-sort-2</guid>
+                <pubDate>2012-05-28T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>数据有结构（七）交换排序</title>
+                <description>&lt;h2 id='id8'&gt;排序分类&lt;/h2&gt;
+
+&lt;p&gt;交换排序：冒泡排序、快速排序&lt;/p&gt;
+
+&lt;h2 id='id9'&gt;冒泡排序&lt;/h2&gt;
+&lt;center&gt;&lt;img src='' /&gt;&lt;/center&gt;
+&lt;p&gt;时间复杂度：O(n^2) 空间复杂度：O(1)&lt;/p&gt;
+&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='python'&gt;&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;\&lt;/span&gt;
+&lt;span class='sd'&gt;    冒泡排序 &lt;/span&gt;
+&lt;span class='sd'&gt;    L: 待排元素列表&lt;/span&gt;
+&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;bubble&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;L&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+    &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='ow'&gt;not&lt;/span&gt; &lt;span class='n'&gt;L&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt; &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='p'&gt;[]&lt;/span&gt;
+    &lt;span class='k'&gt;for&lt;/span&gt; &lt;span class='n'&gt;x&lt;/span&gt; &lt;span class='ow'&gt;in&lt;/span&gt; &lt;span class='nb'&gt;range&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='nb'&gt;len&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;L&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;&lt;span class='o'&gt;-&lt;/span&gt;&lt;span class='mi'&gt;1&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+        &lt;span class='k'&gt;for&lt;/span&gt; &lt;span class='n'&gt;y&lt;/span&gt; &lt;span class='ow'&gt;in&lt;/span&gt; &lt;span class='nb'&gt;range&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='nb'&gt;len&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;L&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;&lt;span class='o'&gt;-&lt;/span&gt;&lt;span class='mi'&gt;1&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;x&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='o'&gt;-&lt;/span&gt;&lt;span class='mi'&gt;1&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+            &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;L&lt;/span&gt;&lt;span class='p'&gt;[&lt;/span&gt;&lt;span class='n'&gt;y&lt;/span&gt;&lt;span class='p'&gt;]&lt;/span&gt; &lt;span class='o'&gt;&amp;lt;&lt;/span&gt; &lt;span class='n'&gt;L&lt;/span&gt;&lt;span class='p'&gt;[&lt;/span&gt;&lt;span class='n'&gt;y&lt;/span&gt;&lt;span class='o'&gt;-&lt;/span&gt;&lt;span class='mi'&gt;1&lt;/span&gt;&lt;span class='p'&gt;]:&lt;/span&gt;
+                &lt;span class='n'&gt;tmp&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;L&lt;/span&gt;&lt;span class='p'&gt;[&lt;/span&gt;&lt;span class='n'&gt;y&lt;/span&gt;&lt;span class='p'&gt;]&lt;/span&gt;
+                &lt;span class='n'&gt;L&lt;/span&gt;&lt;span class='p'&gt;[&lt;/span&gt;&lt;span class='n'&gt;y&lt;/span&gt;&lt;span class='p'&gt;]&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;L&lt;/span&gt;&lt;span class='p'&gt;[&lt;/span&gt;&lt;span class='n'&gt;y&lt;/span&gt;&lt;span class='o'&gt;-&lt;/span&gt;&lt;span class='mi'&gt;1&lt;/span&gt;&lt;span class='p'&gt;]&lt;/span&gt;
+                &lt;span class='n'&gt;L&lt;/span&gt;&lt;span class='p'&gt;[&lt;/span&gt;&lt;span class='n'&gt;y&lt;/span&gt;&lt;span class='o'&gt;-&lt;/span&gt;&lt;span class='mi'&gt;1&lt;/span&gt;&lt;span class='p'&gt;]&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;tmp&lt;/span&gt;
+    &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;L&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id='id10'&gt;快速排序&lt;/h2&gt;
+&lt;center&gt;&lt;img src='' /&gt;&lt;/center&gt;
+&lt;p&gt;时间复杂度：O(NlgN) 最差时间复杂度： O(n^2) 空间复杂度： 非稳定&lt;/p&gt;
+&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='python'&gt;&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;\&lt;/span&gt;
+&lt;span class='sd'&gt;    快速排序&lt;/span&gt;
+&lt;span class='sd'&gt;    L：待排序列&lt;/span&gt;
+&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;quick&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;L&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+    &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='ow'&gt;not&lt;/span&gt; &lt;span class='n'&gt;L&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt; &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='p'&gt;[]&lt;/span&gt;
+    &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;quick&lt;/span&gt;&lt;span class='p'&gt;([&lt;/span&gt;&lt;span class='n'&gt;x&lt;/span&gt; &lt;span class='k'&gt;for&lt;/span&gt; &lt;span class='n'&gt;x&lt;/span&gt; &lt;span class='ow'&gt;in&lt;/span&gt; &lt;span class='n'&gt;L&lt;/span&gt;&lt;span class='p'&gt;[&lt;/span&gt;&lt;span class='mi'&gt;1&lt;/span&gt;&lt;span class='p'&gt;:]&lt;/span&gt; &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;x&lt;/span&gt; &lt;span class='o'&gt;&amp;lt;&lt;/span&gt; &lt;span class='n'&gt;L&lt;/span&gt;&lt;span class='p'&gt;[&lt;/span&gt;&lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;]])&lt;/span&gt; &lt;span class='o'&gt;+&lt;/span&gt; &lt;span class='n'&gt;L&lt;/span&gt;&lt;span class='p'&gt;[&lt;/span&gt;&lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mi'&gt;1&lt;/span&gt;&lt;span class='p'&gt;]&lt;/span&gt; &lt;span class='o'&gt;+&lt;/span&gt; &lt;span class='n'&gt;quick&lt;/span&gt;&lt;span class='p'&gt;([&lt;/span&gt;&lt;span class='n'&gt;x&lt;/span&gt; &lt;span class='k'&gt;for&lt;/span&gt; &lt;span class='n'&gt;x&lt;/span&gt; &lt;span class='ow'&gt;in&lt;/span&gt; &lt;span class='n'&gt;L&lt;/span&gt;&lt;span class='p'&gt;[&lt;/span&gt;&lt;span class='mi'&gt;1&lt;/span&gt;&lt;span class='p'&gt;:]&lt;/span&gt; &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;x&lt;/span&gt; &lt;span class='o'&gt;&amp;gt;=&lt;/span&gt; &lt;span class='n'&gt;L&lt;/span&gt;&lt;span class='p'&gt;[&lt;/span&gt;&lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;]])&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id='id11'&gt;性能比较&lt;/h2&gt;
+&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='python'&gt;&lt;span class='kn'&gt;import&lt;/span&gt; &lt;span class='nn'&gt;datetime&lt;/span&gt;
+&lt;span class='kn'&gt;import&lt;/span&gt; &lt;span class='nn'&gt;random&lt;/span&gt;
+&lt;span class='kn'&gt;import&lt;/span&gt; &lt;span class='nn'&gt;Sort&lt;/span&gt;
+
+&lt;span class='c'&gt;# 初始化测试数据：一个1000元素的无序列表&lt;/span&gt;
+&lt;span class='n'&gt;size&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;1000&lt;/span&gt;
+&lt;span class='n'&gt;elements&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='p'&gt;[&lt;/span&gt;&lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;]&lt;/span&gt; &lt;span class='o'&gt;*&lt;/span&gt; &lt;span class='n'&gt;size&lt;/span&gt;
+&lt;span class='k'&gt;for&lt;/span&gt; &lt;span class='n'&gt;i&lt;/span&gt; &lt;span class='ow'&gt;in&lt;/span&gt; &lt;span class='nb'&gt;range&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;size&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+    &lt;span class='n'&gt;elements&lt;/span&gt;&lt;span class='p'&gt;[&lt;/span&gt;&lt;span class='n'&gt;i&lt;/span&gt;&lt;span class='p'&gt;]&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;random&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;randint&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='mi'&gt;99999&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+
+&lt;span class='c'&gt;# 测试冒泡性能&lt;/span&gt;
+&lt;span class='k'&gt;print&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='s'&gt;&amp;#39;----bubble----&amp;#39;&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+&lt;span class='k'&gt;for&lt;/span&gt; &lt;span class='n'&gt;times&lt;/span&gt; &lt;span class='ow'&gt;in&lt;/span&gt; &lt;span class='nb'&gt;range&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='mi'&gt;10&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+    &lt;span class='n'&gt;begin&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;datetime&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;datetime&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;now&lt;/span&gt;&lt;span class='p'&gt;()&lt;/span&gt;
+    &lt;span class='n'&gt;result&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;Sort&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;bubble&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;elements&lt;/span&gt;&lt;span class='p'&gt;[:])&lt;/span&gt;
+    &lt;span class='n'&gt;end&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;datetime&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;datetime&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;now&lt;/span&gt;&lt;span class='p'&gt;()&lt;/span&gt;
+    &lt;span class='k'&gt;print&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='s'&gt;&amp;#39;cost = &amp;#39;&lt;/span&gt; &lt;span class='o'&gt;+&lt;/span&gt; &lt;span class='nb'&gt;str&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;end&lt;/span&gt; &lt;span class='o'&gt;-&lt;/span&gt; &lt;span class='n'&gt;begin&lt;/span&gt;&lt;span class='p'&gt;))&lt;/span&gt;
+
+&lt;span class='c'&gt;# 测试快排性能&lt;/span&gt;
+&lt;span class='k'&gt;print&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='s'&gt;&amp;#39;----quick----&amp;#39;&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+&lt;span class='k'&gt;for&lt;/span&gt; &lt;span class='n'&gt;times&lt;/span&gt; &lt;span class='ow'&gt;in&lt;/span&gt; &lt;span class='nb'&gt;range&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='mi'&gt;10&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+    &lt;span class='n'&gt;begin&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;datetime&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;datetime&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;now&lt;/span&gt;&lt;span class='p'&gt;()&lt;/span&gt;
+    &lt;span class='n'&gt;result&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;Sort&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;quick&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;elements&lt;/span&gt;&lt;span class='p'&gt;[:])&lt;/span&gt;
+    &lt;span class='n'&gt;end&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;datetime&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;datetime&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;now&lt;/span&gt;&lt;span class='p'&gt;()&lt;/span&gt;
+    &lt;span class='k'&gt;print&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='s'&gt;&amp;#39;cost = &amp;#39;&lt;/span&gt; &lt;span class='o'&gt;+&lt;/span&gt; &lt;span class='nb'&gt;str&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;end&lt;/span&gt; &lt;span class='o'&gt;-&lt;/span&gt; &lt;span class='n'&gt;begin&lt;/span&gt;&lt;span class='p'&gt;))&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;可以看到，1000个元素在内存中的排序，冒泡排序平均耗时170ms，快速排序平均耗时7ms，差距还是蛮大的。&lt;/p&gt;
+&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='python'&gt;&lt;span class='o'&gt;----&lt;/span&gt;&lt;span class='n'&gt;bubble&lt;/span&gt;&lt;span class='o'&gt;----&lt;/span&gt;
+&lt;span class='n'&gt;cost&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mo'&gt;00&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mf'&gt;00.175512&lt;/span&gt;
+&lt;span class='n'&gt;cost&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mo'&gt;00&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mf'&gt;00.170707&lt;/span&gt;
+&lt;span class='n'&gt;cost&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mo'&gt;00&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mf'&gt;00.178852&lt;/span&gt;
+&lt;span class='n'&gt;cost&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mo'&gt;00&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mf'&gt;00.186086&lt;/span&gt;
+&lt;span class='n'&gt;cost&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mo'&gt;00&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mf'&gt;00.179878&lt;/span&gt;
+&lt;span class='n'&gt;cost&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mo'&gt;00&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mf'&gt;00.158608&lt;/span&gt;
+&lt;span class='n'&gt;cost&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mo'&gt;00&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mf'&gt;00.175306&lt;/span&gt;
+&lt;span class='n'&gt;cost&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mo'&gt;00&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mf'&gt;00.175251&lt;/span&gt;
+&lt;span class='n'&gt;cost&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mo'&gt;00&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mf'&gt;00.177794&lt;/span&gt;
+&lt;span class='n'&gt;cost&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mo'&gt;00&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mf'&gt;00.177761&lt;/span&gt;
+&lt;span class='o'&gt;----&lt;/span&gt;&lt;span class='n'&gt;quick&lt;/span&gt;&lt;span class='o'&gt;----&lt;/span&gt;
+&lt;span class='n'&gt;cost&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mo'&gt;00&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mf'&gt;00.007773&lt;/span&gt;
+&lt;span class='n'&gt;cost&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mo'&gt;00&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mf'&gt;00.004686&lt;/span&gt;
+&lt;span class='n'&gt;cost&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mo'&gt;00&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mf'&gt;00.006913&lt;/span&gt;
+&lt;span class='n'&gt;cost&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mo'&gt;00&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mf'&gt;00.007682&lt;/span&gt;
+&lt;span class='n'&gt;cost&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mo'&gt;00&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mf'&gt;00.007318&lt;/span&gt;
+&lt;span class='n'&gt;cost&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mo'&gt;00&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mf'&gt;00.006283&lt;/span&gt;
+&lt;span class='n'&gt;cost&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mo'&gt;00&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mf'&gt;00.006936&lt;/span&gt;
+&lt;span class='n'&gt;cost&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mo'&gt;00&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mf'&gt;00.008862&lt;/span&gt;
+&lt;span class='n'&gt;cost&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mo'&gt;00&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mf'&gt;00.005037&lt;/span&gt;
+&lt;span class='n'&gt;cost&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mo'&gt;00&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mf'&gt;00.004529&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+                <link>http://jiaqing.me/tech/2012/05/26/tech-sort-1</link>
+                <guid>http://jiaqing.me/tech/2012/05/26/tech-sort-1</guid>
+                <pubDate>2012-05-26T00:00:00+08:00</pubDate>
         </item>
 
         <item>
@@ -183,6 +377,664 @@
                 <link>http://jiaqing.me/tech/2012/05/09/hello-octopress</link>
                 <guid>http://jiaqing.me/tech/2012/05/09/hello-octopress</guid>
                 <pubDate>2012-05-09T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>数据有结构（六）多路查找树</title>
+                <description></description>
+                <link>http://jiaqing.me/tech/2012/04/06/tech-btree</link>
+                <guid>http://jiaqing.me/tech/2012/04/06/tech-btree</guid>
+                <pubDate>2012-04-06T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>数据有结构（五）Java中的TreeMap</title>
+                <description>&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='java'&gt;    &lt;span class='cm'&gt;/**&lt;/span&gt;
+&lt;span class='cm'&gt;     * Associates the specified value with the specified key in this map.&lt;/span&gt;
+&lt;span class='cm'&gt;     * If the map previously contained a mapping for the key, the old&lt;/span&gt;
+&lt;span class='cm'&gt;     * value is replaced.&lt;/span&gt;
+&lt;span class='cm'&gt;     *&lt;/span&gt;
+&lt;span class='cm'&gt;     * @param key key with which the specified value is to be associated&lt;/span&gt;
+&lt;span class='cm'&gt;     * @param value value to be associated with the specified key&lt;/span&gt;
+&lt;span class='cm'&gt;     *&lt;/span&gt;
+&lt;span class='cm'&gt;     * @return the previous value associated with {@code key}, or&lt;/span&gt;
+&lt;span class='cm'&gt;     *         {@code null} if there was no mapping for {@code key}.&lt;/span&gt;
+&lt;span class='cm'&gt;     *         (A {@code null} return can also indicate that the map&lt;/span&gt;
+&lt;span class='cm'&gt;     *         previously associated {@code null} with {@code key}.)&lt;/span&gt;
+&lt;span class='cm'&gt;     * @throws ClassCastException if the specified key cannot be compared&lt;/span&gt;
+&lt;span class='cm'&gt;     *         with the keys currently in the map&lt;/span&gt;
+&lt;span class='cm'&gt;     * @throws NullPointerException if the specified key is null&lt;/span&gt;
+&lt;span class='cm'&gt;     *         and this map uses natural ordering, or its comparator&lt;/span&gt;
+&lt;span class='cm'&gt;     *         does not permit null keys&lt;/span&gt;
+&lt;span class='cm'&gt;     */&lt;/span&gt;
+    &lt;span class='kd'&gt;public&lt;/span&gt; &lt;span class='n'&gt;V&lt;/span&gt; &lt;span class='nf'&gt;put&lt;/span&gt;&lt;span class='o'&gt;(&lt;/span&gt;&lt;span class='n'&gt;K&lt;/span&gt; &lt;span class='n'&gt;key&lt;/span&gt;&lt;span class='o'&gt;,&lt;/span&gt; &lt;span class='n'&gt;V&lt;/span&gt; &lt;span class='n'&gt;value&lt;/span&gt;&lt;span class='o'&gt;)&lt;/span&gt; &lt;span class='o'&gt;{&lt;/span&gt;
+        &lt;span class='n'&gt;Entry&lt;/span&gt;&lt;span class='o'&gt;&amp;lt;&lt;/span&gt;&lt;span class='n'&gt;K&lt;/span&gt;&lt;span class='o'&gt;,&lt;/span&gt;&lt;span class='n'&gt;V&lt;/span&gt;&lt;span class='o'&gt;&amp;gt;&lt;/span&gt; &lt;span class='n'&gt;t&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;root&lt;/span&gt;&lt;span class='o'&gt;;&lt;/span&gt;
+        &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='o'&gt;(&lt;/span&gt;&lt;span class='n'&gt;t&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='kc'&gt;null&lt;/span&gt;&lt;span class='o'&gt;)&lt;/span&gt; &lt;span class='o'&gt;{&lt;/span&gt;
+            &lt;span class='n'&gt;compare&lt;/span&gt;&lt;span class='o'&gt;(&lt;/span&gt;&lt;span class='n'&gt;key&lt;/span&gt;&lt;span class='o'&gt;,&lt;/span&gt; &lt;span class='n'&gt;key&lt;/span&gt;&lt;span class='o'&gt;);&lt;/span&gt; &lt;span class='c1'&gt;// type (and possibly null) check&lt;/span&gt;
+
+            &lt;span class='n'&gt;root&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='k'&gt;new&lt;/span&gt; &lt;span class='n'&gt;Entry&lt;/span&gt;&lt;span class='o'&gt;&amp;lt;&amp;gt;(&lt;/span&gt;&lt;span class='n'&gt;key&lt;/span&gt;&lt;span class='o'&gt;,&lt;/span&gt; &lt;span class='n'&gt;value&lt;/span&gt;&lt;span class='o'&gt;,&lt;/span&gt; &lt;span class='kc'&gt;null&lt;/span&gt;&lt;span class='o'&gt;);&lt;/span&gt;
+            &lt;span class='n'&gt;size&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;1&lt;/span&gt;&lt;span class='o'&gt;;&lt;/span&gt;
+            &lt;span class='n'&gt;modCount&lt;/span&gt;&lt;span class='o'&gt;++;&lt;/span&gt;
+            &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='kc'&gt;null&lt;/span&gt;&lt;span class='o'&gt;;&lt;/span&gt;
+        &lt;span class='o'&gt;}&lt;/span&gt;
+        &lt;span class='kt'&gt;int&lt;/span&gt; &lt;span class='n'&gt;cmp&lt;/span&gt;&lt;span class='o'&gt;;&lt;/span&gt;
+        &lt;span class='n'&gt;Entry&lt;/span&gt;&lt;span class='o'&gt;&amp;lt;&lt;/span&gt;&lt;span class='n'&gt;K&lt;/span&gt;&lt;span class='o'&gt;,&lt;/span&gt;&lt;span class='n'&gt;V&lt;/span&gt;&lt;span class='o'&gt;&amp;gt;&lt;/span&gt; &lt;span class='n'&gt;parent&lt;/span&gt;&lt;span class='o'&gt;;&lt;/span&gt;
+        &lt;span class='c1'&gt;// split comparator and comparable paths&lt;/span&gt;
+        &lt;span class='n'&gt;Comparator&lt;/span&gt;&lt;span class='o'&gt;&amp;lt;?&lt;/span&gt; &lt;span class='kd'&gt;super&lt;/span&gt; &lt;span class='n'&gt;K&lt;/span&gt;&lt;span class='o'&gt;&amp;gt;&lt;/span&gt; &lt;span class='n'&gt;cpr&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;comparator&lt;/span&gt;&lt;span class='o'&gt;;&lt;/span&gt;
+        &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='o'&gt;(&lt;/span&gt;&lt;span class='n'&gt;cpr&lt;/span&gt; &lt;span class='o'&gt;!=&lt;/span&gt; &lt;span class='kc'&gt;null&lt;/span&gt;&lt;span class='o'&gt;)&lt;/span&gt; &lt;span class='o'&gt;{&lt;/span&gt;
+            &lt;span class='k'&gt;do&lt;/span&gt; &lt;span class='o'&gt;{&lt;/span&gt;
+                &lt;span class='n'&gt;parent&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;t&lt;/span&gt;&lt;span class='o'&gt;;&lt;/span&gt;
+                &lt;span class='n'&gt;cmp&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;cpr&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='na'&gt;compare&lt;/span&gt;&lt;span class='o'&gt;(&lt;/span&gt;&lt;span class='n'&gt;key&lt;/span&gt;&lt;span class='o'&gt;,&lt;/span&gt; &lt;span class='n'&gt;t&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='na'&gt;key&lt;/span&gt;&lt;span class='o'&gt;);&lt;/span&gt;
+                &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='o'&gt;(&lt;/span&gt;&lt;span class='n'&gt;cmp&lt;/span&gt; &lt;span class='o'&gt;&amp;lt;&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='o'&gt;)&lt;/span&gt;
+                    &lt;span class='n'&gt;t&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;t&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='na'&gt;left&lt;/span&gt;&lt;span class='o'&gt;;&lt;/span&gt;
+                &lt;span class='k'&gt;else&lt;/span&gt; &lt;span class='nf'&gt;if&lt;/span&gt; &lt;span class='o'&gt;(&lt;/span&gt;&lt;span class='n'&gt;cmp&lt;/span&gt; &lt;span class='o'&gt;&amp;gt;&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='o'&gt;)&lt;/span&gt;
+                    &lt;span class='n'&gt;t&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;t&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='na'&gt;right&lt;/span&gt;&lt;span class='o'&gt;;&lt;/span&gt;
+                &lt;span class='k'&gt;else&lt;/span&gt;
+                    &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;t&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='na'&gt;setValue&lt;/span&gt;&lt;span class='o'&gt;(&lt;/span&gt;&lt;span class='n'&gt;value&lt;/span&gt;&lt;span class='o'&gt;);&lt;/span&gt;
+            &lt;span class='o'&gt;}&lt;/span&gt; &lt;span class='k'&gt;while&lt;/span&gt; &lt;span class='o'&gt;(&lt;/span&gt;&lt;span class='n'&gt;t&lt;/span&gt; &lt;span class='o'&gt;!=&lt;/span&gt; &lt;span class='kc'&gt;null&lt;/span&gt;&lt;span class='o'&gt;);&lt;/span&gt;
+        &lt;span class='o'&gt;}&lt;/span&gt;
+        &lt;span class='k'&gt;else&lt;/span&gt; &lt;span class='o'&gt;{&lt;/span&gt;
+            &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='o'&gt;(&lt;/span&gt;&lt;span class='n'&gt;key&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='kc'&gt;null&lt;/span&gt;&lt;span class='o'&gt;)&lt;/span&gt;
+                &lt;span class='k'&gt;throw&lt;/span&gt; &lt;span class='k'&gt;new&lt;/span&gt; &lt;span class='nf'&gt;NullPointerException&lt;/span&gt;&lt;span class='o'&gt;();&lt;/span&gt;
+            &lt;span class='n'&gt;Comparable&lt;/span&gt;&lt;span class='o'&gt;&amp;lt;?&lt;/span&gt; &lt;span class='kd'&gt;super&lt;/span&gt; &lt;span class='n'&gt;K&lt;/span&gt;&lt;span class='o'&gt;&amp;gt;&lt;/span&gt; &lt;span class='n'&gt;k&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='o'&gt;(&lt;/span&gt;&lt;span class='n'&gt;Comparable&lt;/span&gt;&lt;span class='o'&gt;&amp;lt;?&lt;/span&gt; &lt;span class='kd'&gt;super&lt;/span&gt; &lt;span class='n'&gt;K&lt;/span&gt;&lt;span class='o'&gt;&amp;gt;)&lt;/span&gt; &lt;span class='n'&gt;key&lt;/span&gt;&lt;span class='o'&gt;;&lt;/span&gt;
+            &lt;span class='k'&gt;do&lt;/span&gt; &lt;span class='o'&gt;{&lt;/span&gt;
+                &lt;span class='n'&gt;parent&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;t&lt;/span&gt;&lt;span class='o'&gt;;&lt;/span&gt;
+                &lt;span class='n'&gt;cmp&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;k&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='na'&gt;compareTo&lt;/span&gt;&lt;span class='o'&gt;(&lt;/span&gt;&lt;span class='n'&gt;t&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='na'&gt;key&lt;/span&gt;&lt;span class='o'&gt;);&lt;/span&gt;
+                &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='o'&gt;(&lt;/span&gt;&lt;span class='n'&gt;cmp&lt;/span&gt; &lt;span class='o'&gt;&amp;lt;&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='o'&gt;)&lt;/span&gt;
+                    &lt;span class='n'&gt;t&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;t&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='na'&gt;left&lt;/span&gt;&lt;span class='o'&gt;;&lt;/span&gt;
+                &lt;span class='k'&gt;else&lt;/span&gt; &lt;span class='nf'&gt;if&lt;/span&gt; &lt;span class='o'&gt;(&lt;/span&gt;&lt;span class='n'&gt;cmp&lt;/span&gt; &lt;span class='o'&gt;&amp;gt;&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='o'&gt;)&lt;/span&gt;
+                    &lt;span class='n'&gt;t&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;t&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='na'&gt;right&lt;/span&gt;&lt;span class='o'&gt;;&lt;/span&gt;
+                &lt;span class='k'&gt;else&lt;/span&gt;
+                    &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;t&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='na'&gt;setValue&lt;/span&gt;&lt;span class='o'&gt;(&lt;/span&gt;&lt;span class='n'&gt;value&lt;/span&gt;&lt;span class='o'&gt;);&lt;/span&gt;
+            &lt;span class='o'&gt;}&lt;/span&gt; &lt;span class='k'&gt;while&lt;/span&gt; &lt;span class='o'&gt;(&lt;/span&gt;&lt;span class='n'&gt;t&lt;/span&gt; &lt;span class='o'&gt;!=&lt;/span&gt; &lt;span class='kc'&gt;null&lt;/span&gt;&lt;span class='o'&gt;);&lt;/span&gt;
+        &lt;span class='o'&gt;}&lt;/span&gt;
+        &lt;span class='n'&gt;Entry&lt;/span&gt;&lt;span class='o'&gt;&amp;lt;&lt;/span&gt;&lt;span class='n'&gt;K&lt;/span&gt;&lt;span class='o'&gt;,&lt;/span&gt;&lt;span class='n'&gt;V&lt;/span&gt;&lt;span class='o'&gt;&amp;gt;&lt;/span&gt; &lt;span class='n'&gt;e&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='k'&gt;new&lt;/span&gt; &lt;span class='n'&gt;Entry&lt;/span&gt;&lt;span class='o'&gt;&amp;lt;&amp;gt;(&lt;/span&gt;&lt;span class='n'&gt;key&lt;/span&gt;&lt;span class='o'&gt;,&lt;/span&gt; &lt;span class='n'&gt;value&lt;/span&gt;&lt;span class='o'&gt;,&lt;/span&gt; &lt;span class='n'&gt;parent&lt;/span&gt;&lt;span class='o'&gt;);&lt;/span&gt;
+        &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='o'&gt;(&lt;/span&gt;&lt;span class='n'&gt;cmp&lt;/span&gt; &lt;span class='o'&gt;&amp;lt;&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='o'&gt;)&lt;/span&gt;
+            &lt;span class='n'&gt;parent&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='na'&gt;left&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;e&lt;/span&gt;&lt;span class='o'&gt;;&lt;/span&gt;
+        &lt;span class='k'&gt;else&lt;/span&gt;
+            &lt;span class='n'&gt;parent&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='na'&gt;right&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;e&lt;/span&gt;&lt;span class='o'&gt;;&lt;/span&gt;
+        &lt;span class='n'&gt;fixAfterInsertion&lt;/span&gt;&lt;span class='o'&gt;(&lt;/span&gt;&lt;span class='n'&gt;e&lt;/span&gt;&lt;span class='o'&gt;);&lt;/span&gt;
+        &lt;span class='n'&gt;size&lt;/span&gt;&lt;span class='o'&gt;++;&lt;/span&gt;
+        &lt;span class='n'&gt;modCount&lt;/span&gt;&lt;span class='o'&gt;++;&lt;/span&gt;
+        &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='kc'&gt;null&lt;/span&gt;&lt;span class='o'&gt;;&lt;/span&gt;
+    &lt;span class='o'&gt;}&lt;/span&gt;  
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+                <link>http://jiaqing.me/tech/2012/04/05/tech-tree-map-in-java</link>
+                <guid>http://jiaqing.me/tech/2012/04/05/tech-tree-map-in-java</guid>
+                <pubDate>2012-04-05T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>数据有结构（四）红黑树</title>
+                <description></description>
+                <link>http://jiaqing.me/tech/2012/04/04/tech-rbt</link>
+                <guid>http://jiaqing.me/tech/2012/04/04/tech-rbt</guid>
+                <pubDate>2012-04-04T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>数据有结构（二）二叉查找树</title>
+                <description>&lt;p&gt;我们知道，一般有两种结构可以用在做数据索引：哈希和树，两者在查找功能上最显著的一个区别是，哈希只支持恒等查询，而树支持范围查询。二叉查找树（BinarySearchTree or BinarySortTree or BST）就是一个为范围查询设计的树，它是满足如下性质的二叉树或空树：&lt;br /&gt;1. 如果左子树非空，则左子树节点的值都小于根节点&lt;br /&gt;2. 如果右子树非空，则右子树节点的值都大于根节点&lt;br /&gt;3. 左右子树也是一颗二叉查找树&lt;/p&gt;
+
+&lt;p&gt;先定义BST的节点数据结构，其实和上一篇的二叉树结构基本相同，只是增加了一个频率字段，具体请见后续说明。&lt;/p&gt;
+&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='python'&gt;&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;\&lt;/span&gt;
+&lt;span class='sd'&gt;    BST节点&lt;/span&gt;
+&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class='k'&gt;class&lt;/span&gt; &lt;span class='nc'&gt;BSTNode&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+
+    &lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;__init__&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='bp'&gt;self&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+        &lt;span class='bp'&gt;self&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;element&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt;
+        &lt;span class='bp'&gt;self&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;leftNode&lt;/span&gt;
+        &lt;span class='bp'&gt;self&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;rightNode&lt;/span&gt;
+        &lt;span class='bp'&gt;self&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;freq&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;
+
+    &lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot; 频率递增 &amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+    &lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;freqUp&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='bp'&gt;self&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+        &lt;span class='bp'&gt;self&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;freq&lt;/span&gt; &lt;span class='o'&gt;+=&lt;/span&gt; &lt;span class='mi'&gt;1&lt;/span&gt;
+  
+    &lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot; 频率递减 &amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+    &lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;freqDown&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='bp'&gt;self&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+        &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='bp'&gt;self&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;freq&lt;/span&gt; &lt;span class='o'&gt;&amp;gt;&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+            &lt;span class='bp'&gt;self&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;freq&lt;/span&gt; &lt;span class='o'&gt;-=&lt;/span&gt; &lt;span class='mi'&gt;1&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;!-- more --&gt;
+&lt;h2 id='1_'&gt;1 插入节点&lt;/h2&gt;
+
+&lt;p&gt;往BST插入节点的算法遵循上述的3点性质。需要注意的是，现实中可能会碰到节点已经存在的情况，所以这里给节点增加一个频率属性，碰到重复节点时就递增该字段。删除时也类似，当频率属性大于零时，就先递减，而不是直接删除。&lt;/p&gt;
+&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='python'&gt;&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;\&lt;/span&gt;
+&lt;span class='sd'&gt;    插入节点&lt;/span&gt;
+&lt;span class='sd'&gt;    node: the BST&lt;/span&gt;
+&lt;span class='sd'&gt;    element: new BST node&lt;/span&gt;
+&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;insert&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+    &lt;span class='c'&gt;# 如果是空树，直接初始化根节点 &lt;/span&gt;
+    &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;BSTNode&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+    &lt;span class='k'&gt;else&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='c'&gt;# 等于当前节点，累计频率&lt;/span&gt;
+        &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;element&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+            &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;freqUp&lt;/span&gt;&lt;span class='p'&gt;()&lt;/span&gt;
+            &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;
+
+        &lt;span class='c'&gt;# 小于当前节点，插入到左子树 &lt;/span&gt;
+        &lt;span class='k'&gt;elif&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;element&lt;/span&gt; &lt;span class='o'&gt;&amp;gt;&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+            &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;insert&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+            &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;
+
+        &lt;span class='c'&gt;# 大于当前节点，插入到右子树 &lt;/span&gt;
+        &lt;span class='k'&gt;else&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+            &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;insert&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+            &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id='2_'&gt;2 删除节点&lt;/h2&gt;
+
+&lt;p&gt;删除操作应该算是BST中最复杂的操作了，因为删除一个节点的时候，要考虑挂在它下边的左右子树怎么重新排列。这里有几种情况：&lt;br /&gt;1. 没有左右子节点，最简单，直接删除就好了&lt;br /&gt;2. 只有一个左或右节点，直接拿这个节点替代当前节点&lt;br /&gt;3. 存在左右子节点，这里需要拿右节点替代当前节点。另外，如果右节点也是有子节点怎么办呢？一个比较简单的方式是，直接拿右子树的最小节点来替代当前删除的节点，这样删除节点之后仍然是一颗BST。画个图就比较直观了： &lt;center&gt;&lt;img src='http://pic.yupoo.com/asuka4j/CKmy1GTf/medish.jpg' /&gt;&lt;/center&gt;&lt;/p&gt;
+&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='python'&gt;&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;\&lt;/span&gt;
+&lt;span class='sd'&gt;    删除节点&lt;/span&gt;
+&lt;span class='sd'&gt;    node: the BST&lt;/span&gt;
+&lt;span class='sd'&gt;    element: node to delete&lt;/span&gt;
+&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;delete&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+    &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='k'&gt;return&lt;/span&gt;
+
+    &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;element&lt;/span&gt; &lt;span class='o'&gt;&amp;gt;&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='n'&gt;delete&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+    &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;element&lt;/span&gt; &lt;span class='o'&gt;&amp;lt;&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='n'&gt;delete&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+
+    &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;element&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;freq&lt;/span&gt; &lt;span class='o'&gt;&amp;gt;&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+            &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;freqDown&lt;/span&gt;&lt;span class='p'&gt;()&lt;/span&gt;
+        &lt;span class='k'&gt;else&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+            &lt;span class='c'&gt;# 对于存在双子节点的情况，就拿右子树的最小节点来替代当前节点&lt;/span&gt;
+            &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt; &lt;span class='o'&gt;!=&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt; &lt;span class='ow'&gt;and&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt; &lt;span class='o'&gt;!=&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+                &lt;span class='n'&gt;minNode&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;getMin&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+                &lt;span class='n'&gt;minNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;
+                &lt;span class='n'&gt;minNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;
+                &lt;span class='n'&gt;delete&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;minNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+                &lt;span class='n'&gt;node&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;minNode&lt;/span&gt;
+            &lt;span class='k'&gt;elif&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt; &lt;span class='o'&gt;!=&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt; &lt;span class='ow'&gt;and&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+                &lt;span class='n'&gt;node&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;
+            &lt;span class='k'&gt;elif&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt; &lt;span class='ow'&gt;and&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt; &lt;span class='o'&gt;!=&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+                &lt;span class='n'&gt;node&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;
+            &lt;span class='k'&gt;else&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+                &lt;span class='n'&gt;node&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;
+
+&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;\&lt;/span&gt;
+&lt;span class='sd'&gt;    获取BST子树中的最小元素&lt;/span&gt;
+&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;getMin&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+    &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;
+    &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;getMin&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id='3_'&gt;3 查找节点&lt;/h2&gt;
+
+&lt;p&gt;辛辛苦苦构建这颗树，就是用来做范围查询的。目前我们构建的BST已经支持从min到max的范围查询，按照中序遍历可以将结果以升序的方式输出，这样也省去了重排序的步骤。&lt;/p&gt;
+&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='python'&gt;&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;\ &lt;/span&gt;
+&lt;span class='sd'&gt;    按范围搜索 &lt;/span&gt;
+&lt;span class='sd'&gt;    node: BST&lt;/span&gt;
+&lt;span class='sd'&gt;    min: min value&lt;/span&gt;
+&lt;span class='sd'&gt;    max: max value&lt;/span&gt;
+&lt;span class='sd'&gt;    result: search result&lt;/span&gt;
+&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;searchII&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='nb'&gt;min&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='nb'&gt;max&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;result&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+    &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt; &lt;span class='ow'&gt;or&lt;/span&gt; &lt;span class='nb'&gt;min&lt;/span&gt; &lt;span class='o'&gt;&amp;gt;&lt;/span&gt; &lt;span class='nb'&gt;max&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='k'&gt;return&lt;/span&gt;
+    &lt;span class='c'&gt;# 只要当前元素小于MIN就继续遍历左子树&lt;/span&gt;
+    &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;element&lt;/span&gt; &lt;span class='o'&gt;&amp;gt;&lt;/span&gt; &lt;span class='nb'&gt;min&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='n'&gt;searchII&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='nb'&gt;min&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='nb'&gt;max&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;result&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+    &lt;span class='c'&gt;# 满足条件就添加&lt;/span&gt;
+    &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;element&lt;/span&gt; &lt;span class='o'&gt;&amp;gt;=&lt;/span&gt; &lt;span class='nb'&gt;min&lt;/span&gt; &lt;span class='ow'&gt;and&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;element&lt;/span&gt; &lt;span class='o'&gt;&amp;lt;=&lt;/span&gt; &lt;span class='nb'&gt;max&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='n'&gt;result&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;append&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+    &lt;span class='c'&gt;# 只要当前元素小于MIN或不超过MAX就继续遍历右子树&lt;/span&gt;
+    &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;element&lt;/span&gt; &lt;span class='o'&gt;&amp;lt;&lt;/span&gt; &lt;span class='nb'&gt;min&lt;/span&gt; &lt;span class='ow'&gt;or&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;element&lt;/span&gt; &lt;span class='o'&gt;&amp;lt;=&lt;/span&gt; &lt;span class='nb'&gt;max&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='n'&gt;searchII&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='nb'&gt;min&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='nb'&gt;max&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;result&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id='4_'&gt;4 树的退化&lt;/h2&gt;
+
+&lt;p&gt;很完美是不？噢不，可能你也发现了，其实BST是一个静态的结构，树的形状完全依赖于录入元素的顺序。在一些极端情况会导致树长歪，比如我们依次录入的元素是：0、1、2、3、&amp;#8230;1000，生成的BST就退换成一条链表了。这就提现不出二叉检索的优越性了。有什么改良的办法吗？当然有了，既然是为了让BST一直保持平衡，那就在插入和删除节点的时候做控制，保证每次修改之后BST一直处于平衡状态。请见下一篇&lt;a href='http://jiaqing.me/'&gt;平衡二叉树&lt;/a&gt;&lt;/p&gt;</description>
+                <link>http://jiaqing.me/tech/2012/04/03/tech-bst</link>
+                <guid>http://jiaqing.me/tech/2012/04/03/tech-bst</guid>
+                <pubDate>2012-04-03T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>数据有结构（三）平衡二叉树</title>
+                <description>&lt;p&gt;平衡二叉树是一种绝对平衡的BST，它规定所有节点的左右子树高度相差不能大于1。这就要求每次新增、删除节点时，都需要重新计算左右子树树高，如果树高超过1就需要做节点的旋转，让它恢复到平衡状态。旋转方式全部四种。&lt;/p&gt;
+
+&lt;h2 id='id1'&gt;左左旋转&lt;/h2&gt;
+&lt;center&gt;&lt;img src='http://pic.yupoo.com/asuka4j/CKuG9myB/medish.jpg' /&gt;&lt;/center&gt;
+&lt;p&gt;如果由于往node.leftNode.leftNode插入新节点而导致不平衡，这时需要对node节点做左旋转。&lt;/p&gt;
+&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='python'&gt;&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;\&lt;/span&gt;
+&lt;span class='sd'&gt;    左左旋转&lt;/span&gt;
+&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;rotateLL&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+    &lt;span class='n'&gt;top&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt; &lt;span class='c'&gt;# 当前节点的左节点升级为top&lt;/span&gt;
+    &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;top&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt; &lt;span class='c'&gt;# （如果有）top的右节点变为当前节点的左节点&lt;/span&gt;
+    &lt;span class='n'&gt;top&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt; &lt;span class='c'&gt;# 当前节点变为top的右节点&lt;/span&gt;
+    &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;top&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id='id2'&gt;右右旋转&lt;/h2&gt;
+&lt;center&gt;&lt;img src='http://pic.yupoo.com/asuka4j/CKu5rbm4/medish.jpg' /&gt;&lt;/center&gt;
+&lt;p&gt;如果由于往node.rightNode.rightNode插入新节点而导致不平衡，这时需要对node节点做右旋转。&lt;/p&gt;
+&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='python'&gt;&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;\&lt;/span&gt;
+&lt;span class='sd'&gt;    右右旋转&lt;/span&gt;
+&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;rotateRR&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+    &lt;span class='n'&gt;top&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;
+    &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;top&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;
+    &lt;span class='n'&gt;top&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;
+    &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;top&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id='id3'&gt;左右旋转&lt;/h2&gt;
+&lt;center&gt;&lt;img src='http://pic.yupoo.com/asuka4j/CKuGdOZn/medish.jpg' /&gt;&lt;/center&gt;
+&lt;p&gt;如果是往node.leftNode.rightNode插入新节点导致不平衡，需要先对node.leftNode做右旋转，再对node自己做左旋转。&lt;/p&gt;
+&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='python'&gt;&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;\&lt;/span&gt;
+&lt;span class='sd'&gt;    左右旋转&lt;/span&gt;
+&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;rotateLR&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+    &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;rotateRR&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+    &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;rotateLL&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id='id4'&gt;右左旋转&lt;/h2&gt;
+&lt;center&gt;&lt;img src='http://pic.yupoo.com/asuka4j/CKuG55NF/medish.jpg' /&gt;&lt;/center&gt;
+&lt;p&gt;如果往node.rightNode.leftNode插入新节点导致不平衡，需要先对node.rightNode做左旋转，再对node自己做右旋转。&lt;/p&gt;
+&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='python'&gt;&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;\&lt;/span&gt;
+&lt;span class='sd'&gt;    右左旋转&lt;/span&gt;
+&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;rotateRL&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+    &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;rotateLL&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+    &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;rotateRR&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id='id5'&gt;插入节点&lt;/h2&gt;
+
+&lt;p&gt;有了上述四种基础旋转操作，就可以在插入、删除节点时应用上了。插入节点的步骤与BST一直，通过递归地与当前节点比对大小找到最终位置然后插入。不同点在于每次插入之后需要重新计算树高，如果不平衡就通过四种旋转调整到平衡状态。 为了避免每次递归都重新计算左右子树的树高，这里还用到一个小伎俩，就是将当前树高也作为参数递归传递下去，由每层节点累计（当前值+1）。&lt;/p&gt;
+&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='python'&gt;&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;\&lt;/span&gt;
+&lt;span class='sd'&gt;    插入新节点&lt;/span&gt;
+&lt;span class='sd'&gt;    node: the AVL&lt;/span&gt;
+&lt;span class='sd'&gt;    element : the new element&lt;/span&gt;
+&lt;span class='sd'&gt;    currentDepth: current node&amp;#39;s depth&lt;/span&gt;
+&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;insert&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;currentDepth&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+    &lt;span class='c'&gt;# 在最末端新增节点&lt;/span&gt;
+    &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='n'&gt;currentDepth&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;
+        &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;AVLNode&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+    &lt;span class='k'&gt;else&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='n'&gt;leftDepth&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;
+        &lt;span class='n'&gt;rightDepth&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;
+
+        &lt;span class='c'&gt;# 1. 递归添加节点&lt;/span&gt;
+        &lt;span class='c'&gt;# 1.1 如果小于当前节点则遍历左子树&lt;/span&gt;
+        &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;element&lt;/span&gt; &lt;span class='o'&gt;&amp;gt;&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+            &lt;span class='c'&gt;# 新增节点做为当前的左节点&lt;/span&gt;
+            &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;insert&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;leftDepth&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+            &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;
+        &lt;span class='c'&gt;# 1.2 如果大于当前节点则遍历右子树&lt;/span&gt;
+        &lt;span class='k'&gt;elif&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;element&lt;/span&gt; &lt;span class='o'&gt;&amp;lt;&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+            &lt;span class='c'&gt;# 新增节点作为当前的右节点&lt;/span&gt;
+            &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;insert&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;rightDepth&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+            &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;
+        &lt;span class='c'&gt;# 1.3 如果已经存在了只累计频率&lt;/span&gt;
+        &lt;span class='k'&gt;else&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+            &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;freqUp&lt;/span&gt;&lt;span class='p'&gt;()&lt;/span&gt;
+            &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;
+
+        &lt;span class='c'&gt;# 2 累计树高&lt;/span&gt;
+        &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;leftDepth&lt;/span&gt; &lt;span class='o'&gt;&amp;gt;&lt;/span&gt; &lt;span class='n'&gt;rightDepth&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+            &lt;span class='n'&gt;currentDepth&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;leftDepth&lt;/span&gt; &lt;span class='o'&gt;+&lt;/span&gt; &lt;span class='mi'&gt;1&lt;/span&gt;
+        &lt;span class='k'&gt;elif&lt;/span&gt; &lt;span class='n'&gt;rightDepth&lt;/span&gt; &lt;span class='o'&gt;&amp;lt;&lt;/span&gt; &lt;span class='n'&gt;leftDepth&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+            &lt;span class='n'&gt;currentDepth&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;rightDepth&lt;/span&gt; &lt;span class='o'&gt;+&lt;/span&gt; &lt;span class='mi'&gt;1&lt;/span&gt;
+            
+
+        &lt;span class='c'&gt;# 3. 处理旋转&lt;/span&gt;
+        &lt;span class='c'&gt;# 3.1 左子树比右子树高出2&lt;/span&gt;
+        &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;leftDepth&lt;/span&gt; &lt;span class='o'&gt;-&lt;/span&gt; &lt;span class='n'&gt;rightDepth&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='mi'&gt;2&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+            &lt;span class='c'&gt;# 3.1.1 在左节点左边&lt;/span&gt;
+            &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt; &lt;span class='o'&gt;&amp;lt;&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+                &lt;span class='n'&gt;roteteLL&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+            &lt;span class='c'&gt;# 3.1.2 在左节点右边&lt;/span&gt;
+            &lt;span class='k'&gt;elif&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt; &lt;span class='o'&gt;&amp;gt;&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+                &lt;span class='n'&gt;rotateLR&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+        &lt;span class='c'&gt;# 3.2 右子树比左子树高出2&lt;/span&gt;
+        &lt;span class='k'&gt;elif&lt;/span&gt; &lt;span class='n'&gt;rightDepth&lt;/span&gt; &lt;span class='o'&gt;-&lt;/span&gt; &lt;span class='n'&gt;leftDepth&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='mi'&gt;2&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+            &lt;span class='c'&gt;# 3.2.3 在右节点右边&lt;/span&gt;
+            &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt; &lt;span class='o'&gt;&amp;gt;&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+                &lt;span class='n'&gt;rotateRR&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+            &lt;span class='c'&gt;# 3.2.4 在右节点左边&lt;/span&gt;
+            &lt;span class='k'&gt;elif&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt; &lt;span class='o'&gt;&amp;lt;&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+                &lt;span class='n'&gt;rotateRL&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;先简单做个测试，随机往AVL插入99个节点，然后中序遍历，看输出的结果是否按从小到大递增。&lt;/p&gt;
+&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='python'&gt;&lt;span class='n'&gt;avl&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;
+
+&lt;span class='n'&gt;x&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;
+&lt;span class='k'&gt;while&lt;/span&gt; &lt;span class='n'&gt;x&lt;/span&gt; &lt;span class='o'&gt;&amp;lt;&lt;/span&gt; &lt;span class='mi'&gt;99&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+    &lt;span class='n'&gt;avl&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;AVL&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;insert&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;avl&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;random&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;randint&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='mi'&gt;999&lt;/span&gt;&lt;span class='p'&gt;),&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+    &lt;span class='n'&gt;x&lt;/span&gt; &lt;span class='o'&gt;+=&lt;/span&gt;&lt;span class='mi'&gt;1&lt;/span&gt;
+
+&lt;span class='n'&gt;BinaryTree&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;inOrder&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;avl&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+
+&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot; 屏幕输出： &amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class='mi'&gt;6&lt;/span&gt; &lt;span class='mi'&gt;14&lt;/span&gt; &lt;span class='mi'&gt;31&lt;/span&gt; &lt;span class='mi'&gt;38&lt;/span&gt; &lt;span class='mi'&gt;41&lt;/span&gt; &lt;span class='mi'&gt;46&lt;/span&gt; &lt;span class='mi'&gt;57&lt;/span&gt; &lt;span class='mi'&gt;60&lt;/span&gt; &lt;span class='mi'&gt;74&lt;/span&gt; &lt;span class='mi'&gt;75&lt;/span&gt; &lt;span class='mi'&gt;130&lt;/span&gt; &lt;span class='mi'&gt;133&lt;/span&gt; &lt;span class='mi'&gt;135&lt;/span&gt; &lt;span class='mi'&gt;140&lt;/span&gt; &lt;span class='mi'&gt;189&lt;/span&gt; &lt;span class='mi'&gt;196&lt;/span&gt; &lt;span class='mi'&gt;214&lt;/span&gt; &lt;span class='mi'&gt;218&lt;/span&gt; &lt;span class='mi'&gt;244&lt;/span&gt; &lt;span class='mi'&gt;249&lt;/span&gt; &lt;span class='mi'&gt;265&lt;/span&gt; &lt;span class='mi'&gt;271&lt;/span&gt; &lt;span class='mi'&gt;273&lt;/span&gt; &lt;span class='mi'&gt;290&lt;/span&gt; &lt;span class='mi'&gt;298&lt;/span&gt; &lt;span class='mi'&gt;302&lt;/span&gt; &lt;span class='mi'&gt;304&lt;/span&gt; &lt;span class='mi'&gt;337&lt;/span&gt; &lt;span class='mi'&gt;338&lt;/span&gt; &lt;span class='mi'&gt;361&lt;/span&gt; &lt;span class='mi'&gt;371&lt;/span&gt; &lt;span class='mi'&gt;398&lt;/span&gt; &lt;span class='mi'&gt;416&lt;/span&gt; &lt;span class='mi'&gt;428&lt;/span&gt; &lt;span class='mi'&gt;438&lt;/span&gt; &lt;span class='mi'&gt;449&lt;/span&gt; &lt;span class='mi'&gt;457&lt;/span&gt; &lt;span class='mi'&gt;465&lt;/span&gt; &lt;span class='mi'&gt;467&lt;/span&gt; &lt;span class='mi'&gt;471&lt;/span&gt; &lt;span class='mi'&gt;485&lt;/span&gt; &lt;span class='mi'&gt;486&lt;/span&gt; &lt;span class='mi'&gt;502&lt;/span&gt; &lt;span class='mi'&gt;506&lt;/span&gt; &lt;span class='mi'&gt;507&lt;/span&gt; &lt;span class='mi'&gt;513&lt;/span&gt; &lt;span class='mi'&gt;515&lt;/span&gt; &lt;span class='mi'&gt;558&lt;/span&gt; &lt;span class='mi'&gt;561&lt;/span&gt; &lt;span class='mi'&gt;565&lt;/span&gt; &lt;span class='mi'&gt;567&lt;/span&gt; &lt;span class='mi'&gt;574&lt;/span&gt; &lt;span class='mi'&gt;578&lt;/span&gt; &lt;span class='mi'&gt;579&lt;/span&gt; &lt;span class='mi'&gt;585&lt;/span&gt; &lt;span class='mi'&gt;608&lt;/span&gt; &lt;span class='mi'&gt;621&lt;/span&gt; &lt;span class='mi'&gt;647&lt;/span&gt; &lt;span class='mi'&gt;658&lt;/span&gt; &lt;span class='mi'&gt;691&lt;/span&gt; &lt;span class='mi'&gt;693&lt;/span&gt; &lt;span class='mi'&gt;716&lt;/span&gt; &lt;span class='mi'&gt;719&lt;/span&gt; &lt;span class='mi'&gt;724&lt;/span&gt; &lt;span class='mi'&gt;728&lt;/span&gt; &lt;span class='mi'&gt;737&lt;/span&gt; &lt;span class='mi'&gt;748&lt;/span&gt; &lt;span class='mi'&gt;764&lt;/span&gt; &lt;span class='mi'&gt;765&lt;/span&gt; &lt;span class='mi'&gt;770&lt;/span&gt; &lt;span class='mi'&gt;784&lt;/span&gt; &lt;span class='mi'&gt;816&lt;/span&gt; &lt;span class='mi'&gt;838&lt;/span&gt; &lt;span class='mi'&gt;842&lt;/span&gt; &lt;span class='mi'&gt;869&lt;/span&gt; &lt;span class='mi'&gt;881&lt;/span&gt; &lt;span class='mi'&gt;882&lt;/span&gt; &lt;span class='mi'&gt;884&lt;/span&gt; &lt;span class='mi'&gt;891&lt;/span&gt; &lt;span class='mi'&gt;906&lt;/span&gt; &lt;span class='mi'&gt;913&lt;/span&gt; &lt;span class='mi'&gt;924&lt;/span&gt; &lt;span class='mi'&gt;931&lt;/span&gt; &lt;span class='mi'&gt;934&lt;/span&gt; &lt;span class='mi'&gt;939&lt;/span&gt; &lt;span class='mi'&gt;940&lt;/span&gt; &lt;span class='mi'&gt;966&lt;/span&gt; &lt;span class='mi'&gt;971&lt;/span&gt; &lt;span class='mi'&gt;974&lt;/span&gt; &lt;span class='mi'&gt;983&lt;/span&gt; &lt;span class='mi'&gt;986&lt;/span&gt; &lt;span class='mi'&gt;995&lt;/span&gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id='id6'&gt;删除节点&lt;/h2&gt;
+&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='python'&gt;&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;\&lt;/span&gt;
+&lt;span class='sd'&gt;    删除节点&lt;/span&gt;
+&lt;span class='sd'&gt;    TODO: 这段代码还没经过测试，最后一段的判断语句写的有点挫&lt;/span&gt;
+&lt;span class='sd'&gt;    node: the AVL&lt;/span&gt;
+&lt;span class='sd'&gt;    element: delete element&lt;/span&gt;
+&lt;span class='sd'&gt;    currentDepth: current tree depth&lt;/span&gt;
+&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;    
+&lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;delete&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;currentDepth&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+    &lt;span class='c'&gt;# 在最末端新增节点&lt;/span&gt;
+    &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='n'&gt;currentDepth&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;
+        &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;AVLNode&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+    &lt;span class='k'&gt;else&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='n'&gt;leftDepth&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;
+        &lt;span class='n'&gt;rightDepth&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;
+
+        &lt;span class='c'&gt;# 1. 递归删除节点&lt;/span&gt;
+        &lt;span class='c'&gt;# 1.1 如果小于当前节点则遍历左子树&lt;/span&gt;
+        &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;element&lt;/span&gt; &lt;span class='o'&gt;&amp;gt;&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+            &lt;span class='c'&gt;# 新增节点做为当前的左节点&lt;/span&gt;
+            &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;delete&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;leftDepth&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+            &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;
+        &lt;span class='c'&gt;# 1.2 如果大于当前节点则遍历右子树&lt;/span&gt;
+        &lt;span class='k'&gt;elif&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;element&lt;/span&gt; &lt;span class='o'&gt;&amp;lt;&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+            &lt;span class='c'&gt;# 新增节点作为当前的右节点&lt;/span&gt;
+            &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;delete&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;rightDepth&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+            &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;
+        &lt;span class='c'&gt;# 1.3 如果已经存在了先递减频率，另外需要考虑下面还有子节点的情况&lt;/span&gt;
+        &lt;span class='k'&gt;else&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+            &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;freq&lt;/span&gt; &lt;span class='o'&gt;&amp;gt;&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+                &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;freqDown&lt;/span&gt;&lt;span class='p'&gt;()&lt;/span&gt;
+                &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;
+            &lt;span class='k'&gt;else&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+                &lt;span class='c'&gt;# 1.3.1 没有子节点直接删除&lt;/span&gt;
+                &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt; &lt;span class='ow'&gt;and&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+                    &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;delete&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;currentDepth&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+                &lt;span class='c'&gt;# 1.3.2 存在左右子节点需要拿右节点最小值替代当前节点&lt;/span&gt;
+                &lt;span class='k'&gt;elif&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt; &lt;span class='o'&gt;!=&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt; &lt;span class='ow'&gt;and&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt; &lt;span class='err'&gt;！&lt;/span&gt;&lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+                    &lt;span class='c'&gt;# TODO&lt;/span&gt;
+                    &lt;span class='k'&gt;pass&lt;/span&gt;
+                &lt;span class='c'&gt;# 1.3.3 存在单个节点直接替换当前节点&lt;/span&gt;
+                &lt;span class='k'&gt;else&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+                    &lt;span class='c'&gt;# TODO&lt;/span&gt;
+                    &lt;span class='k'&gt;pass&lt;/span&gt;
+
+        &lt;span class='c'&gt;# 2 累计树高&lt;/span&gt;
+        &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;leftDepth&lt;/span&gt; &lt;span class='o'&gt;&amp;lt;&lt;/span&gt; &lt;span class='n'&gt;rightDepth&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+            &lt;span class='n'&gt;currentDepth&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;leftDepth&lt;/span&gt; &lt;span class='o'&gt;-&lt;/span&gt; &lt;span class='mi'&gt;1&lt;/span&gt;
+        &lt;span class='k'&gt;elif&lt;/span&gt; &lt;span class='n'&gt;rightDepth&lt;/span&gt; &lt;span class='o'&gt;&amp;lt;&lt;/span&gt; &lt;span class='n'&gt;leftDepth&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+            &lt;span class='n'&gt;currentDepth&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;rightDepth&lt;/span&gt; &lt;span class='o'&gt;-&lt;/span&gt; &lt;span class='mi'&gt;1&lt;/span&gt;
+            
+
+        &lt;span class='c'&gt;# 3. 处理旋转（与插入节点的步骤相反，实现不是很干脆，讲究..）&lt;/span&gt;
+        &lt;span class='c'&gt;# 3.1 左子树比右子树高出2&lt;/span&gt;
+        &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='nb'&gt;abs&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;leftDepth&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt; &lt;span class='o'&gt;-&lt;/span&gt; &lt;span class='nb'&gt;abs&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;rightDepth&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='mi'&gt;2&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+            &lt;span class='c'&gt;# 3.2.3 在右节点左边&lt;/span&gt;
+            &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt; &lt;span class='o'&gt;!=&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt; &lt;span class='ow'&gt;and&lt;/span&gt; &lt;span class='p'&gt;((&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt; &lt;span class='ow'&gt;and&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt; &lt;span class='o'&gt;!=&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt; &lt;span class='ow'&gt;or&lt;/span&gt; &lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt; &lt;span class='o'&gt;!=&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt; &lt;span class='ow'&gt;and&lt;/span&gt; &lt;span class='ow'&gt;not&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;isLeaf&lt;/span&gt;&lt;span class='p'&gt;())):&lt;/span&gt;
+                &lt;span class='n'&gt;rotateRL&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+            &lt;span class='c'&gt;# 3.2.4 在右节点左边&lt;/span&gt;
+            &lt;span class='k'&gt;elif&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt; &lt;span class='o'&gt;!=&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt; &lt;span class='ow'&gt;and&lt;/span&gt; &lt;span class='p'&gt;((&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt; &lt;span class='ow'&gt;and&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt; &lt;span class='o'&gt;!=&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt; &lt;span class='ow'&gt;or&lt;/span&gt; &lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt; &lt;span class='o'&gt;!=&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt; &lt;span class='ow'&gt;and&lt;/span&gt; &lt;span class='ow'&gt;not&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;isLeaf&lt;/span&gt;&lt;span class='p'&gt;())):&lt;/span&gt;
+                &lt;span class='n'&gt;rotateRR&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+    
+        &lt;span class='c'&gt;# 3.2 右子树比左子树高出2&lt;/span&gt;
+        &lt;span class='k'&gt;elif&lt;/span&gt; &lt;span class='nb'&gt;abs&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;rightDepth&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt; &lt;span class='o'&gt;-&lt;/span&gt; &lt;span class='nb'&gt;abs&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;leftDepth&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='mi'&gt;2&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+            &lt;span class='c'&gt;# 3.1.1 在左节点右边&lt;/span&gt;
+            &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt; &lt;span class='o'&gt;!=&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt; &lt;span class='ow'&gt;and&lt;/span&gt; &lt;span class='p'&gt;((&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt; &lt;span class='ow'&gt;and&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt; &lt;span class='o'&gt;!=&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt; &lt;span class='ow'&gt;or&lt;/span&gt; &lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt; &lt;span class='o'&gt;!=&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt; &lt;span class='ow'&gt;and&lt;/span&gt; &lt;span class='ow'&gt;not&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;isLeaf&lt;/span&gt;&lt;span class='p'&gt;())):&lt;/span&gt;
+                &lt;span class='n'&gt;roteteLL&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+            &lt;span class='c'&gt;# 3.1.2 在左节点左边&lt;/span&gt;
+            &lt;span class='k'&gt;elif&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt; &lt;span class='o'&gt;!=&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt; &lt;span class='ow'&gt;and&lt;/span&gt; &lt;span class='p'&gt;((&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt; &lt;span class='ow'&gt;and&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt; &lt;span class='o'&gt;!=&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt; &lt;span class='ow'&gt;or&lt;/span&gt; &lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt; &lt;span class='o'&gt;!=&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt; &lt;span class='ow'&gt;and&lt;/span&gt; &lt;span class='ow'&gt;not&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;isLeaf&lt;/span&gt;&lt;span class='p'&gt;())):&lt;/span&gt;
+                &lt;span class='n'&gt;rotateLR&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id='id7'&gt;性能对比&lt;/h2&gt;
+
+&lt;p&gt;这里先在本地内存上做下BST和AVL的插入、查询性能对比。分别对BST和AVL顺序插入新节点0-9999，然后按相同的条件进行查询。&lt;/p&gt;
+&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='python'&gt;&lt;span class='n'&gt;bst&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;
+&lt;span class='n'&gt;avl&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;
+
+&lt;span class='k'&gt;print&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;datetime&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;datetime&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;now&lt;/span&gt;&lt;span class='p'&gt;())&lt;/span&gt;
+&lt;span class='k'&gt;print&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='s'&gt;&amp;#39;init BST&amp;#39;&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+
+&lt;span class='n'&gt;i&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;
+&lt;span class='k'&gt;while&lt;/span&gt; &lt;span class='n'&gt;i&lt;/span&gt; &lt;span class='o'&gt;&amp;lt;&lt;/span&gt; &lt;span class='mi'&gt;19999&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+    &lt;span class='c'&gt;# bst = BST.insert(bst, random.randint(0, 999999))&lt;/span&gt;
+    &lt;span class='n'&gt;bst&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;BST&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;insert&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;bst&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;i&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+    &lt;span class='n'&gt;i&lt;/span&gt; &lt;span class='o'&gt;+=&lt;/span&gt; &lt;span class='mi'&gt;1&lt;/span&gt;
+
+&lt;span class='k'&gt;print&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;datetime&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;datetime&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;now&lt;/span&gt;&lt;span class='p'&gt;())&lt;/span&gt;
+&lt;span class='k'&gt;print&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='s'&gt;&amp;#39;init AVL&amp;#39;&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+
+&lt;span class='n'&gt;j&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;
+&lt;span class='k'&gt;while&lt;/span&gt; &lt;span class='n'&gt;j&lt;/span&gt; &lt;span class='o'&gt;&amp;lt;&lt;/span&gt; &lt;span class='mi'&gt;19999&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+    &lt;span class='c'&gt;# avl = AVL.insert(avl, random.randint(0, 999999), 0)&lt;/span&gt;
+    &lt;span class='c'&gt;#avl = AVL.insert(avl, random.randint(0, 999999), 0)&lt;/span&gt;
+    &lt;span class='n'&gt;avl&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;AVL&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;insert&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;avl&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;j&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+    &lt;span class='n'&gt;j&lt;/span&gt; &lt;span class='o'&gt;+=&lt;/span&gt; &lt;span class='mi'&gt;1&lt;/span&gt;
+
+&lt;span class='k'&gt;print&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;datetime&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;datetime&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;now&lt;/span&gt;&lt;span class='p'&gt;())&lt;/span&gt;
+&lt;span class='k'&gt;print&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='s'&gt;&amp;#39;bst search begin&amp;#39;&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+
+&lt;span class='n'&gt;bstResult&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='p'&gt;[]&lt;/span&gt; &lt;span class='o'&gt;*&lt;/span&gt; &lt;span class='mi'&gt;5000&lt;/span&gt;
+&lt;span class='n'&gt;BST&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;searchII&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;bst&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='mi'&gt;1&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='mi'&gt;100&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;bstResult&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+&lt;span class='n'&gt;BST&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;searchII&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;bst&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='mi'&gt;999&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='mi'&gt;1800&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;bstResult&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+&lt;span class='n'&gt;BST&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;searchII&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;bst&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='mi'&gt;65687&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='mi'&gt;70000&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;bstResult&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+&lt;span class='n'&gt;BST&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;searchII&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;bst&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='mi'&gt;9998&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='mi'&gt;9999&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;bstResult&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+&lt;span class='n'&gt;BST&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;searchII&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;bst&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='mi'&gt;4000&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='mi'&gt;5000&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;bstResult&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+
+&lt;span class='k'&gt;print&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;datetime&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;datetime&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;now&lt;/span&gt;&lt;span class='p'&gt;())&lt;/span&gt;
+&lt;span class='k'&gt;print&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='s'&gt;&amp;#39;avl search begin&amp;#39;&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+
+&lt;span class='n'&gt;avlResult&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='p'&gt;[]&lt;/span&gt; &lt;span class='o'&gt;*&lt;/span&gt; &lt;span class='mi'&gt;5000&lt;/span&gt;
+&lt;span class='n'&gt;BST&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;searchII&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;avl&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='mi'&gt;1&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='mi'&gt;100&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;avlResult&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+&lt;span class='n'&gt;BST&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;searchII&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;avl&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='mi'&gt;999&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='mi'&gt;1800&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;avlResult&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+&lt;span class='n'&gt;BST&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;searchII&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;avl&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='mi'&gt;6558&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='mi'&gt;7000&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;avlResult&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+&lt;span class='n'&gt;BST&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;searchII&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;avl&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='mi'&gt;9998&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='mi'&gt;9999&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;avlResult&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+&lt;span class='n'&gt;BST&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;searchII&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;avl&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='mi'&gt;4000&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='mi'&gt;5000&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;avlResult&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+
+&lt;span class='k'&gt;print&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;datetime&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;datetime&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;now&lt;/span&gt;&lt;span class='p'&gt;())&lt;/span&gt;
+&lt;span class='k'&gt;print&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='s'&gt;&amp;#39;end&amp;#39;&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+
+&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot; 屏幕输出 &amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class='n'&gt;begin&lt;/span&gt;
+&lt;span class='mi'&gt;2013&lt;/span&gt;&lt;span class='o'&gt;-&lt;/span&gt;&lt;span class='mo'&gt;03&lt;/span&gt;&lt;span class='o'&gt;-&lt;/span&gt;&lt;span class='mi'&gt;31&lt;/span&gt; &lt;span class='mi'&gt;16&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mi'&gt;08&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mf'&gt;47.545757&lt;/span&gt;
+&lt;span class='n'&gt;init&lt;/span&gt; &lt;span class='n'&gt;BST&lt;/span&gt;
+&lt;span class='mi'&gt;2013&lt;/span&gt;&lt;span class='o'&gt;-&lt;/span&gt;&lt;span class='mo'&gt;03&lt;/span&gt;&lt;span class='o'&gt;-&lt;/span&gt;&lt;span class='mi'&gt;31&lt;/span&gt; &lt;span class='mi'&gt;16&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mi'&gt;09&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mf'&gt;36.126257&lt;/span&gt;
+&lt;span class='n'&gt;init&lt;/span&gt; &lt;span class='n'&gt;AVL&lt;/span&gt;
+&lt;span class='mi'&gt;2013&lt;/span&gt;&lt;span class='o'&gt;-&lt;/span&gt;&lt;span class='mo'&gt;03&lt;/span&gt;&lt;span class='o'&gt;-&lt;/span&gt;&lt;span class='mi'&gt;31&lt;/span&gt; &lt;span class='mi'&gt;16&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mi'&gt;10&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mf'&gt;24.857230&lt;/span&gt;
+&lt;span class='n'&gt;bst&lt;/span&gt; &lt;span class='n'&gt;search&lt;/span&gt; &lt;span class='n'&gt;begin&lt;/span&gt;
+&lt;span class='mi'&gt;2013&lt;/span&gt;&lt;span class='o'&gt;-&lt;/span&gt;&lt;span class='mo'&gt;03&lt;/span&gt;&lt;span class='o'&gt;-&lt;/span&gt;&lt;span class='mi'&gt;31&lt;/span&gt; &lt;span class='mi'&gt;16&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mi'&gt;10&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mf'&gt;24.889376&lt;/span&gt;
+&lt;span class='n'&gt;avl&lt;/span&gt; &lt;span class='n'&gt;search&lt;/span&gt; &lt;span class='n'&gt;begin&lt;/span&gt;
+&lt;span class='mi'&gt;2013&lt;/span&gt;&lt;span class='o'&gt;-&lt;/span&gt;&lt;span class='mo'&gt;03&lt;/span&gt;&lt;span class='o'&gt;-&lt;/span&gt;&lt;span class='mi'&gt;31&lt;/span&gt; &lt;span class='mi'&gt;16&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mi'&gt;10&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;&lt;span class='mf'&gt;24.916285&lt;/span&gt;
+&lt;span class='n'&gt;end&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;BST插入耗时48.419500秒，AVL插入耗时47.730973秒，BST查询耗时0.32146秒，AVL查询耗时0.26909秒。好吧，数据量太少，差距还不是很明显，下次换到磁盘上试试。&lt;/p&gt;</description>
+                <link>http://jiaqing.me/tech/2012/04/02/tech-avl</link>
+                <guid>http://jiaqing.me/tech/2012/04/02/tech-avl</guid>
+                <pubDate>2012-04-02T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>数据有结构（一）二叉树</title>
+                <description>&lt;center&gt;&lt;img src='http://pic.yupoo.com/asuka4j/CKmn5K0g/medish.jpg' /&gt;&lt;/center&gt;
+&lt;p&gt;二叉树应该算是‘树’这类数据结构中最为基础的一种。二叉树规定了每个节点最多只能有两个子节点，一般称为左子节点和右子节点（或左孩子和右孩子），并且这两个节点有左右顺序之分，次序不能任意颠倒。如果子节点下边还挂了子节点，可以称它为“子树”。本篇主要讲述二叉树相关的基础算法，正好最近在学习Python，代码就都使用Python表示了。&lt;/p&gt;
+
+&lt;p&gt;先定义二叉树节点的数据结构：一个二叉树节点主要包含其左右子节点的引用，和自身节点携带的信息。如果左右子树都为空，则认为它是一个叶子节点。&lt;/p&gt;
+&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='python'&gt;&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;\&lt;/span&gt;
+&lt;span class='sd'&gt;    二叉树节点&lt;/span&gt;
+&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class='k'&gt;class&lt;/span&gt; &lt;span class='nc'&gt;BinNode&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+    &lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;__init__&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='bp'&gt;self&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+        &lt;span class='bp'&gt;self&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;element&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;element&lt;/span&gt;
+        &lt;span class='bp'&gt;self&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;leftNode&lt;/span&gt;
+        &lt;span class='bp'&gt;self&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;rightNode&lt;/span&gt;
+
+    &lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;isLeaf&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='bp'&gt;self&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+        &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='bp'&gt;self&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt; &lt;span class='ow'&gt;and&lt;/span&gt; &lt;span class='bp'&gt;self&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+            &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='bp'&gt;True&lt;/span&gt;
+        &lt;span class='k'&gt;else&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+            &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='bp'&gt;False&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;!-- more --&gt;
+&lt;h2 id='1_'&gt;1 前中后序遍历&lt;/h2&gt;
+
+&lt;p&gt;遍历一颗二叉树可以有前、中、后序三种方式。从代码可以看到，三种遍历方式的区别只在于获取自身节点这个语句的位置不同。有时候比较容易混淆前序和中序的顺序，前序是：”中左右“，而中序才是“左中右”。&lt;/p&gt;
+&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='python'&gt;&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot; 前序遍历：1. 获取自身节点 2. 前序遍历左子树 3. 前序遍历右子树 &amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;preOrder&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;root&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+    &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;root&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='k'&gt;return&lt;/span&gt;
+    &lt;span class='k'&gt;print&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;root&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;display&lt;/span&gt;&lt;span class='p'&gt;())&lt;/span&gt;
+    &lt;span class='n'&gt;preOrder&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;root&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+    &lt;span class='n'&gt;preOrder&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;root&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+
+&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot; 中序遍历：1. 中序遍历左子树 2. 获取自身节点 3. 中序遍历右子树 &amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;inOrder&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;root&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+    &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;root&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='k'&gt;return&lt;/span&gt;
+    &lt;span class='n'&gt;inOrder&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;root&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+    &lt;span class='k'&gt;print&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;root&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;display&lt;/span&gt;&lt;span class='p'&gt;())&lt;/span&gt;
+    &lt;span class='n'&gt;inOrder&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;root&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='p'&gt;))&lt;/span&gt;
+
+&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot; 后序遍历：1. 后序遍历左子树 2. 后序遍历右子树 3. 获取自身节点 &amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;postOrder&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;root&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+    &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;root&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='k'&gt;return&lt;/span&gt;
+    &lt;span class='n'&gt;postOrder&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;root&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+    &lt;span class='n'&gt;postOrder&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;root&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+    &lt;span class='k'&gt;print&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;root&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;display&lt;/span&gt;&lt;span class='p'&gt;())&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;三种遍历方式都比较简单，这里额外插播另一种非官方的遍历：如果想按树的层次，逐层往下遍历，该怎么做呢？可以借助一个二维数组来缓存逐层遍历的结果，数组的大小是 &lt;span&gt;（&lt;span /&gt; * 2的“深度-1”次方） * 深度&lt;/span&gt;&lt;/p&gt;
+&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='python'&gt;&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot; 逐层遍历 &amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;levelOrder&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;level&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;array&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+    &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='k'&gt;return&lt;/span&gt;
+    &lt;span class='n'&gt;array&lt;/span&gt;&lt;span class='p'&gt;[&lt;/span&gt;&lt;span class='n'&gt;level&lt;/span&gt;&lt;span class='p'&gt;]&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;append&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+    &lt;span class='n'&gt;level&lt;/span&gt; &lt;span class='o'&gt;+=&lt;/span&gt; &lt;span class='mi'&gt;1&lt;/span&gt;
+    &lt;span class='n'&gt;levelOrder&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;level&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;array&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+    &lt;span class='n'&gt;levelOrder&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;level&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;array&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;但这样打印出来的效果还不是一颗树的形状，如果想按树形打印，请见本文的最后一节“打印二叉树”。&lt;/p&gt;
+
+&lt;h2 id='2_'&gt;2 深度计算&lt;/h2&gt;
+
+&lt;p&gt;树的深度取决于左右子树中层次最深的一边，当然，还要算上自己。&lt;/p&gt;
+&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='python'&gt;&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;\&lt;/span&gt;
+&lt;span class='sd'&gt;    深度计算&lt;/span&gt;
+&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;depth&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+    &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;
+    &lt;span class='k'&gt;else&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='n'&gt;leftDepth&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;depth&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+        &lt;span class='n'&gt;rightDepth&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;depth&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+        &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;leftDeep&lt;/span&gt; &lt;span class='o'&gt;&amp;gt;=&lt;/span&gt; &lt;span class='n'&gt;rightDeep&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+            &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;leftDepth&lt;/span&gt; &lt;span class='o'&gt;+&lt;/span&gt; &lt;span class='mi'&gt;1&lt;/span&gt;
+        &lt;span class='k'&gt;else&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+            &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;rightDepth&lt;/span&gt; &lt;span class='o'&gt;+&lt;/span&gt; &lt;span class='mi'&gt;1&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;类似地，如果想获取一棵树的有效节点总数目，可以这么做：&lt;/p&gt;
+&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='python'&gt;&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;\&lt;/span&gt;
+&lt;span class='sd'&gt;    获取节点数目&lt;/span&gt;
+&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;nodeNumbers&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+    &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;
+    &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;nodeNumbers&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt; &lt;span class='o'&gt;+&lt;/span&gt; &lt;span class='n'&gt;nodeNumbers&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt; &lt;span class='o'&gt;+&lt;/span&gt; &lt;span class='mi'&gt;1&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id='3_'&gt;3 获取镜像&lt;/h2&gt;
+
+&lt;p&gt;镜像镜像，相当于一面镜子。把二叉树中所有子树做一次左右反转，就得到这棵树的镜像了。&lt;/p&gt;
+&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='python'&gt;&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;\&lt;/span&gt;
+&lt;span class='sd'&gt;    获取镜像&lt;/span&gt;
+&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;mirror&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+    &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='k'&gt;return&lt;/span&gt;
+    &lt;span class='k'&gt;else&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;isLeaf&lt;/span&gt;&lt;span class='p'&gt;():&lt;/span&gt;
+            &lt;span class='k'&gt;return&lt;/span&gt;
+        &lt;span class='n'&gt;temp&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;
+        &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;rightNode&lt;/span&gt;
+        &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;temp&lt;/span&gt;
+        &lt;span class='n'&gt;mirror&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+        &lt;span class='n'&gt;mirror&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id='4_'&gt;4 判断是否平衡&lt;/h2&gt;
+
+&lt;p&gt;如果二叉树的任意节点的左右子树深度相差不超过1，则认为是平衡二叉树。这里还用到了代码清单2的深度计算方法。&lt;/p&gt;
+&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='python'&gt;&lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;isBalance&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+    &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt; &lt;span class='ow'&gt;or&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;isLeaf&lt;/span&gt;&lt;span class='p'&gt;():&lt;/span&gt;
+        &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='bp'&gt;True&lt;/span&gt;
+
+    &lt;span class='n'&gt;leftDepth&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;depth&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+    &lt;span class='n'&gt;rightDepth&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='n'&gt;depth&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+    &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='nb'&gt;abs&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;leftDepth&lt;/span&gt; &lt;span class='o'&gt;-&lt;/span&gt; &lt;span class='n'&gt;rightDepth&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt; &lt;span class='o'&gt;&amp;gt;&lt;/span&gt; &lt;span class='mi'&gt;1&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='bp'&gt;False&lt;/span&gt;
+
+    &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;isBalance&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt; &lt;span class='ow'&gt;and&lt;/span&gt; &lt;span class='n'&gt;isBalance&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+                    
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;上述做法比较好理解，但有个缺点，它是自上而下递归判断的，每次递归都要重复计算树高。改良的做法是能在每次递归的时候累计树高，避免重复。这里通过后序遍历的方式递归，从最低端开始判断，同时通过新增的参数currentDepth记录每次递归的树高。&lt;/p&gt;
+&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='python'&gt;&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;\ 判断是否平衡 II&lt;/span&gt;
+&lt;span class='sd'&gt;    node: 二叉树&lt;/span&gt;
+&lt;span class='sd'&gt;    currentDepth: 当前的树高&lt;/span&gt;
+&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;isBalanceII&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;currentDepth&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+    &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt; &lt;span class='ow'&gt;or&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;isLeaf&lt;/span&gt;&lt;span class='p'&gt;():&lt;/span&gt;
+        &lt;span class='n'&gt;currentDepth&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;
+        &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='bp'&gt;True&lt;/span&gt;
+
+    &lt;span class='n'&gt;lDepth&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt;
+    &lt;span class='n'&gt;rDepth&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;0&lt;/span&gt; 
+
+    &lt;span class='c'&gt;# 从最底层开始往上递归判断&lt;/span&gt;
+    &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;isBalanceII&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;lDepth&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt; &lt;span class='ow'&gt;and&lt;/span&gt; &lt;span class='n'&gt;isBalanceII&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;rDepth&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+        &lt;span class='c'&gt;# 相差超过1就不平衡了&lt;/span&gt;
+        &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='nb'&gt;abs&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;lDepth&lt;/span&gt; &lt;span class='o'&gt;-&lt;/span&gt; &lt;span class='n'&gt;rDepth&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt; &lt;span class='o'&gt;&amp;gt;&lt;/span&gt; &lt;span class='mi'&gt;1&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+            &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='bp'&gt;False&lt;/span&gt;
+        &lt;span class='c'&gt;# 否则按照长的那一边累计树高&lt;/span&gt;
+        &lt;span class='k'&gt;else&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+            &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;lDepth&lt;/span&gt; &lt;span class='o'&gt;&amp;gt;=&lt;/span&gt; &lt;span class='n'&gt;rDepth&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+                &lt;span class='n'&gt;currentDepth&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;1&lt;/span&gt; &lt;span class='o'&gt;+&lt;/span&gt; &lt;span class='n'&gt;lDepth&lt;/span&gt;
+            &lt;span class='k'&gt;else&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+                &lt;span class='n'&gt;currentDepth&lt;/span&gt; &lt;span class='o'&gt;=&lt;/span&gt; &lt;span class='mi'&gt;1&lt;/span&gt; &lt;span class='o'&gt;+&lt;/span&gt; &lt;span class='n'&gt;rDepth&lt;/span&gt;
+            &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='bp'&gt;True&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id='5_'&gt;5 子树判断&lt;/h2&gt;
+
+&lt;p&gt;如果可以在树A上找到和树B完全一致的结构，则认为B是A的子树。&lt;/p&gt;
+&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='python'&gt;&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;\&lt;/span&gt;
+&lt;span class='sd'&gt;    子树判断&lt;/span&gt;
+&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;isSubTree&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;comparedNode&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
+    &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;comparedNode&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='bp'&gt;True&lt;/span&gt;
+    &lt;span class='k'&gt;elif&lt;/span&gt; &lt;span class='n'&gt;comparedNode&lt;/span&gt; &lt;span class='o'&gt;!=&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt; &lt;span class='ow'&gt;and&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='bp'&gt;False&lt;/span&gt;
+
+    &lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot; 从A树找到B树根节点相同的节点 &amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+    &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;element&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='n'&gt;comparedNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;element&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot; 如果不是叶子节点就继续比其子节点 &amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+        &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;comparedNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;isLeaf&lt;/span&gt;&lt;span class='p'&gt;():&lt;/span&gt;
+            &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='bp'&gt;True&lt;/span&gt;
+        &lt;span class='k'&gt;else&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+            &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;isSubTree&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;comparedNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt; &lt;span class='ow'&gt;and&lt;/span&gt; &lt;span class='n'&gt;isSubTree&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;comparedNode&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+    &lt;span class='k'&gt;else&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
+        &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='n'&gt;isSubTree&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;leftNode&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;comparedNode&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt; &lt;span class='ow'&gt;or&lt;/span&gt; &lt;span class='n'&gt;isSubTree&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;comparedNode&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id='6_'&gt;6 打印二叉树&lt;/h2&gt;
+
+&lt;p&gt;写了好几个算法，最终总要在屏幕上显示出来吧，不然也不知道对错呢。这里先分析下树的显示效果，主要看看父节点和子节点间、左节点和右节点间的位置关系。如下图所示，节点间的关系可以归纳为： &lt;center&gt;&lt;img src='http://pic.yupoo.com/asuka4j/CKmnmDZA/medish.jpg' /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;基于上述分析，我们需要重新设计节点的数据结构，和对应的打印算法：&lt;/p&gt;
+&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='python'&gt;    &lt;span class='n'&gt;TODO&lt;/span&gt; &lt;span class='err'&gt;代码调试中&lt;/span&gt;&lt;span class='o'&gt;...&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+                <link>http://jiaqing.me/tech/2012/04/01/tech-binary-tree</link>
+                <guid>http://jiaqing.me/tech/2012/04/01/tech-binary-tree</guid>
+                <pubDate>2012-04-01T00:00:00+08:00</pubDate>
         </item>
 
         <item>
@@ -447,6 +1299,331 @@
                 <link>http://jiaqing.me/life/2012/01/01/summary-2011</link>
                 <guid>http://jiaqing.me/life/2012/01/01/summary-2011</guid>
                 <pubDate>2012-01-01T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>Jekyll Introduction</title>
+                <description>&lt;p&gt;This Jekyll introduction will outline specifically what Jekyll is and why you would want to use it. Directly following the intro we&amp;#8217;ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
+
+&lt;h2 id='overview'&gt;Overview&lt;/h2&gt;
+
+&lt;h3 id='what_is_jekyll'&gt;What is Jekyll?&lt;/h3&gt;
+
+&lt;p&gt;Jekyll is a parsing engine bundled as a ruby gem used to build static websites from dynamic components such as templates, partials, liquid code, markdown, etc. Jekyll is known as &amp;#8220;a simple, blog aware, static site generator&amp;#8221;.&lt;/p&gt;
+
+&lt;h3 id='examples'&gt;Examples&lt;/h3&gt;
+
+&lt;p&gt;This website is created with Jekyll. &lt;a href='https://github.com/mojombo/jekyll/wiki/Sites'&gt;Other Jekyll websites&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id='what_does_jekyll_do'&gt;What does Jekyll Do?&lt;/h3&gt;
+
+&lt;p&gt;Jekyll is a ruby gem you install on your local system. Once there you can call &lt;code&gt;jekyll --server&lt;/code&gt; on a directory and provided that directory is setup in a way jekyll expects, it will do magic stuff like parse markdown/textile files, compute categories, tags, permalinks, and construct your pages from layout templates and partials.&lt;/p&gt;
+
+&lt;p&gt;Once parsed, Jekyll stores the result in a self-contained static &lt;code&gt;_site&lt;/code&gt; folder. The intention here is that you can serve all contents in this folder statically from a plain static web-server.&lt;/p&gt;
+
+&lt;p&gt;You can think of Jekyll as a normalish dynamic blog but rather than parsing content, templates, and tags on each request, Jekyll does this once &lt;em&gt;beforehand&lt;/em&gt; and caches the &lt;em&gt;entire website&lt;/em&gt; in a folder for serving statically.&lt;/p&gt;
+
+&lt;h3 id='jekyll_is_not_blogging_software'&gt;Jekyll is Not Blogging Software&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Jekyll is a parsing engine.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Jekyll does not come with any content nor does it have any templates or design elements. This is a common source of confusion when getting started. Jekyll does not come with anything you actually use or see on your website - you have to make it.&lt;/p&gt;
+
+&lt;h3 id='why_should_i_care'&gt;Why Should I Care?&lt;/h3&gt;
+
+&lt;p&gt;Jekyll is very minimalistic and very efficient. The most important thing to realize about Jekyll is that it creates a static representation of your website requiring only a static web-server. Traditional dynamic blogs like Wordpress require a database and server-side code. Heavily trafficked dynamic blogs must employ a caching layer that ultimately performs the same job Jekyll sets out to do; serve static content.&lt;/p&gt;
+
+&lt;p&gt;Therefore if you like to keep things simple and you prefer the command-line over an admin panel UI then give Jekyll a try.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Developers like Jekyll because we can write content like we write code:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ability to write content in markdown or textile in your favorite text-editor.&lt;/li&gt;
+
+&lt;li&gt;Ability to write and preview your content via localhost.&lt;/li&gt;
+
+&lt;li&gt;No internet connection required.&lt;/li&gt;
+
+&lt;li&gt;Ability to publish via git.&lt;/li&gt;
+
+&lt;li&gt;Ability to host your blog on a static web-server.&lt;/li&gt;
+
+&lt;li&gt;Ability to host freely on GitHub Pages.&lt;/li&gt;
+
+&lt;li&gt;No database required.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id='how_jekyll_works'&gt;How Jekyll Works&lt;/h1&gt;
+
+&lt;p&gt;The following is a complete but concise outline of exactly how Jekyll works.&lt;/p&gt;
+
+&lt;p&gt;Be aware that core concepts are introduced in rapid succession without code examples. This information is not intended to specifically teach you how to do anything, rather it is intended to give you the &lt;em&gt;full picture&lt;/em&gt; relative to what is going on in Jekyll-world.&lt;/p&gt;
+
+&lt;p&gt;Learning these core concepts should help you avoid common frustrations and ultimately help you better understand the code examples contained throughout Jekyll-Bootstrap.&lt;/p&gt;
+
+&lt;h2 id='initial_setup'&gt;Initial Setup&lt;/h2&gt;
+
+&lt;p&gt;After &lt;a href='/index.html#start-now'&gt;installing jekyll&lt;/a&gt; you&amp;#8217;ll need to format your website directory in a way jekyll expects. Jekyll-bootstrap conveniently provides the base directory format.&lt;/p&gt;
+
+&lt;h3 id='the_jekyll_application_base_format'&gt;The Jekyll Application Base Format&lt;/h3&gt;
+
+&lt;p&gt;Jekyll expects your website directory to be laid out like so:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;.
+|-- _config.yml
+|-- _includes
+|-- _layouts
+|   |-- default.html
+|   |-- post.html
+|-- _posts
+|   |-- 2011-10-25-open-source-is-good.markdown
+|   |-- 2011-04-26-hello-world.markdown
+|-- _site
+|-- index.html
+|-- assets
+    |-- css
+        |-- style.css
+    |-- javascripts&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;_config.yml&lt;/strong&gt;&lt;br /&gt;Stores configuration data.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;_includes&lt;/strong&gt;&lt;br /&gt;This folder is for partial views.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;_layouts&lt;/strong&gt; &lt;br /&gt;This folder is for the main templates your content will be inserted into. You can have different layouts for different pages or page sections.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;_posts&lt;/strong&gt;&lt;br /&gt;This folder contains your dynamic content/posts. the naming format is required to be &lt;code&gt;@YEAR-MONTH-DATE-title.MARKUP@&lt;/code&gt;.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;_site&lt;/strong&gt;&lt;br /&gt;This is where the generated site will be placed once Jekyll is done transforming it.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;assets&lt;/strong&gt;&lt;br /&gt;This folder is not part of the standard jekyll structure. The assets folder represents &lt;em&gt;any generic&lt;/em&gt; folder you happen to create in your root directory. Directories and files not properly formatted for jekyll will be left untouched for you to serve normally.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(read more: &lt;a href='https://github.com/mojombo/jekyll/wiki/Usage'&gt;https://github.com/mojombo/jekyll/wiki/Usage&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h3 id='jekyll_configuration'&gt;Jekyll Configuration&lt;/h3&gt;
+
+&lt;p&gt;Jekyll supports various configuration options that are fully outlined here: &lt;a href='https://github.com/mojombo/jekyll/wiki/Configuration'&gt;https://github.com/mojombo/jekyll/wiki/Configuration&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id='content_in_jekyll'&gt;Content in Jekyll&lt;/h2&gt;
+
+&lt;p&gt;Content in Jekyll is either a post or a page. These content &amp;#8220;objects&amp;#8221; get inserted into one or more templates to build the final output for its respective static-page.&lt;/p&gt;
+
+&lt;h3 id='posts_and_pages'&gt;Posts and Pages&lt;/h3&gt;
+
+&lt;p&gt;Both posts and pages should be written in markdown, textile, or HTML and may also contain Liquid templating syntax. Both posts and pages can have meta-data assigned on a per-page basis such as title, url path, as well as arbitrary custom meta-data.&lt;/p&gt;
+
+&lt;h3 id='working_with_posts'&gt;Working With Posts&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Creating a Post&lt;/strong&gt; &lt;br /&gt;Posts are created by properly formatting a file and placing it the &lt;code&gt;_posts&lt;/code&gt; folder.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Formatting&lt;/strong&gt;&lt;br /&gt;A post must have a valid filename in the form &lt;code&gt;YEAR-MONTH-DATE-title.MARKUP&lt;/code&gt; and be placed in the &lt;code&gt;_posts&lt;/code&gt; directory. If the data format is invalid Jekyll will not recognize the file as a post. The date and title are automatically parsed from the filename of the post file. Additionally, each file must have &lt;a href='https://github.com/mojombo/jekyll/wiki/YAML-Front-Matter'&gt;YAML Front-Matter&lt;/a&gt; prepended to its content. YAML Front-Matter is a valid YAML syntax specifying meta-data for the given file.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Order&lt;/strong&gt;&lt;br /&gt;Ordering is an important part of Jekyll but it is hard to specify a custom ordering strategy. Only reverse chronological and chronological ordering is supported in Jekyll.&lt;/p&gt;
+
+&lt;p&gt;Since the date is hard-coded into the filename format, to change the order, you must change the dates in the filenames.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tags&lt;/strong&gt; &lt;br /&gt;Posts can have tags associated with them as part of their meta-data. Tags may be placed on posts by providing them in the post&amp;#8217;s YAML front matter. You have access to the post-specific tags in the templates. These tags also get added to the sitewide collection.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Categories&lt;/strong&gt; &lt;br /&gt;Posts may be categorized by providing one or more categories in the YAML front matter. Categories offer more significance over tags in that they can be reflected in the URL path to the given post. Note categories in Jekyll work in a specific way. If you define more than one category you are defining a category hierarchy &amp;#8220;set&amp;#8221;. Example:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;---
+title :  Hello World
+categories : [lessons, beginner]
+---&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This defines the category hierarchy &amp;#8220;lessons/beginner&amp;#8221;. Note this is &lt;em&gt;one category&lt;/em&gt; node in Jekyll. You won&amp;#8217;t find &amp;#8220;lessons&amp;#8221; and &amp;#8220;beginner&amp;#8221; as two separate categories unless you define them elsewhere as singular categories.&lt;/p&gt;
+
+&lt;h3 id='working_with_pages'&gt;Working With Pages&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Creating a Page&lt;/strong&gt;&lt;br /&gt;Pages are created by properly formatting a file and placing it anywhere in the root directory or subdirectories that do &lt;em&gt;not&lt;/em&gt; start with an underscore.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Formatting&lt;/strong&gt;&lt;br /&gt;In order to register as a Jekyll page the file must contain &lt;a href='https://github.com/mojombo/jekyll/wiki/YAML-Front-Matter'&gt;YAML Front-Matter&lt;/a&gt;. Registering a page means 1) that Jekyll will process the page and 2) that the page object will be available in the &lt;code&gt;site.pages&lt;/code&gt; array for inclusion into your templates.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Categories and Tags&lt;/strong&gt;&lt;br /&gt;Pages do not compute categories nor tags so defining them will have no effect.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sub-Directories&lt;/strong&gt;&lt;br /&gt;If pages are defined in sub-directories, the path to the page will be reflected in the url. Example:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;.
+|-- people
+    |-- bob
+        |-- essay.html&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This page will be available at &lt;code&gt;http://yourdomain.com/people/bob/essay.html&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Recommended Pages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;index.html&lt;/strong&gt;&lt;br /&gt;You will always want to define the root index.html page as this will display on your root URL.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;404.html&lt;/strong&gt;&lt;br /&gt;Create a root 404.html page and GitHub Pages will serve it as your 404 response.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;sitemap.html&lt;/strong&gt;&lt;br /&gt;Generating a sitemap is good practice for SEO.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;about.html&lt;/strong&gt;&lt;br /&gt;A nice about page is easy to do and gives the human perspective to your website.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id='templates_in_jekyll'&gt;Templates in Jekyll&lt;/h2&gt;
+
+&lt;p&gt;Templates are used to contain a page&amp;#8217;s or post&amp;#8217;s content. All templates have access to a global site object variable: &lt;code&gt;site&lt;/code&gt; as well as a page object variable: &lt;code&gt;page&lt;/code&gt;. The site variable holds all accessible content and metadata relative to the site. The page variable holds accessible data for the given page or post being rendered at that point.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Create a Template&lt;/strong&gt;&lt;br /&gt;Templates are created by properly formatting a file and placing it in the &lt;code&gt;_layouts&lt;/code&gt; directory.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Formatting&lt;/strong&gt;&lt;br /&gt;Templates should be coded in HTML and contain YAML Front Matter. All templates can contain Liquid code to work with your site&amp;#8217;s data.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rending Page/Post Content in a Template&lt;/strong&gt;&lt;br /&gt;There is a special variable in all templates named : &lt;code&gt;content&lt;/code&gt;. The &lt;code&gt;content&lt;/code&gt; variable holds the page/post content including any sub-template content previously defined. Render the content variable wherever you want your main content to be injected into your template:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;...
+&amp;lt;body&amp;gt;
+  &amp;lt;div id=&quot;sidebar&quot;&amp;gt; ... &amp;lt;/div&amp;gt;
+  &amp;lt;div id=&quot;main&quot;&amp;gt;
+    &amp;#123;{content}&amp;#125;
+  &amp;lt;/div&amp;gt;
+&amp;lt;/body&amp;gt;
+...&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id='subtemplates'&gt;Sub-Templates&lt;/h3&gt;
+
+&lt;p&gt;Sub-templates are exactly templates with the only difference being they define another &amp;#8220;root&amp;#8221; layout/template within their YAML Front Matter. This essentially means a template will render inside of another template.&lt;/p&gt;
+
+&lt;h3 id='includes'&gt;Includes&lt;/h3&gt;
+
+&lt;p&gt;In Jekyll you can define include files by placing them in the &lt;code&gt;_includes&lt;/code&gt; folder. Includes are NOT templates, rather they are just code snippets that get included into templates. In this way, you can treat the code inside includes as if it was native to the parent template.&lt;/p&gt;
+
+&lt;p&gt;Any valid template code may be used in includes.&lt;/p&gt;
+
+&lt;h2 id='using_liquid_for_templating'&gt;Using Liquid for Templating&lt;/h2&gt;
+
+&lt;p&gt;Templating is perhaps the most confusing and frustrating part of Jekyll. This is mainly due to the fact that Jekyll templates must use the Liquid Templating Language.&lt;/p&gt;
+
+&lt;h3 id='what_is_liquid'&gt;What is Liquid?&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href='https://github.com/Shopify/liquid'&gt;Liquid&lt;/a&gt; is a secure templating language developed by &lt;a href='http://shopify.com'&gt;Shopify&lt;/a&gt;. Liquid is designed for end-users to be able to execute logic within template files without imposing any security risk on the hosting server.&lt;/p&gt;
+
+&lt;p&gt;Jekyll uses Liquid to generate the post content within the final page layout structure and as the primary interface for working with your site and post/page data.&lt;/p&gt;
+
+&lt;h3 id='why_do_we_have_to_use_liquid'&gt;Why Do We Have to Use Liquid?&lt;/h3&gt;
+
+&lt;p&gt;GitHub uses Jekyll to power &lt;a href='http://pages.github.com/'&gt;GitHub Pages&lt;/a&gt;. GitHub cannot afford to run arbitrary code on their servers so they lock developers down via Liquid.&lt;/p&gt;
+
+&lt;h3 id='liquid_is_not_programmerfriendly'&gt;Liquid is Not Programmer-Friendly.&lt;/h3&gt;
+
+&lt;p&gt;The short story is liquid is not real code and its not intended to execute real code. The point being you can&amp;#8217;t do jackshit in liquid that hasn&amp;#8217;t been allowed explicitly by the implementation. What&amp;#8217;s more you can only access data-structures that have been explicitly passed to the template.&lt;/p&gt;
+
+&lt;p&gt;In Jekyll&amp;#8217;s case it is not possible to alter what is passed to Liquid without hacking the gem or running custom plugins. Both of which cannot be supported by GitHub Pages.&lt;/p&gt;
+
+&lt;p&gt;As a programmer - this is very frustrating.&lt;/p&gt;
+
+&lt;p&gt;But rather than look a gift horse in the mouth we are going to suck it up and view it as an opportunity to work around limitations and adopt client-side solutions when possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Aside&lt;/strong&gt; &lt;br /&gt;My personal stance is to not invest time trying to hack liquid. It&amp;#8217;s really unnecessary &lt;em&gt;from a programmer&amp;#8217;s&lt;/em&gt; perspective. That is to say if you have the ability to run custom plugins (i.e. run arbitrary ruby code) you are better off sticking with ruby. Toward that end I&amp;#8217;ve built &lt;a href='http://github.com/plusjade/mustache-with-jekyll'&gt;Mustache-with-Jekyll&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id='static_assets'&gt;Static Assets&lt;/h2&gt;
+
+&lt;p&gt;Static assets are any file in the root or non-underscored subfolders that are not pages. That is they have no valid YAML Front Matter and are thus not treated as Jekyll Pages.&lt;/p&gt;
+
+&lt;p&gt;Static assets should be used for images, css, and javascript files.&lt;/p&gt;
+
+&lt;h2 id='how_jekyll_parses_files'&gt;How Jekyll Parses Files&lt;/h2&gt;
+
+&lt;p&gt;Remember Jekyll is a processing engine. There are two main types of parsing in Jekyll.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Content parsing.&lt;/strong&gt; &lt;br /&gt;This is done with textile or markdown.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Template parsing.&lt;/strong&gt; &lt;br /&gt;This is done with the liquid templating language.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And thus there are two main types of file formats needed for this parsing.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Post and Page files.&lt;/strong&gt;&lt;br /&gt;All content in Jekyll is either a post or a page so valid posts and pages are parsed with markdown or textile.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Template files.&lt;/strong&gt; &lt;br /&gt;These files go in &lt;code&gt;_layouts&lt;/code&gt; folder and contain your blogs &lt;strong&gt;templates&lt;/strong&gt;. They should be made in HTML with the help of Liquid syntax. Since include files are simply injected into templates they are essentially parsed as if they were native to the template.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Arbitrary files and folders.&lt;/strong&gt; &lt;br /&gt;Files that &lt;em&gt;are not&lt;/em&gt; valid pages are treated as static content and pass through Jekyll untouched and reside on your blog in the exact structure and format they originally existed in.&lt;/p&gt;
+
+&lt;h3 id='formatting_files_for_parsing'&gt;Formatting Files for Parsing.&lt;/h3&gt;
+
+&lt;p&gt;We&amp;#8217;ve outlined the need for valid formatting using &lt;strong&gt;YAML Front Matter&lt;/strong&gt;. Templates, posts, and pages all need to provide valid YAML Front Matter even if the Matter is empty. This is the only way Jekyll knows you want the file processed.&lt;/p&gt;
+
+&lt;p&gt;YAML Front Matter must be prepended to the top of template/post/page files:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;---
+layout: post
+category : pages
+tags : [how-to, jekyll]
+---
+
+... contents ...&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Three hyphens on a new line start the Front-Matter block and three hyphens on a new line end the block. The data inside the block must be valid YAML.&lt;/p&gt;
+
+&lt;p&gt;Configuration parameters for YAML Front-Matter is outlined here: &lt;a href='https://github.com/mojombo/jekyll/wiki/YAML-Front-Matter'&gt;A comprehensive explanation of YAML Front Matter&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id='defining_layouts_for_posts_and_templates_parsing'&gt;Defining Layouts for Posts and Templates Parsing.&lt;/h4&gt;
+
+&lt;p&gt;The &lt;code&gt;layout&lt;/code&gt; parameter in the YAML Front Matter defines the template file for which the given post or template should be injected into. If a template file specifies its own layout, it is effectively being used as a &lt;code&gt;sub-template.&lt;/code&gt; That is to say loading a post file into a template file that refers to another template file with work in the way you&amp;#8217;d expect; as a nested sub-template.&lt;/p&gt;
+
+&lt;h2 id='how_jekyll_generates_the_final_static_files'&gt;How Jekyll Generates the Final Static Files.&lt;/h2&gt;
+
+&lt;p&gt;Ultimately, Jekyll&amp;#8217;s job is to generate a static representation of your website. The following is an outline of how that&amp;#8217;s done:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Jekyll collects data.&lt;/strong&gt; &lt;br /&gt;Jekyll scans the posts directory and collects all posts files as post objects. It then scans the layout assets and collects those and finally scans other directories in search of pages.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Jekyll computes data.&lt;/strong&gt; &lt;br /&gt;Jekyll takes these objects, computes metadata (permalinks, tags, categories, titles, dates) from them and constructs one big &lt;code&gt;site&lt;/code&gt; object that holds all the posts, pages, layouts, and respective metadata. At this stage your site is one big computed ruby object.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Jekyll liquifies posts and templates.&lt;/strong&gt;&lt;br /&gt;Next jekyll loops through each post file and converts (through markdown or textile) and &lt;strong&gt;liquifies&lt;/strong&gt; the post inside of its respective layout(s). Once the post is parsed and liquified inside the the proper layout structure, the layout itself is &amp;#8220;liquified&amp;#8221;. &lt;br /&gt;&lt;strong&gt;Liquification&lt;/strong&gt; is defined as follows: Jekyll initiates a Liquid template, and passes a simpler hash representation of the ruby site object as well as a simpler hash representation of the ruby post object. These simplified data structures are what you have access to in the templates.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Jekyll generates output.&lt;/strong&gt; &lt;br /&gt;Finally the liquid templates are &amp;#8220;rendered&amp;#8221;, thereby processing any liquid syntax provided in the templates and saving the final, static representation of the file.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Notes.&lt;/strong&gt;&lt;br /&gt;Because Jekyll computes the entire site in one fell swoop, each template is given access to a global &lt;code&gt;site&lt;/code&gt; hash that contains useful data. It is this data that you&amp;#8217;ll iterate through and format using the Liquid tags and filters in order to render it onto a given page.&lt;/p&gt;
+
+&lt;p&gt;Remember, in Jekyll you are an end-user. Your API has only two components:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;The manner in which you setup your directory.&lt;/li&gt;
+
+&lt;li&gt;The liquid syntax and variables passed into the liquid templates.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;All the data objects available to you in the templates via Liquid are outlined in the &lt;strong&gt;API Section&lt;/strong&gt; of Jekyll-Bootstrap. You can also read the original documentation here: &lt;a href='https://github.com/mojombo/jekyll/wiki/Template-Data'&gt;https://github.com/mojombo/jekyll/wiki/Template-Data&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id='conclusion'&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I hope this paints a clearer picture of what Jekyll is doing and why it works the way it does. As noted, our main programming constraint is the fact that our API is limited to what is accessible via Liquid and Liquid only.&lt;/p&gt;
+
+&lt;p&gt;Jekyll-bootstrap is intended to provide helper methods and strategies aimed at making it more intuitive and easier to work with Jekyll =)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Thank you&lt;/strong&gt; for reading this far.&lt;/p&gt;
+
+&lt;h2 id='next_steps'&gt;Next Steps&lt;/h2&gt;
+
+&lt;p&gt;Please take a look at &lt;a href='' /&gt; or jump right into &lt;a href=''&gt;Usage&lt;/a&gt; if you&amp;#8217;d like.&lt;/p&gt;</description>
+                <link>http://jiaqing.me/2011/12/29/jekyll-introduction</link>
+                <guid>http://jiaqing.me/2011/12/29/jekyll-introduction</guid>
+                <pubDate>2011-12-29T00:00:00+08:00</pubDate>
         </item>
 
         <item>
