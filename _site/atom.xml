@@ -4,7 +4,7 @@
  <title>Jiaqing.me</title>
  <link href="http://jiaqing.me/" rel="self"/>
  <link href="http://jiaqing.me"/>
- <updated>2013-08-10T18:34:35+08:00</updated>
+ <updated>2013-08-10T18:57:06+08:00</updated>
  <id>http://jiaqing.me</id>
  <author>
    <name>Asuka4J</name>
@@ -883,7 +883,7 @@
             &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='bp'&gt;True&lt;/span&gt;
         &lt;span class='k'&gt;else&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
             &lt;span class='k'&gt;return&lt;/span&gt; &lt;span class='bp'&gt;False&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;!-- more --&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h2 id='1_'&gt;1 前中后序遍历&lt;/h2&gt;
 
 &lt;p&gt;遍历一颗二叉树可以有前、中、后序三种方式。从代码可以看到，三种遍历方式的区别只在于获取自身节点这个语句的位置不同。有时候比较容易混淆前序和中序的顺序，前序是：”中左右“，而中序才是“左中右”。&lt;/p&gt;
@@ -911,7 +911,7 @@
     &lt;span class='n'&gt;postOrder&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;root&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;rightNode&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
     &lt;span class='k'&gt;print&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;root&lt;/span&gt;&lt;span class='o'&gt;.&lt;/span&gt;&lt;span class='n'&gt;display&lt;/span&gt;&lt;span class='p'&gt;())&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;三种遍历方式都比较简单，这里额外插播另一种非官方的遍历：如果想按树的层次，逐层往下遍历，该怎么做呢？可以借助一个二维数组来缓存逐层遍历的结果，数组的大小是 &lt;span&gt;（&lt;span /&gt; * 2的“深度-1”次方） * 深度&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;三种遍历方式都比较简单，这里额外插播另一种非官方的遍历：如果想按树的层次，逐层往下遍历，该怎么做呢？可以借助一个二维数组来缓存逐层遍历的结果，数组的大小是&lt;font&gt; [（[ ] * 2的“深度-1”次方） * 深度]&lt;/font&gt;&lt;/p&gt;
 &lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='python'&gt;&lt;span class='sd'&gt;&amp;quot;&amp;quot;&amp;quot; 逐层遍历 &amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
 &lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;levelOrder&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='n'&gt;node&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;level&lt;/span&gt;&lt;span class='p'&gt;,&lt;/span&gt; &lt;span class='n'&gt;array&lt;/span&gt;&lt;span class='p'&gt;):&lt;/span&gt;
     &lt;span class='k'&gt;if&lt;/span&gt; &lt;span class='n'&gt;node&lt;/span&gt; &lt;span class='o'&gt;==&lt;/span&gt; &lt;span class='bp'&gt;None&lt;/span&gt;&lt;span class='p'&gt;:&lt;/span&gt;
