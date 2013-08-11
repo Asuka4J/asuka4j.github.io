@@ -19,6 +19,19 @@ tags: [足迹, 游记]
 这里的海鲜购买和制作是分开的，就是游客先到海鲜摊位上购买活生生的水产，然后带到加工店让老板加工。这一区最出名的加工店是小胡子和梅姐，虽然来的时间不是饭店，但还是人满为患，我们在梅姐家正好蹭到了空位，第一餐就在这里解决了。味道怎么样呢？就是基围虾直接吃到饱，嗯，就这个感觉。吃完海鲜大餐，我们就坐了八路公交灰溜溜回酒店了，这八路公交似乎就是跑市区主干道的，大多景点都能看到它的身影。  
 回到酒店正好快到傍晚，为了把今天下肚的东东好好消化下，我们换起泳衣就往酒店园区的游泳池跑。游完泳，正好到了园区里的BBQ时间，泡完澡在阳台上泡泡茶，边听着楼下BBQ展台女老外的歌声，我们在网上预定了明天亚龙湾热带天堂景区一日游的团票。  
     
+酒店一撇：
+<center><img src="http://pic.yupoo.com/asuka4j/D4Tj4eDQ/medish.jpg"></center>
+  
+<center><img src="http://pic.yupoo.com/asuka4j/D4UNynTm/medish.jpg"></center>
+  
+<center><img src="http://pic.yupoo.com/asuka4j/D4UNrchq/medish.jpg"></center>    
+  
+<center><img src="http://pic.yupoo.com/asuka4j/D4UT9slh/medish.jpg"></center>
+  
+<center><img src="http://pic.yupoo.com/asuka4j/D4USyJ6t/medish.jpg"></center>  
+
+<center><img src="http://pic.yupoo.com/asuka4j/D4UOnTWv/medish.jpg"></center>
+  
 ###DAY3  
 跟团游最不方便的就是，时间不能自主安排。由于我们是离景区最远的散客，导游要我们早上七点就到外面等旅游大巴，杯具。起床的时候都能感觉到身体严重的不听使唤，匆匆在G层吃完早餐就赶着上车了。大巴车走走停停，不断接收散客，几乎清一色的青年情侣。路上我特意开着咕咚运动记录着路线，回来一看，足足来了有34公里才到达亚龙湾热带天堂景区，三亚真是个长条形的城市，和深圳有的一拼。  
 今天的行程分为上午的热带天堂和下午的亚龙湾海滩两阶段。导游是个东北小伙，已经在三亚从业多年。热带天堂的第一段是兰花谷，不是很有意思，而且进来不久我们团就被拉到小黑屋里听营销讲座了。有趣的是，讲座过后发现，主动掏钱购买的基本都是北方人，而南方人（特别是四川人）则是嘴里带着一丝坏笑出来。第二段我们来到了非诚勿扰里的经典镜头，悬空60米高的索桥。因为山谷气流的关系，走到索桥中间的时候左右晃动得厉害，还真有点小怕，不知葛优当时怎么这么淡定。索桥对面的山头就是传说中的鸟巢度假村了，若干全木质小屋依山搭建，开窗风景甚好，还配备了露天泳池，灰藏Natural。对了，导游这里的租金便宜的一晚8000大洋，葛优住的那间则要上万。听完我们默默地继续前进。第三段是山的最高点，登上塔顶，整个亚龙湾360°尽收眼底，风景甚好。这一路果然没白走。  
@@ -26,10 +39,43 @@ tags: [足迹, 游记]
 都说三亚宰客厉害，其实到今天才体验到了。在亚龙湾沙滩的时候饿的不行，跑出来要了碗兰州拉面，20大洋，没有牛肉，清汤里飘着一直孤零零的水煮蛋，坑爹这是。回酒店时在酒店门口的餐馆吃了晚餐，回锅肉28，土豆丝18，蛋炒饭18，看到这个价格后也不敢点什么水产了。对了，吃到一半老板开着奥迪A6回来了，当看到穿着泳裤的老板和穿着睡衣的老板娘下车刹那，饭差点全喷出来了。  
 天气真是多变，饭后又下起雨来了，还好赶上回到了房间。今晚的BBQ算是搞不成了，不过女老外的歌声依然荡漾，真是敬业。在阳台躺椅上小憩，夹杂着雨声和歌声，顺手拍拍园区，感觉棒极了。  
   
+鸟巢度假村：
+<center><img src="http://pic.yupoo.com/asuka4j/D4TgPU7b/medish.jpg"></center>  
+  
+<center><img src="http://pic.yupoo.com/asuka4j/D4Thbug7/medish.jpg"></center>
+  
+非诚勿扰の索桥：
+<center><img src="http://pic.yupoo.com/asuka4j/D4TgGtcS/medish.jpg"></center>
+
+对面就是核潜艇基地，走到这里就被哨兵拦下了：
+<center><img src="http://pic.yupoo.com/asuka4j/D4UMXOmv/medish.jpg"></center>
+  
+亚龙湾：
+<center><img src="http://pic.yupoo.com/asuka4j/D4UMJ474/medish.jpg"></center>
+  
+<center><img src="http://pic.yupoo.com/asuka4j/D4UNlSRT/medish.jpg"></center>
+    
 ###DAY4  
 今天也是蛮早就起来了，因为某人一直惦记着要到正儿八紧的海上游一次泳。今天的天气暴热，很多人都是窝在沙滩旁的躺椅上看书睡觉，就我俩傻不拉几地直接杀入水中。看某人玩的甚是Happy，我也不好阻拦了，晒黑就晒黑吧，难得下一次海呢。在这里发现老外带小孩是超级放心，母亲在岸边和人闲聊，就任由10几岁的女儿抱着几岁的小女儿往水里去，连个游泳圈都不带。不像旁边的中国家庭，不是爷爷抱一会就是妈妈抱一会，总之人不离手。  
 下午继续前往市区探险+觅食。先是打车到椰海长廊，逛逛三亚三大湾的最有一个。到了才发现也是污染最严重的一个湾，可能是最靠近市区的关系，这里到处是垃圾和排污口，即使不脱鞋走着都不大舒服。在这里被狠狠地雷了一下：一对男女披着酒店浴巾就出来逛沙滩了，背后看去好是叱咤。  
 今天徒步的量可不算小，我们直接从椰梦长廊走到第一海鲜市场，然后又走到渔人码头，接着走到海岸边看夜里的凤凰岛。真佩服某人的脚力，不由得让我想起了学生时代一起从春熙路走到火车南站的惊险历程。今天算是累坏了，可能也是明天就要返程的缘故，两人多多少少有点心理波动，同时也在盘算着最后一天怎么安排比较划算。  
+  
+可爱的外国小孩：  
+<center><img src="http://pic.yupoo.com/asuka4j/D4TjoY5T/medish.jpg"></center>
+  
+霹雳二人组，目测批的是酒店的浴巾：
+<center><img src="http://pic.yupoo.com/asuka4j/D4Thn40g/medish.jpg"></center>
+  
+面朝凤凰岛，春暖花开：
+<center><img src="http://pic.yupoo.com/asuka4j/D4UNRVaV/medish.jpg"></center>  
+  
+黄昏时分的渔人码头：
+<center><img src="http://pic.yupoo.com/asuka4j/D4ThBeB7/medish.jpg"></center>
+  
+凤凰岛：
+<center><img src="http://pic.yupoo.com/asuka4j/D4TjYNCS/medish.jpg"></center>
+  
+<center><img src="http://pic.yupoo.com/asuka4j/D4ThQYrH/medish.jpg"></center>  
   
 ###DAY5  
 半夜里想到一个比较休闲的方案，后来也就基本按这个步骤执行了：吃完最后一顿饕餮早餐后，到园区享受最后一次私人泳池。中午退房后在大堂沙发上休息休息，顺手开始整理照片和游记（我才知道为什么这么多人在大堂休闲了，是舍不得走啊）。待到傍晚直接到机场。  
