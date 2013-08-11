@@ -44,4 +44,3 @@ more&nbsp;<a href="http://weibo.com/Asuka4J"><font color="#EB6202">weibo</font><
   {% endfor %}
 </ul>
 
-aa
