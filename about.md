@@ -21,8 +21,7 @@ tagline: "Blog, Me and Hobbies"
         <td>
 </br>
 <font size="5">Me</font></br>
-郑嘉庆，常用网络ID：Asuka4J。见习「听音乐家」「看漫画家」「无思想家」「被摄影师」，为人言寡、思深、性善、不苟，略懂点架构、略有点美感。广东粤东人士，生活在广东揭阳、四川成都、浙江杭州、北京上地、上海浦东，从事互联网领域的研发工作，就职于<a href="http://www.alipay.com">支付宝</a>、<a href="http://www.baidu.com">百度</a>、<a href="http://www.lufax.com">陆金所</a>任架构师。个人兴趣不算广，在快节奏的现代生活模式下，对<del>ACG、PsGame、WWF、绘画</de>、高达模型、慢跑、自助游还保留着点点兴趣，如有相同品好，欢迎多多交流与指教。</br>
-*2012摄于香格里拉普达措国家森林公园盘山公路
+郑嘉庆，常用网络ID：Asuka4J。见习「听音乐家」「看漫画家」「无思想家」「被摄影师」，为人言寡、思深、性善、不苟，略懂点架构、略有点美感。广东粤东人士，生活在广东揭阳、四川成都、浙江杭州、北京上地、上海浦东，从事互联网领域的研发工作，就职于<a href="http://www.alipay.com">支付宝</a>、<a href="http://www.baidu.com">百度</a>、<a href="http://www.lufax.com">陆金所</a>任架构师。个人兴趣不算广，在快节奏的现代生活模式下，对<del>ACG、PsGame、WWF、绘画</del>、高达模型、慢跑、自助游还保留着点点兴趣，如有相同品好，欢迎多多交流与指教。</br>
 <center><img src="http://pic.yupoo.com/asuka4j/D3OeGtHa/medium.jpg"/></center>
         </td>
         </tr>
