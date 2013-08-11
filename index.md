@@ -36,7 +36,7 @@ more&nbsp;<a href="http://weibo.com/Asuka4J"><font color="#EB6202">weibo</font><
 </br>
 </br>
 </br>
-</br>
+</br>  
 ### Recent Post
 <ul class="postsList">
   {% for post in site.posts %}
