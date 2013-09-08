@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "事务（三）两阶段提交"
+title: "事务（三）Spring的事务管理"
 description: ""
 category: tech
-tags: []
+tags: [tx, 分布式系统]
 ---
 {% include JB/setup %}

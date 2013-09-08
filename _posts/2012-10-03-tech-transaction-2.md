@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "事务（二）Spring事务管理"
+title: "事务（二）本地事务"
 description: ""
 category: tech
-tags: []
+tags: [tx, 分布式系统]
 ---
 {% include JB/setup %}

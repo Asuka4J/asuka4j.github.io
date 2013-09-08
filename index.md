@@ -19,7 +19,7 @@ Thought fragments about: life, programming,</br>
 workthinking, reading and hobbies.</br>
 <!--&amp;</br>-->
 blog&nbsp;<a href="http://jiaqing.me"><font color="#EB6202">jiaqing.me</font></a>,&nbsp;email&nbsp;<a href="mailto:asuka4j@gmail.com"><font color="#EB6202">asuka4j@gmail.com</font></a>&nbsp;</br>
-more&nbsp;<a href="http://weibo.com/Asuka4J"><font color="#EB6202">weibo</font></a>,&nbsp;<a href="http://www.douban.com/people/Asuka4J/"><font color="#EB6202">douban</font></a>,&nbsp;<a href="http://www.codoon.com/p/asuka4j"><font color="#EB6202">codoon</font></a>,&nbsp;<a href="http://www.yupoo.com/photos/asuka4j/albums/"><font color="#EB6202">yupoo</font></a>,&nbsp;<a href="http://instagram.com/asuka4j"><font color="#EB6202">instagram</font></a>,&nbsp;<a href="http://www.linkedin.com/pub/jiaqing-zheng/3a/b10/966"><font color="#EB6202">linkedin</font></a></br>
+more&nbsp;<a href="http://weibo.com/Asuka4J"><font color="#EB6202">weibo</font></a>,&nbsp;<a href="http://www.douban.com/people/Asuka4J/"><font color="#EB6202">douban</font></a>,&nbsp;<a href="http://huaban.com/null/"><font color="#EB6202">huaban</font></a>&nbsp;<a href="http://www.codoon.com/p/asuka4j"><font color="#EB6202">codoon</font></a>,&nbsp;<a href="http://www.yupoo.com/photos/asuka4j/albums/"><font color="#EB6202">yupoo</font></a>,&nbsp;<a href="http://instagram.com/asuka4j"><font color="#EB6202">instagram</font></a>,&nbsp;<a href="http://www.linkedin.com/pub/jiaqing-zheng/3a/b10/966"><font color="#EB6202">linkedin</font></a></br>
 <img id="jiaqinglogoline" src="http://pic.yupoo.com/asuka4j/D2EHePXh/medish.jpg"/>&nbsp;&nbsp;</br>
 </center>
 </br>
