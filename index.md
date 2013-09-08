@@ -17,7 +17,7 @@
 <center>
 <img id="jiaqinglogoline" src="http://pic.yupoo.com/asuka4j/D2EHePXh/medish.jpg"/>&nbsp;&nbsp;</br>
 <strong>Think (a little) Different&nbsp;&nbsp;</strong></br>
-This is Jiaqing's mind notes about: </br>
+This is Jiaqing's thought notes about: </br>
 life, programming, workthinking, reading and hobbies.</br>
 blog&nbsp;<a href="http://jiaqing.me"><font color="#EB6202">jiaqing.me</font></a>,&nbsp;email&nbsp;<a href="mailto:asuka4j@gmail.com"><font color="#EB6202">asuka4j@gmail.com</font></a>&nbsp;</br>
 <a href="http://weibo.com/Asuka4J"><font color="#EB6202">weibo</font></a>, <a href="http://www.douban.com/people/Asuka4J/"><font color="#EB6202">douban</font></a>, <a href="http://huaban.com/null/"><font color="#EB6202">huaban</font></a>, <a href="http://www.codoon.com/p/asuka4j"><font color="#EB6202">codoon</font></a>, and <a href="http://jiaqing.me/links.html"><font color="#EB6202">more</font></a>.</br>
