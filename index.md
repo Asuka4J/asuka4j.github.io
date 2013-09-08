@@ -16,11 +16,11 @@
 <center><img id="9EE382F35E616D3ED837772593F8B767" src="http://pic.yupoo.com/asuka4j/D2C98pNC/medish.jpg" /></center>
 <center>
 <img id="jiaqinglogoline" src="http://pic.yupoo.com/asuka4j/D2EHePXh/medish.jpg"/>&nbsp;&nbsp;</br>
-<strong>Jiaqing's Foolish Thoughts&nbsp;&nbsp;</strong></br>
-Thought fragments about: life, programming,</br>
-workthinking, reading and hobbies.</br>
-blog&nbsp;<a href="http://jiaqing.me"><font color="#EB6202">jiaqing.me</font></a>,&nbsp;email&nbsp;<a href="mailto:asuka4j@gmail.com"><font color="#EB6202">asuka4j@gmail.com</font></a>&nbsp;</br>
-more&nbsp;<a href="http://weibo.com/Asuka4J"><font color="#EB6202">weibo</font></a>,&nbsp;<a href="http://www.douban.com/people/Asuka4J/"><font color="#EB6202">douban</font></a>,&nbsp;<a href="http://huaban.com/null/"><font color="#EB6202">huaban</font></a>,&nbsp;<a href="http://www.codoon.com/p/asuka4j"><font color="#EB6202">codoon</font></a>,&nbsp;<a href="http://www.yupoo.com/photos/asuka4j/albums/"><font color="#EB6202">yupoo</font></a>,&nbsp;<a href="http://instagram.com/asuka4j"><font color="#EB6202">instagram</font></a>,&nbsp;<a href="http://www.linkedin.com/pub/jiaqing-zheng/3a/b10/966"><font color="#EB6202">linkedin</font></a></br>
+<strong>Think (A Little) Different&nbsp;&nbsp;</strong></br>
+This is Jiaqing's mind notes about: </br>
+life, programming, workthinking, reading and hobbies.</br>
+Links: blog&nbsp;<a href="http://jiaqing.me"><font color="#EB6202">jiaqing.me</font></a>,&nbsp;email&nbsp;<a href="mailto:asuka4j@gmail.com"><font color="#EB6202">asuka4j@gmail.com</font></a>&nbsp;</br>
+<a href="http://weibo.com/Asuka4J"><font color="#EB6202">weibo</font></a>,&nbsp;<a href="http://www.douban.com/people/Asuka4J/"><font color="#EB6202">douban</font></a>,&nbsp;<a href="http://huaban.com/null/"><font color="#EB6202">huaban</font></a>,&nbsp;<a href="http://www.codoon.com/p/asuka4j"><font color="#EB6202">codoon</font></a>,&nbsp;<a href="http://www.yupoo.com/photos/asuka4j/albums/"><font color="#EB6202">yupoo</font></a>,&nbsp;<a href="http://instagram.com/asuka4j"><font color="#EB6202">instagram</font></a>,&nbsp;<a href="http://www.linkedin.com/pub/jiaqing-zheng/3a/b10/966"><font color="#EB6202">linkedin</font></a>.</br>
 <img id="jiaqinglogoline" src="http://pic.yupoo.com/asuka4j/D2EHePXh/medish.jpg"/>&nbsp;&nbsp;</br>
 </center>
 </br>
