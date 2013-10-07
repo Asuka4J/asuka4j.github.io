@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "城市印象：常州"
-description: "江南的温泉、恐龙、过山车"
+tagline: "江南的温泉、恐龙、过山车"
+description: ""
 category: life
 tags: [游记]
 ---
