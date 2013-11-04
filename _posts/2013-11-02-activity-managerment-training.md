@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "活动小记：拓展训练"
+title: "活动小记：管理培训"
 tagline: ""
 description: ""
 category: working
-tags: [团队活动]
+tags: [培训]
 ---
 {% include JB/setup %}
-
