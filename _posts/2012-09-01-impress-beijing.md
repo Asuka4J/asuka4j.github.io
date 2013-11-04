@@ -4,7 +4,7 @@ title: "城市印象：北京"
 tagline: "北国风光，天圆地方"
 description: ""
 category: life
-tags: [游记]
+tags: [游记,北京]
 ---
 {% include JB/setup %}
 ###序

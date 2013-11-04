@@ -4,7 +4,7 @@ title: "城市印象：潮州"
 tagline: ""
 description: ""
 category: life
-tags: [游记]
+tags: [游记,潮州]
 ---
 {% include JB/setup %}
 ###序

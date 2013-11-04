@@ -4,7 +4,7 @@ title: "城市印象：黄山"
 tagline: "五岳归来不看山，黄山归来不看岳"
 description: ""
 category: life
-tags: [游记]
+tags: [游记,黄山]
 ---
 {% include JB/setup %}
 ###序

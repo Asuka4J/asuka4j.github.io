@@ -4,7 +4,7 @@ title: "城市印象：北戴河"
 tagline: "北国夏夜的海鲜、街景和沙滩"
 description: ""
 category: life
-tags: [游记]
+tags: [游记,北戴河]
 ---
 {% include JB/setup %}
 ###序

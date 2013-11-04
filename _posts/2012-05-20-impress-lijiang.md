@@ -4,7 +4,7 @@ title: "城市印象：丽江"
 tagline: "纳西居民、柔软时光、古城艳遇"
 description: ""
 category: life
-tags: [游记]
+tags: [游记,丽江]
 ---
 {% include JB/setup %}
 ###序  

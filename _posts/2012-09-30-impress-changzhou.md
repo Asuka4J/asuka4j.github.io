@@ -4,7 +4,7 @@ title: "城市印象：常州"
 tagline: "江南的温泉、恐龙、过山车"
 description: ""
 category: life
-tags: [游记]
+tags: [游记,常州]
 ---
 {% include JB/setup %}
 ###序
