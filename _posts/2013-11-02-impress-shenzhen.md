@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "城市印象：深圳老友记"
+title: "城市印象：深圳2nd"
 tagline: "市区闲逛，会友闲聊"
 description: ""
 category: life
