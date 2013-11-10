@@ -65,6 +65,62 @@ tags: [游记,北京]
 <img src="http://pic.yupoo.com/asuka4j/Bsx7MBQa/medish.jpg"/>
 </center>
 </br>
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiLdLlLC/medish.jpg"/>
+</center>
+</br>
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiLeiF59/medish.jpg"/>
+</center>
+</br>
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiLf2g8G/medish.jpg"/>
+</center>
+</br>
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiLfobIK/medish.jpg"/>
+</center>
+</br>
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiLfCBPw/medish.jpg"/>
+</center>
+</br>
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiLeAZvZ/medish.jpg"/>
+</center>
+</br>
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiLfPWb1/medish.jpg"/>
+</center>
+</br>
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiLg0zJ6/medish.jpg"/>
+</center>
+</br>
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiLgLovA/medish.jpg"/>
+</center>
+</br>
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiLh0CcV/medish.jpg"/>
+</center>
+</br>
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiLhIrI7/medish.jpg"/>
+</center>
+</br>
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiLhv1VN/medish.jpg"/>
+</center>
+</br>
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiLi2llP/medish.jpg"/>
+</center>
+</br>
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiLivF3X/medish.jpg"/>
+</center>
+</br>
 ###鸟巢、水立方
 北京人很讲究天圆地方，鸟巢和水立方也是这一理念的实例化：在奥体中心的中轴线上，鸟巢在东，水立方在西。鸟巢的外围是全钢筋结构，内部是一个露天的足球场。其实也不是完全露天，据说鸟巢顶上有一层可伸缩的XX透明镀膜，雨天可以挡雨。在鸟巢里面我最感兴趣的是拿一排排整齐的红色座椅，从某些角度看来，很有感觉。与鸟巢的定位不同，水立方内部除了比赛用泳池外，还有个对市民开放的泳池，游客也可在二楼透过玻璃墙壁窥探个究竟：确实有很多北京大老爷带着儿孙在里面嬉戏畅游。在水立方里面，最喜欢的是它整体上白底蓝边的设计，连扶手电梯也是这样，看起来非常干净。  
 
@@ -101,23 +157,39 @@ tags: [游记,北京]
 
 值得一提的是，五道口果真是看妹子的好去处，人行道上，咖啡厅里，购物中心里，各种眼福。  
 <center>
-<img src=""/>
+<img src="http://pic.yupoo.com/asuka4j/DiLjAnGQ/medish.jpg"/>
 </center>
   </br>
 <center>
-<img src=""/>
+<img src="http://pic.yupoo.com/asuka4j/DiLjQ2Ty/medish.jpg"/>
 </center>
   </br>
 <center>
-<img src=""/>
+<img src="http://pic.yupoo.com/asuka4j/DiLkbF9j/medish.jpg"/>
 </center>
   </br>
 <center>
-<img src=""/>
+<img src="http://pic.yupoo.com/asuka4j/DiLkIP40/medish.jpg"/>
+</center>
+  </br>
+  <center>
+<img src="http://pic.yupoo.com/asuka4j/DiLkppvl/medish.jpg"/>
+</center>
+  </br>
+  <center>
+<img src="http://pic.yupoo.com/asuka4j/DiLlFlIp/medish.jpg"/>
+</center>
+  </br>
+  <center>
+<img src="http://pic.yupoo.com/asuka4j/DiLkZvxc/medish.jpg"/>
 </center>
   </br>
 <center>
-<img src=""/>
+<img src="http://pic.yupoo.com/asuka4j/DiLljQTQ/medish.jpg">
+</center>
+</br>
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiLa1AbI/medish.jpg"/>
 </center>
 </br>
 ###798艺术区
@@ -126,21 +198,33 @@ tags: [游记,北京]
 也是在这里我第一次见到一种叫陶笛的笛子。陶器制品，接近球状，吹起时通过控制各个气孔的开和关来发出不同的声音。鉴于店主吹的出神入化，楚楚动人，我也花了些票子买了一个，打算作为手信送给yokowinds。  
 
 <center>
-<img src=""/>
+<img src="http://pic.yupoo.com/asuka4j/DiL5aV6F/medish.jpg"/>
 </center>
   </br>
 <center>
-<img src=""/>
+<img src="http://pic.yupoo.com/asuka4j/DiL5skdm/medish.jpg"/>
 </center>
   </br>
 <center>
-<img src=""/>
+<img src="http://pic.yupoo.com/asuka4j/DiL4RWMK/medish.jpg"/>
 </center>
   </br>
 <center>
-<img src=""/>
+<img src="http://pic.yupoo.com/asuka4j/DiL4Cpc8/medish.jpg"/>
 </center>
   </br>
+  <center>
+<img src="http://pic.yupoo.com/asuka4j/DiL5YexB/medish.jpg"/>
+</center>
+</br>
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiL4l2o4/medish.jpg"/>
+</center>
+</br>
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiL6d4FI/medish.jpg">
+</center>
+</br>
 ###奥林匹克公园、夜游鸟巢水立方
 奥体公园很大，整体上分为自然原生态的北园和人工景点居多的南园，中间被北五环路分隔，绕全园一圈需要走十公里。考虑体力成本，我这次走的是南园路线，也就是绕着南园走了五公里。总体来说，这里景色都非常漂亮，也正值秋日，不同属性的植物呈现了不同的景观，有成片的红叶，有满地的金黄落叶，也有依旧提拔的绿叶。园区有人也不少，从装备上判断很多都是本地人，就是周末过来亲子游的。比较意外的是，南园沿着园区外圈，竟然铺设了一条大约两米宽的塑胶跑道，果真是“奥体”公园啊。  
 
@@ -202,36 +286,44 @@ tags: [游记,北京]
 </center>
   </br>
 <center>
-<img src=""/>
+<img src="http://pic.yupoo.com/asuka4j/DiL6pJs1/medish.jpg"/>
 </center>
   </br>
 <center>
-<img src=""/>
+<img src="http://pic.yupoo.com/asuka4j/DiL82rEP/medish.jpg"/>
 </center>
   </br>
 <center>
-<img src=""/>
+<img src="http://pic.yupoo.com/asuka4j/DiL76Yj4/medish.jpg"/>
+</center>
+</br>
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiL8qwLK/medish.jpg">
+</center>
+</br>
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiL7LTjT/medish.jpg">
+</center>
+</br>
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiL9x9R6/medish.jpg">
+</center>
+</br>
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiL8L7ke/medish.jpg">
+</center>
+</br>
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiL6KMno/medish.jpg">
+</center>
+</br>
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiLiiYtp/medish.jpg">
 </center>
 </br>
 ###全聚德、夜游后海酒吧街
 第一次长差是大约两个月时间，因为长时间在酒店住着实在无聊，yokowinds中途还特意请了几天假探亲来了。这几点基本上是，工作日我照常上班，yokowinds自己挑一些景点逛，周五晚上和周末我们就一起逛。第一站是全聚德，一看就是吃货挑的地儿。周五晚上还算是工作日的范畴，我们7点多到达五道口全聚德的时候，还看到不少工作关系的人在这应酬。排了半小时队之后，终于轮到我们开吃。话说他家烤鸭的吃法还真讲究，鸭肉火烤，鸭皮还单独剥下来油炸。味道特香，但也容易腻。酒足饭饱之后，我俩直接打车到后海夜游（上车才发现五道口到后海还真心远，我的打车钱啊）。这个店来后海还真是时候，湖光照应下，整个后海是灯光璀璨，人声鼎沸。
   
-<center>
-<img src=""/>
-</center>
-  </br>
-<center>
-<img src=""/>
-</center>
-  </br>
-<center>
-<img src=""/>
-</center>
-  </br>
-<center>
-<img src=""/>
-</center>
-</br>
 ###香山、东来顺、三里屯Village
 据说深秋的香山，漫山的树叶会逐层变红，最后枯黄脱落，最壮观的是漫山红叶的时候。因为这个时间窗口很短，大概只有两周时间，北京气象台每年还有红叶倒计时的专题供市民参考。这次我们也是憧憬着漫山红叶去的，加上香山这个名字听起来也文艺，于是扛住了足足28站的运通112路公交车达到终点站，但到了香山公园有两个事情比较纳闷，第一，人山人海，第二，红叶已经落的差不多了。坑爹啊！！更具多次爬山的经历，我们还是选择缆车上山（其实从来就没徒步爬过）。这缆车到是有点意思，属于露天缆车，一路上就像自己踩在树顶上走过一样，当然也有些路段感觉是踩在登山的游人头山。到达山顶依然人山人海，依然没有红叶。无奈之下只能东逛逛西逛逛，然后找了条稍微幽静的路线徒步往回走。鉴于登山的人这么多，回程的人也是可以预见的，果不其然，回程的公交站早就挤满了人。我们挑了条开往五道口的线路，然后就是漫长的排队，人挤人上车。  
 
@@ -269,25 +361,9 @@ tags: [游记,北京]
 因为今天逛的几个地方都很不错，晚上7点我俩任然兴致高昂，可能也和隔天yokowinds就要先回上海的关系，我俩还是依依不舍地继续往北走。前门北面自然就是天安门广场了，夜里的天安门，长安街也确实另有一番风味，不像白天那么严肃，又不失美感。  
   
 <center>
-<img src=""/>
+<img src="http://pic.yupoo.com/asuka4j/DiL9jLdo/medish.jpg"/>
 </center>
   </br>
-<center>
-<img src=""/>
-</center>
-  </br>
-<center>
-<img src=""/>
-</center>
-  </br>
-<center>
-<img src=""/>
-</center>
-  </br>
-<center>
-<img src=""/>
-</center>
-</br>
 ###长城
 yokowinds回上海后，我又孤身奋战在踏遍北京城的伟大进程中，这次是城郊的长城，确切的说是八达岭长城。这也是我在北京正真意义上被坑的一次。提前一天查阅攻略得知，北京西站有列车直达长城，于是次日就直接杀到北京西站，无奈来的点不是时候，早上的班次已经开走，下一趟要等到中午过后了。无奈我只能即时搜索一番，发现里西站不远的德胜门也是一个旅游集散地，有很多去长城的班次，于是急速转战德胜门。就在德胜门的某处，一辆挂着长城一日游的散客大巴吸引了我的注意。据介绍，包来回，包晚餐，七十软妹币一人，想想蛮划算，就上车了。在等了大半小时集满半车旅客之后，大巴启动出发，杯具也随之发生。第一站，我们被拉到了市郊的一个玉石中心，在里面闲逛了大概有一小时！旅游公司要赚钱可以理解，但如果说第一个问题可以忍，第二个就真的把我逼走了。大巴车把我们拉到了长城脚下，但刚下车就发现不对劲，人家拍的长城都是在群山上连绵不绝的感觉，眼前的长城怎么是从平地开始修建，一节一节的台阶直到约莫五十米高的山顶，然后就沿着另一侧下山了？！我又不是来爬楼梯的！！跟导游小理论一番之后，自觉在这荒郊野岭也无计可施，于是我直接退团了。团费不要了，晚饭不要了，回程也不用管我了，重新搜索攻略，然后搭上了去往八达岭的公交车。奇怪的是，大半车的游客，出了我之外只有另外一个拎着一大包时尚杂志的小年轻退团，其它人都乖乖地跟着黑导游的指示去爬台阶去了。  
 
@@ -352,7 +428,10 @@ yokowinds回上海后，我又孤身奋战在踏遍北京城的伟大进程中�
 <img src="http://pic.yupoo.com/asuka4j/By6ydBNz/medish.jpg"/>
 </center>
 </br>
-
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiLacXjG/medish.jpg">
+</center>
+</br>
 ###后记
 在可遇见的未来，我是暂时来不了北京了。通过这些景点游历，也算是对北京有了一点点了解。微博上流传的这段关于对北京生活的调侃，在自己亲身体会之后，还是蛮赞同的，你们可以感受下：  
 
