@@ -8,8 +8,11 @@ tags: [游记,深圳,老友]
 ---
 {% include JB/setup %}
 <center>
-<img src="http://pic.yupoo.com/asuka4j/DiIqaYQ7/medish.jpg"></img>
+<img src="http://pic.yupoo.com/asuka4j/DiIu9vvY/medish.jpg"></img>
+</br>
+题图：构建中的深圳
 </center>
+  
   
 沾了这次到深圳培训的光，这个周末我自费在深圳多待了两天，主要是联络以前的老友，有高中同学，有支付宝的前同事，有百度的前同事。从周五晚上算起，两天共跑了五趟，除了身体比较疲惫之外，真是大满足。  
 
