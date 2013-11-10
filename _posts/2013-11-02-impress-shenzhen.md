@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "城市印象：深圳2nd"
-tagline: "深圳初体验，老友聊翻天"
+tagline: "市区初体验，老友聊翻天"
 description: ""
 category: life
 tags: [游记,深圳,老友]
