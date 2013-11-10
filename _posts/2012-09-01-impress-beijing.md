@@ -405,7 +405,30 @@ yokowinds回上海后，我又孤身奋战在踏遍北京城的伟大进程中�
 
 ###中央电视塔
 有次本想去见识央视大裤衩，但考虑交通不太便利，就选了与其正对面的中央电视塔。因为塔内的设计并不复杂，这里就不细说了。比较震撼的是抵达塔顶天台的时候，整个北京城真是净收眼底，相当壮观。另外电视塔底部是一个海洋馆，但没有进去。  
-
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiLJMX0v/medish.jpg">
+</center>
+</br>
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiLLyjFC/medish.jpg">
+</center>
+</br>
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiLLqqL9/medish.jpg">
+</center>
+</br>
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiLLlgUl/medish.jpg">
+</center>
+</br>
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiLLgI04/medish.jpg">
+</center>
+</br>
+<center>
+<img src="http://pic.yupoo.com/asuka4j/DiLL9Tef/medish.jpg">
+</center>
+</br>
 ###朝阳公园
 记得是从11年末12年初的时候，朝阳公园在微博上就变成了远近闻名的约架胜地。另外也听闻过朝阳区的富饶，于是在北京最后一次出行就去了朝阳公园。朝阳公园应该算是比较老的区块，总体来说没有什么特别有意思的点，不过也是秉承了京城大气豪迈的风格，一逛就是一下午。
   
