@@ -3,7 +3,7 @@ layout: post
 title: "我的家庭数据同步方案"
 description: "云时代的个人存储"
 category: tech
-tags: [云]
+tags: [云,闲扯]
 ---
 {% include JB/setup %}
 <p>
