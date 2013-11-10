@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "活动小记：GMO管理课程"
-tagline: "浅尝管理实践，初探平安文化"
+title: "活动小记：增长型经理培训"
+tagline: ""
 description: ""
 category: working
 tags: [培训,深圳]
