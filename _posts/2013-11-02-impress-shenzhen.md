@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "城市印象：深圳2nd"
-tagline: "生活初体验，老友聊翻天"
+tagline: "深圳初体验，老友聊翻天"
 description: ""
 category: life
 tags: [游记,深圳,老友]
@@ -11,6 +11,7 @@ tags: [游记,深圳,老友]
 <img src="http://pic.yupoo.com/asuka4j/DiIu9vvY/medish.jpg"></img>
 </br>
 题图：构建中的深圳
+·
 </center>
   
   
