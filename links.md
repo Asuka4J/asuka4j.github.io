@@ -8,7 +8,7 @@ tagline: "about my Social Network"
 **微博:** [http://weibo.com](http://weibo.com/asuka4j)  
 主要关注身边朋友和技术信息为主，偶尔也会发一点日常的碎碎念  
 
-**知乎:** [http://zhihu.com](http://zhihu.com/people/Asuka4J)  
+**知乎:** [http://zhihu.com](http://www.zhihu.com/collection/19600136)  
 收藏了一些互联网见闻，自知造诣尚浅，不敢妄自答题  
 
 **豆瓣:** [http://douban.com](http://douban.com/people/Asuka4J)  
@@ -20,7 +20,7 @@ tagline: "about my Social Network"
 **花瓣:** [http://huaban.com](http://huaban.com/null)  
 我的网络图片收藏夹，采集了一些日常在网页上浏览到的图片素材  
 
-**虾米:** [http://xiami.com](http://www.xiami.com/u/214874)  
+**虾米:** [http://xiami.com](http://www.xiami.com/space/collect/u/214874?spm=a1z1s.6626009.229054153.5.56hILI)  
 对中文歌曲无感，比较喜欢NewAge风格的钢琴曲，目前大爱「久石让」和「Ludovico」  
 
 **咕咚:** [http://codoon.com](http://www.codoon.com/p/asuka4j)  
